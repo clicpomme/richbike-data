@@ -1361,5 +1361,199 @@
       "weight": "380g",
       "technology": "Single speed 1/2\" x 1/8\" Track/Fixie ultra-résistant"
     }
+  },
+  "Deore XT M8100": {
+    "speeds": 12,
+    "rdRear": {
+      "partNumber": "RD-M8100-SGS",
+      "weight": "328g",
+      "cageLength": "Long (SGS)",
+      "maxCassette": "51t",
+      "capacity": {
+        "max": "47t",
+        "maxCassette": "51t",
+        "minCassette": "10t"
+      }
+    },
+    "rdFront": {
+      "partNumber": "FD-M8100",
+      "weight": "113g",
+      "mounting": "Side-swing"
+    },
+    "cassette": {
+      "partNumber": "CS-M8100",
+      "options": [
+        "10-45",
+        "10-51"
+      ],
+      "speeds": "12v",
+      "weight": "461g",
+      "technology": "Hyperglide+"
+    }
+  },
+  "SLX M7100": {
+    "speeds": 12,
+    "rdRear": {
+      "partNumber": "RD-M7100-SGS",
+      "weight": "352g",
+      "cageLength": "Long (SGS)",
+      "maxCassette": "51t",
+      "capacity": {
+        "max": "47t",
+        "maxCassette": "51t",
+        "minCassette": "10t"
+      }
+    },
+    "cassette": {
+      "partNumber": "CS-M7100",
+      "options": [
+        "10-51"
+      ],
+      "speeds": "12v",
+      "weight": "534g",
+      "technology": "Hyperglide+"
+    }
+  },
+  "Deore M6100": {
+    "speeds": 12,
+    "rdRear": {
+      "partNumber": "RD-M6100-SGS",
+      "weight": "378g",
+      "cageLength": "Long (SGS)",
+      "maxCassette": "51t",
+      "capacity": {
+        "max": "47t",
+        "maxCassette": "51t",
+        "minCassette": "10t"
+      }
+    },
+    "cassette": {
+      "partNumber": "CS-M6100",
+      "options": [
+        "10-51"
+      ],
+      "speeds": "12v",
+      "weight": "563g",
+      "technology": "Hyperglide+"
+    }
+  },
+  "Deore XT M8000": {
+    "speeds": 11,
+    "rdRear": {
+      "partNumber": "RD-M8000-SGS",
+      "weight": "268g",
+      "cageLength": "Long (SGS)",
+      "maxCassette": "46t",
+      "capacity": {
+        "max": "45t",
+        "maxCassette": "46t",
+        "minCassette": "11t"
+      }
+    },
+    "rdFront": {
+      "partNumber": "FD-M8000",
+      "weight": "100g",
+      "mounting": "Side-swing"
+    },
+    "cassette": {
+      "partNumber": "CS-M8000",
+      "options": [
+        "11-40",
+        "11-42",
+        "11-46"
+      ],
+      "speeds": "11v",
+      "weight": "390g",
+      "technology": "Hyperglide"
+    }
+  },
+  "SLX M7000": {
+    "speeds": 11,
+    "rdRear": {
+      "partNumber": "RD-M7000-SGS",
+      "weight": "295g",
+      "cageLength": "Long (SGS)",
+      "maxCassette": "46t",
+      "capacity": {
+        "max": "45t",
+        "maxCassette": "46t",
+        "minCassette": "11t"
+      }
+    },
+    "cassette": {
+      "partNumber": "CS-M7000",
+      "options": [
+        "11-42"
+      ],
+      "speeds": "11v",
+      "weight": "465g",
+      "technology": "Hyperglide"
+    }
+  },
+  "Deore M5100": {
+    "speeds": 11,
+    "rdRear": {
+      "partNumber": "RD-M5100-SGS",
+      "weight": "320g",
+      "cageLength": "Long (SGS)",
+      "maxCassette": "51t",
+      "capacity": {
+        "max": "47t",
+        "maxCassette": "51t",
+        "minCassette": "11t"
+      }
+    },
+    "cassette": {
+      "partNumber": "CS-M5100",
+      "options": [
+        "11-42",
+        "11-51"
+      ],
+      "speeds": "11v",
+      "weight": "534g",
+      "technology": "Hyperglide"
+    }
+  },
+  "Dura-Ace R9200 (Di2)": {
+    "speeds": 12,
+    "rdRear": {
+      "partNumber": "RD-R9250-Di2",
+      "weight": "215g",
+      "cageLength": "Short/Medium",
+      "maxCassette": "34t",
+      "type": "Di2 électronique",
+      "capacity": {
+        "max": "34t",
+        "maxCassette": "34t",
+        "minCassette": "11t"
+      }
+    },
+    "rdFront": {
+      "partNumber": "FD-R9250-Di2",
+      "weight": "90g",
+      "mounting": "Braze-on",
+      "type": "Di2 électronique"
+    }
+  },
+  "Ultegra R8100 (Di2)": {
+    "speeds": 12,
+    "rdRear": {
+      "partNumber": "RD-R8150-Di2",
+      "weight": "227g",
+      "cageLength": "Short/Medium",
+      "maxCassette": "34t",
+      "type": "Di2 électronique",
+      "capacity": {
+        "max": "34t",
+        "maxCassette": "34t",
+        "minCassette": "11t"
+      }
+    },
+    "rdFront": {
+      "partNumber": "FD-R8150-Di2",
+      "weight": "95g",
+      "mounting": "Braze-on",
+      "type": "Di2 électronique"
+    }
   }
 }

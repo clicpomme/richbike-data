@@ -1043,5 +1043,69 @@
       "weight": "155g",
       "type": "Trigger 12v"
     }
+  },
+  "Apex 1 (9v)": {
+    "speeds": 9,
+    "rdRear": {
+      "partNumber": "RD-APEX-1-9",
+      "weight": "298g",
+      "cageLength": "Long",
+      "maxCassette": "42t",
+      "type": "Mécanique 9v",
+      "capacity": {
+        "max": "42t",
+        "maxCassette": "42t",
+        "minCassette": "11t"
+      }
+    },
+    "cassette": {
+      "partNumber": "PG-920",
+      "options": [
+        "11-32",
+        "11-36"
+      ],
+      "speeds": "9v",
+      "weight": "340g"
+    }
+  },
+  "X7 (9v)": {
+    "speeds": 9,
+    "rdRear": {
+      "partNumber": "RD-X7-9",
+      "weight": "275g",
+      "cageLength": "Medium",
+      "maxCassette": "36t",
+      "type": "Mécanique 9v",
+      "capacity": {
+        "max": "36t",
+        "maxCassette": "36t",
+        "minCassette": "11t"
+      }
+    },
+    "rdFront": {
+      "partNumber": "FD-X7-9",
+      "weight": "102g",
+      "mounting": "Dual Pull"
+    }
+  },
+  "X3 (8v)": {
+    "speeds": 8,
+    "rdRear": {
+      "partNumber": "RD-X3-8",
+      "weight": "320g",
+      "cageLength": "Medium",
+      "maxCassette": "32t",
+      "type": "Mécanique 8v",
+      "capacity": {
+        "max": "32t",
+        "maxCassette": "32t",
+        "minCassette": "11t"
+      }
+    },
+    "rdFront": {
+      "partNumber": "FD-X3-8",
+      "weight": "115g",
+      "mounting": "Dual Pull"
+    }
   }
 }
