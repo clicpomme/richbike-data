@@ -59,7 +59,9 @@
       "partNumber": "FD-RED-eTap-AXS",
       "weight": "132g",
       "type": "Sans fil eTap AXS",
-      "mounting": "Braze-on"
+      "mounting": "Braze-on / Band",
+      "chainrings": "2x (double)",
+      "capacity": "13T"
     },
     "shifters": {
       "partNumber": "SL-RED-eTap-AXS",
@@ -134,7 +136,9 @@
       "partNumber": "FD-FRC-eTap-AXS",
       "weight": "145g",
       "type": "Sans fil eTap AXS",
-      "mounting": "Braze-on"
+      "mounting": "Braze-on / Band",
+      "chainrings": "2x (double)",
+      "capacity": "13T"
     },
     "shifters": {
       "partNumber": "SL-FRC-eTap-AXS",
@@ -209,7 +213,9 @@
       "partNumber": "FD-RIV-eTap-AXS",
       "weight": "158g",
       "type": "Sans fil eTap AXS",
-      "mounting": "Braze-on"
+      "mounting": "Braze-on / Band",
+      "chainrings": "2x (double)",
+      "capacity": "16T"
     },
     "shifters": {
       "partNumber": "SL-RIV-eTap-AXS",

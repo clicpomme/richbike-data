@@ -141,7 +141,10 @@
     "rdFront": {
       "partNumber": "FD-R9200",
       "weight": "90g",
-      "mounting": "Braze-on"
+      "mounting": "Braze-on / Band",
+      "chainrings": "2x (double)",
+      "capacity": "16T",
+      "type": "Mécanique"
     },
     "shifters": {
       "partNumber": "ST-R9250",
@@ -212,7 +215,10 @@
     "rdFront": {
       "partNumber": "FD-R8100",
       "weight": "95g",
-      "mounting": "Braze-on"
+      "mounting": "Braze-on / Band",
+      "chainrings": "2x (double)",
+      "capacity": "16T",
+      "type": "Mécanique"
     },
     "shifters": {
       "partNumber": "ST-R8170",
@@ -283,7 +289,10 @@
     "rdFront": {
       "partNumber": "FD-R7100",
       "weight": "107g",
-      "mounting": "Braze-on"
+      "mounting": "Braze-on / Band",
+      "chainrings": "2x (double)",
+      "capacity": "16T",
+      "type": "Mécanique"
     },
     "shifters": {
       "partNumber": "ST-R7170",
@@ -351,7 +360,10 @@
     "rdFront": {
       "partNumber": "FD-RX820",
       "weight": "110g",
-      "mounting": "Braze-on"
+      "mounting": "Braze-on / Band",
+      "chainrings": "2x (double)",
+      "capacity": "17T",
+      "type": "Di2 électronique"
     },
     "shifters": {
       "partNumber": "ST-RX820",
@@ -1529,10 +1541,12 @@
       }
     },
     "rdFront": {
-      "partNumber": "FD-R9250-Di2",
+      "partNumber": "FD-R9250",
       "weight": "90g",
-      "mounting": "Braze-on",
-      "type": "Di2 électronique"
+      "mounting": "Braze-on / Band",
+      "type": "Di2 électronique",
+      "chainrings": "2x (double)",
+      "capacity": "16T"
     }
   },
   "Ultegra R8100 (Di2)": {
@@ -1550,10 +1564,12 @@
       }
     },
     "rdFront": {
-      "partNumber": "FD-R8150-Di2",
+      "partNumber": "FD-R8150",
       "weight": "95g",
-      "mounting": "Braze-on",
-      "type": "Di2 électronique"
+      "mounting": "Braze-on / Band",
+      "type": "Di2 électronique",
+      "chainrings": "2x (double)",
+      "capacity": "16T"
     }
   }
 }
