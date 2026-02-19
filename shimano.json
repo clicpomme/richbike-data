@@ -1,0 +1,1365 @@
+{
+  "Dura-Ace 9200": {
+    "speeds": 12,
+    "category": "Route",
+    "level": "Pro",
+    "crank": {
+      "partNumber": "FC-R9200",
+      "chainrings": [
+        "54-40",
+        "52-36",
+        "50-34"
+      ],
+      "bcd": "110mm asymétrique",
+      "cranklengths": [
+        "160",
+        "165",
+        "170",
+        "172.5",
+        "175",
+        "177.5"
+      ],
+      "weight": "686g",
+      "material": "Carbone",
+      "axleType": "Hollowtech II (24mm)",
+      "compatibility": {
+        "cassettes": [
+          "Shimano 12v Route"
+        ],
+        "chains": [
+          "Shimano HG+ 12v",
+          "KMC X12"
+        ],
+        "bb": [
+          "SM-BB9200",
+          "SM-BB72",
+          "BSA/ITA"
+        ]
+      },
+      "features": [
+        "Bras carbone ultra-légers",
+        "Plateau Direct Mount",
+        "Rigidité optimale",
+        "Hollowtech II"
+      ],
+      "torqueSpecs": {
+        "crankBolt": "12-14 Nm",
+        "chainringBolts": "8-10 Nm",
+        "preload": "0.5-1 Nm puis 40°"
+      }
+    },
+    "cassette": {
+      "partNumber": "CS-R9200",
+      "options": [
+        "11-30",
+        "11-34",
+        "12-28"
+      ],
+      "speeds": "12v",
+      "weight": "215g",
+      "material": "Acier/Titane",
+      "technology": "Hyperglide+",
+      "freehubType": "Hyperglide (HG)",
+      "range": "273% (11-30t)",
+      "compatibility": {
+        "chains": [
+          "Shimano HG+ 12v",
+          "KMC X12"
+        ],
+        "derailleurs": [
+          "Shimano 12v Route"
+        ],
+        "freehubs": [
+          "HG 11/12v"
+        ]
+      },
+      "features": [
+        "Passage ultra-fluide sous charge",
+        "Construction Acier/Titane légère",
+        "Optimisée pour HG+"
+      ],
+      "torqueSpecs": {
+        "lockring": "40 Nm"
+      }
+    },
+    "bb": {
+      "partNumber": "SM-BB9200",
+      "standard": "BSA 68/70mm",
+      "axle": "24mm",
+      "axleType": "Hollowtech II",
+      "weight": "70g",
+      "material": "Aluminium",
+      "compatibility": {
+        "cranks": [
+          "Hollowtech II (Tiagra à Dura-Ace)"
+        ],
+        "frames": [
+          "BSA 68mm, 70mm"
+        ]
+      },
+      "features": [
+        "Roulements scellés",
+        "Ultra-léger",
+        "Installation facile"
+      ],
+      "torqueSpecs": {
+        "cups": "35-50 Nm"
+      }
+    },
+    "chain": {
+      "partNumber": "CN-M9100",
+      "links": "126",
+      "weight": "242g",
+      "material": "Acier traité",
+      "technology": "HG+ 12v",
+      "compatibility": {
+        "cassettes": [
+          "Shimano 12v"
+        ],
+        "derailleurs": [
+          "Shimano 12v"
+        ],
+        "speeds": "12v uniquement"
+      },
+      "features": [
+        "Attache rapide Quick-Link",
+        "Revêtement longévité",
+        "Passage fluide HG+"
+      ]
+    },
+    "rdRear": {
+      "partNumber": "RD-R9200",
+      "weight": "215g",
+      "cageLength": "Short/Medium",
+      "maxCassette": "34t",
+      "capacity": {
+        "max": "34t",
+        "maxCassette": "34t",
+        "minCassette": "11t"
+      }
+    },
+    "rdFront": {
+      "partNumber": "FD-R9200",
+      "weight": "90g",
+      "mounting": "Braze-on"
+    },
+    "shifters": {
+      "partNumber": "ST-R9250",
+      "weight": "280g (paire)",
+      "type": "Di2 électronique"
+    },
+    "brakes": {
+      "partNumber": "BR-R9270",
+      "weight": "320g",
+      "type": "Hydraulique",
+      "pistons": "4 pistons",
+      "mounting": "Flat Mount"
+    }
+  },
+  "Ultegra R8100": {
+    "speeds": 12,
+    "crank": {
+      "partNumber": "FC-R8100",
+      "chainrings": [
+        "54-40",
+        "52-36",
+        "50-34"
+      ],
+      "bcd": "110mm asymétrique",
+      "cranklengths": [
+        "165",
+        "170",
+        "172.5",
+        "175"
+      ],
+      "weight": "703g",
+      "compatibility": "12v"
+    },
+    "cassette": {
+      "partNumber": "CS-R8100",
+      "options": [
+        "11-30",
+        "11-34",
+        "12-28"
+      ],
+      "speeds": "12v",
+      "weight": "293g",
+      "technology": "Hyperglide+"
+    },
+    "bb": {
+      "partNumber": "SM-BB8100",
+      "standard": "BSA 68/70mm",
+      "axle": "24mm",
+      "weight": "74g"
+    },
+    "chain": {
+      "partNumber": "CN-M9100",
+      "links": "126",
+      "weight": "242g",
+      "technology": "HG+ 12v"
+    },
+    "rdRear": {
+      "partNumber": "RD-R8100",
+      "weight": "227g",
+      "cageLength": "Short/Medium",
+      "maxCassette": "34t",
+      "capacity": {
+        "max": "34t",
+        "maxCassette": "34t",
+        "minCassette": "11t"
+      }
+    },
+    "rdFront": {
+      "partNumber": "FD-R8100",
+      "weight": "95g",
+      "mounting": "Braze-on"
+    },
+    "shifters": {
+      "partNumber": "ST-R8170",
+      "weight": "280g (paire)",
+      "type": "Di2 électronique"
+    },
+    "brakes": {
+      "partNumber": "BR-R8170",
+      "weight": "350g",
+      "type": "Hydraulique",
+      "pistons": "2 pistons",
+      "mounting": "Flat Mount"
+    }
+  },
+  "105 R7100": {
+    "speeds": 12,
+    "crank": {
+      "partNumber": "FC-R7100",
+      "chainrings": [
+        "52-36",
+        "50-34"
+      ],
+      "bcd": "110mm asymétrique",
+      "cranklengths": [
+        "165",
+        "170",
+        "172.5",
+        "175"
+      ],
+      "weight": "752g",
+      "compatibility": "12v"
+    },
+    "cassette": {
+      "partNumber": "CS-R7100",
+      "options": [
+        "11-30",
+        "11-34",
+        "11-36",
+        "12-28"
+      ],
+      "speeds": "12v",
+      "weight": "345g",
+      "technology": "Hyperglide+"
+    },
+    "bb": {
+      "partNumber": "SM-BB7100",
+      "standard": "BSA 68mm",
+      "axle": "24mm",
+      "weight": "88g"
+    },
+    "chain": {
+      "partNumber": "CN-M9100",
+      "links": "126",
+      "weight": "242g",
+      "technology": "HG+ 12v"
+    },
+    "rdRear": {
+      "partNumber": "RD-R7100",
+      "weight": "262g",
+      "cageLength": "Short/Medium",
+      "maxCassette": "34t",
+      "capacity": {
+        "max": "34t",
+        "maxCassette": "34t",
+        "minCassette": "11t"
+      }
+    },
+    "rdFront": {
+      "partNumber": "FD-R7100",
+      "weight": "107g",
+      "mounting": "Braze-on"
+    },
+    "shifters": {
+      "partNumber": "ST-R7170",
+      "weight": "340g (paire)",
+      "type": "STI mécanique"
+    },
+    "brakes": {
+      "partNumber": "BR-R7170",
+      "weight": "350g",
+      "type": "Hydraulique",
+      "pistons": "2 pistons",
+      "mounting": "Flat Mount"
+    }
+  },
+  "GRX RX820": {
+    "speeds": 12,
+    "crank": {
+      "partNumber": "FC-RX820",
+      "chainrings": [
+        "48-31",
+        "46-30"
+      ],
+      "bcd": "110mm asymétrique",
+      "cranklengths": [
+        "170",
+        "172.5",
+        "175"
+      ],
+      "weight": "732g",
+      "compatibility": "12v gravel"
+    },
+    "cassette": {
+      "partNumber": "CS-RX820",
+      "options": [
+        "10-45",
+        "10-51"
+      ],
+      "speeds": "12v",
+      "weight": "358g",
+      "technology": "Hyperglide+ MTB"
+    },
+    "bb": {
+      "partNumber": "SM-BB8200",
+      "standard": "BSA 68mm",
+      "axle": "24mm",
+      "weight": "74g"
+    },
+    "chain": {
+      "partNumber": "CN-M9100",
+      "links": "126",
+      "weight": "242g",
+      "technology": "HG+ 12v"
+    },
+    "rdRear": {
+      "partNumber": "RD-RX820",
+      "weight": "303g",
+      "cageLength": "Medium",
+      "maxCassette": "45t",
+      "capacity": {
+        "max": "45t",
+        "maxCassette": "45t",
+        "minCassette": "10t"
+      }
+    },
+    "rdFront": {
+      "partNumber": "FD-RX820",
+      "weight": "110g",
+      "mounting": "Braze-on"
+    },
+    "shifters": {
+      "partNumber": "ST-RX820",
+      "weight": "280g (paire)",
+      "type": "STI mécanique"
+    },
+    "brakes": {
+      "partNumber": "BR-RX820",
+      "weight": "350g",
+      "type": "Hydraulique",
+      "pistons": "2 pistons",
+      "mounting": "Flat Mount"
+    }
+  },
+  "Dura-Ace 9100": {
+    "speeds": 11,
+    "crank": {
+      "partNumber": "FC-9100",
+      "chainrings": [
+        "54-42",
+        "53-39",
+        "52-36",
+        "50-34"
+      ],
+      "bcd": "110mm",
+      "cranklengths": [
+        "165",
+        "170",
+        "172.5",
+        "175",
+        "177.5",
+        "180"
+      ],
+      "weight": "683g",
+      "compatibility": "11v"
+    },
+    "cassette": {
+      "partNumber": "CS-9100",
+      "options": [
+        "11-25",
+        "11-28",
+        "11-30",
+        "12-25",
+        "12-28",
+        "14-28"
+      ],
+      "speeds": "11v",
+      "weight": "175g",
+      "technology": "HG-EV"
+    },
+    "bb": {
+      "partNumber": "SM-BB9100",
+      "standard": "BSA 68/70mm",
+      "axle": "24mm",
+      "weight": "67g"
+    },
+    "chain": {
+      "partNumber": "CN-HG701",
+      "links": "116",
+      "weight": "257g",
+      "technology": "HG-EV 11v"
+    },
+    "rdRear": {
+      "partNumber": "RD-R9100",
+      "weight": "166g",
+      "cageLength": "Short",
+      "maxCassette": "30t",
+      "capacity": {
+        "max": "30t",
+        "maxCassette": "30t",
+        "minCassette": "11t"
+      }
+    },
+    "rdFront": {
+      "partNumber": "FD-R9100",
+      "weight": "87g",
+      "mounting": "Braze-on"
+    },
+    "shifters": {
+      "partNumber": "ST-R9150",
+      "weight": "290g (paire)",
+      "type": "Di2 électronique"
+    }
+  },
+  "Ultegra R8000": {
+    "speeds": 11,
+    "crank": {
+      "partNumber": "FC-R8000",
+      "chainrings": [
+        "53-39",
+        "52-36",
+        "50-34",
+        "46-36"
+      ],
+      "bcd": "110mm",
+      "cranklengths": [
+        "165",
+        "170",
+        "172.5",
+        "175",
+        "177.5",
+        "180"
+      ],
+      "weight": "713g",
+      "compatibility": "11v"
+    },
+    "cassette": {
+      "partNumber": "CS-R8000",
+      "options": [
+        "11-25",
+        "11-28",
+        "11-30",
+        "11-32",
+        "11-34",
+        "12-25",
+        "14-28"
+      ],
+      "speeds": "11v",
+      "weight": "232g",
+      "technology": "HG-EV"
+    },
+    "bb": {
+      "partNumber": "SM-BB8000",
+      "standard": "BSA 68/70mm",
+      "axle": "24mm",
+      "weight": "74g"
+    },
+    "chain": {
+      "partNumber": "CN-HG701",
+      "links": "116",
+      "weight": "257g",
+      "technology": "HG-EV 11v"
+    },
+    "rdRear": {
+      "partNumber": "RD-R8000",
+      "weight": "184g",
+      "cageLength": "Short",
+      "maxCassette": "32t",
+      "capacity": {
+        "max": "32t",
+        "maxCassette": "32t",
+        "minCassette": "11t"
+      }
+    },
+    "rdFront": {
+      "partNumber": "FD-R8000",
+      "weight": "92g",
+      "mounting": "Braze-on"
+    },
+    "shifters": {
+      "partNumber": "ST-R8050",
+      "weight": "290g (paire)",
+      "type": "Di2 électronique"
+    }
+  },
+  "105 R7000": {
+    "speeds": 11,
+    "crank": {
+      "partNumber": "FC-R7000",
+      "chainrings": [
+        "53-39",
+        "52-36",
+        "50-34"
+      ],
+      "bcd": "110mm",
+      "cranklengths": [
+        "165",
+        "170",
+        "172.5",
+        "175"
+      ],
+      "weight": "766g",
+      "compatibility": "11v"
+    },
+    "cassette": {
+      "partNumber": "CS-R7000",
+      "options": [
+        "11-25",
+        "11-28",
+        "11-30",
+        "11-32",
+        "11-34",
+        "12-25",
+        "14-28"
+      ],
+      "speeds": "11v",
+      "weight": "284g",
+      "technology": "HG-EV"
+    },
+    "bb": {
+      "partNumber": "SM-BB7000",
+      "standard": "BSA 68mm",
+      "axle": "24mm",
+      "weight": "88g"
+    },
+    "chain": {
+      "partNumber": "CN-HG601",
+      "links": "116",
+      "weight": "268g",
+      "technology": "HG-X 11v"
+    },
+    "rdRear": {
+      "partNumber": "RD-R7000",
+      "weight": "215g",
+      "cageLength": "Short",
+      "maxCassette": "34t",
+      "capacity": {
+        "max": "34t",
+        "maxCassette": "34t",
+        "minCassette": "11t"
+      }
+    },
+    "rdFront": {
+      "partNumber": "FD-R7000",
+      "weight": "95g",
+      "mounting": "Braze-on"
+    },
+    "shifters": {
+      "partNumber": "ST-R7000",
+      "weight": "290g (paire)",
+      "type": "STI mécanique"
+    }
+  },
+  "GRX RX800": {
+    "speeds": 11,
+    "crank": {
+      "partNumber": "FC-RX800",
+      "chainrings": [
+        "48-31",
+        "46-30",
+        "42-32",
+        "40-30"
+      ],
+      "bcd": "110mm",
+      "cranklengths": [
+        "170",
+        "172.5",
+        "175"
+      ],
+      "weight": "758g",
+      "compatibility": "11v gravel"
+    },
+    "cassette": {
+      "partNumber": "CS-HG800",
+      "options": [
+        "11-34",
+        "11-40",
+        "11-42"
+      ],
+      "speeds": "11v",
+      "weight": "360g",
+      "technology": "HG-EV"
+    },
+    "bb": {
+      "partNumber": "SM-BB8000",
+      "standard": "BSA 68mm",
+      "axle": "24mm",
+      "weight": "74g"
+    },
+    "chain": {
+      "partNumber": "CN-HG601",
+      "links": "116",
+      "weight": "268g",
+      "technology": "HG-X 11v"
+    },
+    "rdRear": {
+      "partNumber": "RD-RX800",
+      "weight": "256g",
+      "cageLength": "Medium",
+      "maxCassette": "42t",
+      "capacity": {
+        "max": "42t",
+        "maxCassette": "42t",
+        "minCassette": "11t"
+      }
+    },
+    "rdFront": {
+      "partNumber": "FD-RX800",
+      "weight": "105g",
+      "mounting": "Braze-on"
+    },
+    "shifters": {
+      "partNumber": "ST-RX800",
+      "weight": "290g (paire)",
+      "type": "STI mécanique"
+    }
+  },
+  "Tiagra 4700": {
+    "speeds": 10,
+    "crank": {
+      "partNumber": "FC-4700",
+      "chainrings": [
+        "52-36",
+        "50-34"
+      ],
+      "bcd": "110mm",
+      "cranklengths": [
+        "165",
+        "170",
+        "172.5",
+        "175"
+      ],
+      "weight": "795g",
+      "compatibility": "10v"
+    },
+    "cassette": {
+      "partNumber": "CS-HG500",
+      "options": [
+        "11-25",
+        "11-28",
+        "11-30",
+        "11-32",
+        "11-34",
+        "12-28"
+      ],
+      "speeds": "10v",
+      "weight": "269g",
+      "technology": "HG"
+    },
+    "bb": {
+      "partNumber": "SM-BB4700",
+      "standard": "BSA 68mm",
+      "axle": "24mm",
+      "weight": "88g"
+    },
+    "chain": {
+      "partNumber": "CN-HG54",
+      "links": "116",
+      "weight": "289g",
+      "technology": "HG 10v"
+    },
+    "rdRear": {
+      "partNumber": "RD-4700",
+      "weight": "248g",
+      "cageLength": "Short",
+      "maxCassette": "32t",
+      "capacity": {
+        "max": "32t",
+        "maxCassette": "32t",
+        "minCassette": "12t"
+      }
+    },
+    "rdFront": {
+      "partNumber": "FD-4700",
+      "weight": "92g",
+      "mounting": "Braze-on"
+    },
+    "shifters": {
+      "partNumber": "ST-4700",
+      "weight": "340g (paire)",
+      "type": "STI 10v"
+    }
+  },
+  "Sora R3000": {
+    "speeds": 9,
+    "crank": {
+      "partNumber": "FC-R3000",
+      "chainrings": [
+        "50-34"
+      ],
+      "bcd": "110mm",
+      "cranklengths": [
+        "165",
+        "170",
+        "172.5",
+        "175"
+      ],
+      "weight": "840g",
+      "compatibility": "9v"
+    },
+    "cassette": {
+      "partNumber": "CS-HG400",
+      "options": [
+        "11-25",
+        "11-28",
+        "11-30",
+        "11-32",
+        "11-34",
+        "12-25"
+      ],
+      "speeds": "9v",
+      "weight": "314g",
+      "technology": "HG"
+    },
+    "bb": {
+      "partNumber": "SM-BB3000",
+      "standard": "BSA 68mm",
+      "axle": "24mm",
+      "weight": "88g"
+    },
+    "chain": {
+      "partNumber": "CN-HG53",
+      "links": "116",
+      "weight": "303g",
+      "technology": "HG 9v"
+    },
+    "rdRear": {
+      "partNumber": "RD-R3000",
+      "weight": "252g",
+      "cageLength": "Short",
+      "maxCassette": "32t",
+      "capacity": {
+        "max": "32t",
+        "maxCassette": "32t",
+        "minCassette": "11t"
+      }
+    },
+    "rdFront": {
+      "partNumber": "FD-R3000",
+      "weight": "98g",
+      "mounting": "Braze-on"
+    },
+    "shifters": {
+      "partNumber": "ST-R3000",
+      "weight": "340g (paire)",
+      "type": "STI 9v"
+    }
+  },
+  "Claris R2000": {
+    "speeds": 8,
+    "crank": {
+      "partNumber": "FC-R2000",
+      "chainrings": [
+        "50-34"
+      ],
+      "bcd": "110mm",
+      "cranklengths": [
+        "165",
+        "170",
+        "175"
+      ],
+      "weight": "872g",
+      "compatibility": "8v"
+    },
+    "cassette": {
+      "partNumber": "CS-HG50",
+      "options": [
+        "11-28",
+        "11-30",
+        "11-32",
+        "11-34",
+        "12-28"
+      ],
+      "speeds": "8v",
+      "weight": "342g",
+      "technology": "HG"
+    },
+    "bb": {
+      "partNumber": "SM-BB2000",
+      "standard": "BSA 68mm",
+      "axle": "24mm",
+      "weight": "88g"
+    },
+    "chain": {
+      "partNumber": "CN-HG40",
+      "links": "116",
+      "weight": "310g",
+      "technology": "HG 8v"
+    },
+    "rdRear": {
+      "partNumber": "RD-R2000",
+      "weight": "268g",
+      "cageLength": "Short",
+      "maxCassette": "32t",
+      "capacity": {
+        "max": "32t",
+        "maxCassette": "32t",
+        "minCassette": "11t"
+      }
+    },
+    "rdFront": {
+      "partNumber": "FD-R2000",
+      "weight": "105g",
+      "mounting": "Braze-on"
+    },
+    "shifters": {
+      "partNumber": "ST-R2000",
+      "weight": "340g (paire)",
+      "type": "STI 8v"
+    }
+  },
+  "Ultegra 6700": {
+    "speeds": 10,
+    "crank": {
+      "partNumber": "FC-6700",
+      "chainrings": [
+        "53-39",
+        "52-36",
+        "50-34"
+      ],
+      "bcd": "110mm",
+      "cranklengths": [
+        "165",
+        "170",
+        "172.5",
+        "175",
+        "177.5",
+        "180"
+      ],
+      "weight": "692g",
+      "compatibility": "10v"
+    },
+    "cassette": {
+      "partNumber": "CS-6700",
+      "options": [
+        "11-25",
+        "11-28",
+        "12-25",
+        "12-30"
+      ],
+      "speeds": "10v",
+      "weight": "242g (11-28T)",
+      "technology": "HG"
+    },
+    "bb": {
+      "partNumber": "SM-BBR60",
+      "standard": "BSA 68/70mm",
+      "axle": "24mm",
+      "weight": "88g"
+    },
+    "chain": {
+      "partNumber": "CN-6701",
+      "links": "114",
+      "weight": "267g",
+      "technology": "HG 10v"
+    },
+    "rdRear": {
+      "partNumber": "RD-6700",
+      "weight": "175g",
+      "cageLength": "Short",
+      "maxCassette": "30t",
+      "capacity": {
+        "max": "30t",
+        "maxCassette": "30t",
+        "minCassette": "12t"
+      }
+    },
+    "rdFront": {
+      "partNumber": "FD-6700",
+      "weight": "92g",
+      "mounting": "Braze-on"
+    },
+    "shifters": {
+      "partNumber": "ST-6700",
+      "weight": "340g (paire)",
+      "type": "STI 10v"
+    }
+  },
+  "105 5700": {
+    "speeds": 10,
+    "crank": {
+      "partNumber": "FC-5700",
+      "chainrings": [
+        "53-39",
+        "52-36",
+        "50-34"
+      ],
+      "bcd": "110mm",
+      "cranklengths": [
+        "165",
+        "170",
+        "172.5",
+        "175"
+      ],
+      "weight": "766g",
+      "compatibility": "10v"
+    },
+    "cassette": {
+      "partNumber": "CS-5700",
+      "options": [
+        "11-25",
+        "11-28",
+        "12-25",
+        "12-30"
+      ],
+      "speeds": "10v",
+      "weight": "242g",
+      "technology": "HG"
+    },
+    "bb": {
+      "partNumber": "SM-BBR60",
+      "standard": "BSA 68mm",
+      "axle": "24mm",
+      "weight": "88g"
+    },
+    "chain": {
+      "partNumber": "CN-6701",
+      "links": "114",
+      "weight": "267g",
+      "technology": "HG 10v"
+    },
+    "rdRear": {
+      "partNumber": "RD-5700",
+      "weight": "196g",
+      "cageLength": "Short",
+      "maxCassette": "30t",
+      "capacity": {
+        "max": "30t",
+        "maxCassette": "30t",
+        "minCassette": "12t"
+      }
+    },
+    "rdFront": {
+      "partNumber": "FD-5700",
+      "weight": "95g",
+      "mounting": "Braze-on"
+    },
+    "shifters": {
+      "partNumber": "ST-5700",
+      "weight": "340g (paire)",
+      "type": "STI 10v"
+    }
+  },
+  "Deore XT M770": {
+    "speeds": 10,
+    "crank": {
+      "partNumber": "FC-M770",
+      "chainrings": [
+        "42-32-24",
+        "44-32-22"
+      ],
+      "bcd": "104/64mm",
+      "cranklengths": [
+        "170",
+        "175",
+        "180"
+      ],
+      "weight": "795g",
+      "compatibility": "10v triple"
+    },
+    "cassette": {
+      "partNumber": "CS-M771",
+      "options": [
+        "11-32",
+        "11-34",
+        "11-36"
+      ],
+      "speeds": "10v",
+      "weight": "294g (11-32T)",
+      "technology": "HG"
+    },
+    "bb": {
+      "partNumber": "SM-BB80",
+      "standard": "BSA 68/73mm",
+      "axle": "24mm",
+      "weight": "88g"
+    },
+    "chain": {
+      "partNumber": "CN-HG95",
+      "links": "116",
+      "weight": "268g",
+      "technology": "HG-X 10v"
+    },
+    "rdRear": {
+      "partNumber": "RD-M770",
+      "weight": "215g",
+      "cageLength": "Medium",
+      "maxCassette": "36t",
+      "capacity": {
+        "max": "36t",
+        "maxCassette": "36t",
+        "minCassette": "11t"
+      }
+    },
+    "shifters": {
+      "partNumber": "SL-M770",
+      "weight": "145g (paire)",
+      "type": "Trigger 10v"
+    },
+    "rdFront": {
+      "partNumber": "FD-M770",
+      "weight": "95g",
+      "mounting": "Dual Pull"
+    }
+  },
+  "SLX M660": {
+    "speeds": 10,
+    "crank": {
+      "partNumber": "FC-M660",
+      "chainrings": [
+        "42-32-24",
+        "44-32-22"
+      ],
+      "bcd": "104/64mm",
+      "cranklengths": [
+        "170",
+        "175"
+      ],
+      "weight": "840g",
+      "compatibility": "10v triple"
+    },
+    "cassette": {
+      "partNumber": "CS-HG81",
+      "options": [
+        "11-32",
+        "11-34",
+        "11-36"
+      ],
+      "speeds": "10v",
+      "weight": "323g",
+      "technology": "HG"
+    },
+    "bb": {
+      "partNumber": "BB-MT500",
+      "standard": "BSA 68/73mm",
+      "axle": "24mm",
+      "weight": "88g"
+    },
+    "chain": {
+      "partNumber": "CN-HG54",
+      "links": "116",
+      "weight": "273g",
+      "technology": "HG 10v"
+    },
+    "rdRear": {
+      "partNumber": "RD-M660",
+      "weight": "235g",
+      "cageLength": "Medium",
+      "maxCassette": "36t",
+      "capacity": {
+        "max": "36t",
+        "maxCassette": "36t",
+        "minCassette": "11t"
+      }
+    },
+    "shifters": {
+      "partNumber": "SL-M660",
+      "weight": "145g (paire)",
+      "type": "Trigger 10v"
+    },
+    "rdFront": {
+      "partNumber": "FD-M660",
+      "weight": "102g",
+      "mounting": "Dual Pull"
+    }
+  },
+  "Deore M590": {
+    "speeds": 10,
+    "crank": {
+      "partNumber": "FC-M590",
+      "chainrings": [
+        "42-32-24",
+        "44-32-22"
+      ],
+      "bcd": "104/64mm",
+      "cranklengths": [
+        "170",
+        "175"
+      ],
+      "weight": "890g",
+      "compatibility": "10v triple"
+    },
+    "cassette": {
+      "partNumber": "CS-HG50",
+      "options": [
+        "11-32",
+        "11-34",
+        "11-36"
+      ],
+      "speeds": "10v",
+      "weight": "323g",
+      "technology": "HG"
+    },
+    "bb": {
+      "partNumber": "BB-ES300",
+      "standard": "BSA 68mm",
+      "axle": "24mm",
+      "weight": "88g"
+    },
+    "chain": {
+      "partNumber": "CN-HG54",
+      "links": "116",
+      "weight": "273g",
+      "technology": "HG 10v"
+    },
+    "rdRear": {
+      "partNumber": "RD-M590",
+      "weight": "265g",
+      "cageLength": "Medium",
+      "maxCassette": "36t",
+      "capacity": {
+        "max": "36t",
+        "maxCassette": "36t",
+        "minCassette": "11t"
+      }
+    },
+    "shifters": {
+      "partNumber": "SL-M590",
+      "weight": "145g (paire)",
+      "type": "Trigger 10v"
+    },
+    "rdFront": {
+      "partNumber": "FD-M590",
+      "weight": "110g",
+      "mounting": "Dual Pull"
+    }
+  },
+  "Alivio M4000": {
+    "speeds": 10,
+    "crank": {
+      "partNumber": "FC-M4000",
+      "chainrings": [
+        "40-30-22"
+      ],
+      "bcd": "104/64mm",
+      "cranklengths": [
+        "170",
+        "175"
+      ],
+      "weight": "950g",
+      "compatibility": "10v triple"
+    },
+    "cassette": {
+      "partNumber": "CS-HG50",
+      "options": [
+        "11-32",
+        "11-34",
+        "11-36"
+      ],
+      "speeds": "10v",
+      "weight": "323g",
+      "technology": "HG"
+    },
+    "bb": {
+      "partNumber": "BB-UN300",
+      "standard": "BSA 68mm",
+      "axle": "24mm",
+      "weight": "88g"
+    },
+    "chain": {
+      "partNumber": "CN-HG54",
+      "links": "116",
+      "weight": "289g",
+      "technology": "HG 10v"
+    },
+    "rdRear": {
+      "partNumber": "RD-M4000",
+      "weight": "290g",
+      "cageLength": "Medium",
+      "maxCassette": "36t",
+      "capacity": {
+        "max": "36t",
+        "maxCassette": "36t",
+        "minCassette": "11t"
+      }
+    },
+    "shifters": {
+      "partNumber": "SL-M4000",
+      "weight": "145g (paire)",
+      "type": "Trigger 10v"
+    },
+    "rdFront": {
+      "partNumber": "FD-M4000",
+      "weight": "115g",
+      "mounting": "Dual Pull"
+    }
+  },
+  "Chaîne CN-M9100": {
+    "speeds": 12,
+    "chain": {
+      "partNumber": "CN-M9100",
+      "links": "126",
+      "weight": "242g",
+      "technology": "HG+ 12v MTB XTR, Quick-Link"
+    }
+  },
+  "Chaîne CN-M8100": {
+    "speeds": 12,
+    "chain": {
+      "partNumber": "CN-M8100",
+      "links": "126",
+      "weight": "257g",
+      "technology": "HG+ 12v MTB XT, Quick-Link"
+    }
+  },
+  "Chaîne CN-M7100": {
+    "speeds": 12,
+    "chain": {
+      "partNumber": "CN-M7100",
+      "links": "126",
+      "weight": "257g",
+      "technology": "HG+ 12v MTB SLX, Quick-Link"
+    }
+  },
+  "Chaîne CN-M6100": {
+    "speeds": 12,
+    "chain": {
+      "partNumber": "CN-M6100",
+      "links": "126",
+      "weight": "282g",
+      "technology": "HG+ 12v MTB Deore, Quick-Link"
+    }
+  },
+  "Chaîne CN-LG500": {
+    "speeds": 12,
+    "chain": {
+      "partNumber": "CN-LG500",
+      "links": "126",
+      "weight": "320g",
+      "technology": "Linkglide 12v E-bike ultra-résistant, 3x durée de vie"
+    }
+  },
+  "Chaîne CN-HG901": {
+    "speeds": 11,
+    "chain": {
+      "partNumber": "CN-HG901",
+      "links": "116",
+      "weight": "246g",
+      "technology": "HG-X11 Dura-Ace/Ultegra, Sil-Tec coating, Quick-Link"
+    }
+  },
+  "Chaîne CN-HG701": {
+    "speeds": 11,
+    "chain": {
+      "partNumber": "CN-HG701",
+      "links": "116",
+      "weight": "252g",
+      "technology": "HG-X11 Ultegra/105, Sil-Tec coating, Quick-Link"
+    }
+  },
+  "Chaîne CN-HG601": {
+    "speeds": 11,
+    "chain": {
+      "partNumber": "CN-HG601",
+      "links": "116",
+      "weight": "257g",
+      "technology": "HG-X11 105, Quick-Link"
+    }
+  },
+  "Chaîne CN-E8000": {
+    "speeds": 11,
+    "chain": {
+      "partNumber": "CN-E8000",
+      "links": "138",
+      "weight": "350g",
+      "technology": "E-MTB Steps 11v renforcé, Dynamic Chain"
+    }
+  },
+  "Chaîne CN-HG95": {
+    "speeds": 10,
+    "chain": {
+      "partNumber": "CN-HG95",
+      "links": "116",
+      "weight": "279g",
+      "technology": "HG-X 10v XT/SLX, Quick-Link"
+    }
+  },
+  "Chaîne CN-HG54": {
+    "speeds": 10,
+    "chain": {
+      "partNumber": "CN-HG54",
+      "links": "116",
+      "weight": "302g",
+      "technology": "HG 10v Tiagra/Deore"
+    }
+  },
+  "Chaîne CN-HG93": {
+    "speeds": 9,
+    "chain": {
+      "partNumber": "CN-HG93",
+      "links": "116",
+      "weight": "280g",
+      "technology": "HG 9v XTR/XT, Quick-Link"
+    }
+  },
+  "Chaîne CN-HG53": {
+    "speeds": 9,
+    "chain": {
+      "partNumber": "CN-HG53",
+      "links": "116",
+      "weight": "310g",
+      "technology": "HG 9v Deore/Alivio"
+    }
+  },
+  "Chaîne CN-E6070-9": {
+    "speeds": 9,
+    "chain": {
+      "partNumber": "CN-E6070-9",
+      "links": "138",
+      "weight": "380g",
+      "technology": "E-bike Steps 9v renforcé"
+    }
+  },
+  "Chaîne CN-HG40": {
+    "speeds": 8,
+    "chain": {
+      "partNumber": "CN-HG40",
+      "links": "116",
+      "weight": "320g",
+      "technology": "HG 6/7/8v Tourney/Altus économique"
+    }
+  },
+  "Chaîne CN-HG71": {
+    "speeds": 8,
+    "chain": {
+      "partNumber": "CN-HG71",
+      "links": "116",
+      "weight": "298g",
+      "technology": "HG 8v standard"
+    }
+  },
+  "Chaîne CN-NX10": {
+    "speeds": 1,
+    "chain": {
+      "partNumber": "CN-NX10",
+      "links": "116",
+      "weight": "380g",
+      "technology": "Single speed 1/2\" x 1/8\" Track/Fixie ultra-résistant"
+    }
+  }
+}

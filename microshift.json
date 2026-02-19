@@ -1,0 +1,124 @@
+{
+  "Advent X": {
+    "speeds": 10,
+    "rdRear": {
+      "partNumber": "RD-M619S",
+      "weight": "395g",
+      "cageLength": "Long",
+      "maxCassette": "48t",
+      "capacity": {
+        "max": "48t",
+        "maxCassette": "48t",
+        "minCassette": "11t"
+      }
+    },
+    "shifters": {
+      "partNumber": "SL-M9295",
+      "weight": "145g",
+      "type": "Trigger 10v"
+    },
+    "cassette": {
+      "partNumber": "CS-H103",
+      "options": [
+        "11-42",
+        "11-48"
+      ],
+      "speeds": "10v",
+      "weight": "450g"
+    }
+  },
+  "Sword": {
+    "speeds": 10,
+    "rdRear": {
+      "partNumber": "RD-R819S",
+      "weight": "248g",
+      "cageLength": "Medium",
+      "maxCassette": "46t",
+      "capacity": {
+        "max": "46t",
+        "maxCassette": "46t",
+        "minCassette": "11t"
+      }
+    },
+    "rdFront": {
+      "partNumber": "FD-R819F",
+      "weight": "95g",
+      "mounting": "Braze-on"
+    },
+    "shifters": {
+      "partNumber": "SL-R819",
+      "weight": "345g (paire)",
+      "type": "Drop bar 10v"
+    },
+    "cassette": {
+      "partNumber": "CS-H101",
+      "options": [
+        "11-34",
+        "11-36"
+      ],
+      "speeds": "10v",
+      "weight": "350g"
+    }
+  },
+  "Centos": {
+    "speeds": 11,
+    "rdRear": {
+      "partNumber": "RD-R11",
+      "weight": "235g",
+      "cageLength": "Medium",
+      "maxCassette": "32t",
+      "capacity": {
+        "max": "32t",
+        "maxCassette": "32t",
+        "minCassette": "11t"
+      }
+    },
+    "rdFront": {
+      "partNumber": "FD-R11",
+      "weight": "90g",
+      "mounting": "Braze-on"
+    },
+    "shifters": {
+      "partNumber": "SL-R11",
+      "weight": "320g (paire)",
+      "type": "Drop bar 11v"
+    },
+    "cassette": {
+      "partNumber": "CS-G11",
+      "options": [
+        "11-28",
+        "11-32"
+      ],
+      "speeds": "11v",
+      "weight": "285g"
+    }
+  },
+  "Marvo LT": {
+    "speeds": 9,
+    "rdRear": {
+      "partNumber": "RD-M819S",
+      "weight": "312g",
+      "cageLength": "Long",
+      "maxCassette": "46t",
+      "capacity": {
+        "max": "46t",
+        "maxCassette": "46t",
+        "minCassette": "11t"
+      }
+    },
+    "shifters": {
+      "partNumber": "SL-M8195",
+      "weight": "155g",
+      "type": "Trigger 9v"
+    },
+    "cassette": {
+      "partNumber": "CS-H09",
+      "options": [
+        "11-40",
+        "11-46"
+      ],
+      "speeds": "9v",
+      "weight": "475g"
+    }
+  }
+}

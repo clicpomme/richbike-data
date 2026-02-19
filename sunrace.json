@@ -1,0 +1,168 @@
+{
+  "MZ90": {
+    "speeds": 12,
+    "rdRear": {
+      "partNumber": "RDM-MZ90",
+      "weight": "330g",
+      "cageLength": "Long",
+      "maxCassette": "52t",
+      "capacity": {
+        "max": "52t",
+        "maxCassette": "52t",
+        "minCassette": "10t"
+      }
+    },
+    "cassette": {
+      "partNumber": "CSMZ90",
+      "options": [
+        "10-51"
+      ],
+      "speeds": "12v",
+      "weight": "567g"
+    },
+    "shifters": {
+      "partNumber": "SLM-MZ90",
+      "weight": "140g",
+      "type": "Trigger 12v"
+    }
+  },
+  "MZ80": {
+    "speeds": 12,
+    "rdRear": {
+      "partNumber": "RDM-MZ80",
+      "weight": "355g",
+      "cageLength": "Long",
+      "maxCassette": "52t",
+      "capacity": {
+        "max": "52t",
+        "maxCassette": "52t",
+        "minCassette": "10t"
+      }
+    },
+    "cassette": {
+      "partNumber": "CSMZ80",
+      "options": [
+        "11-50"
+      ],
+      "speeds": "12v",
+      "weight": "585g"
+    },
+    "shifters": {
+      "partNumber": "SLM-MZ80",
+      "weight": "145g",
+      "type": "Trigger 12v"
+    }
+  },
+  "MX8": {
+    "speeds": 11,
+    "rdRear": {
+      "partNumber": "RDM-MX8",
+      "weight": "305g",
+      "cageLength": "Long",
+      "maxCassette": "50t",
+      "capacity": {
+        "max": "50t",
+        "maxCassette": "50t",
+        "minCassette": "11t"
+      }
+    },
+    "cassette": {
+      "partNumber": "CSMX8",
+      "options": [
+        "11-46",
+        "11-50"
+      ],
+      "speeds": "11v",
+      "weight": "540g"
+    },
+    "shifters": {
+      "partNumber": "SLM-MX8",
+      "weight": "135g",
+      "type": "Trigger 11v"
+    }
+  },
+  "MX3": {
+    "speeds": 11,
+    "rdRear": {
+      "partNumber": "RDM-MX3",
+      "weight": "320g",
+      "cageLength": "Long",
+      "maxCassette": "46t",
+      "capacity": {
+        "max": "46t",
+        "maxCassette": "46t",
+        "minCassette": "11t"
+      }
+    },
+    "cassette": {
+      "partNumber": "CSMX3",
+      "options": [
+        "11-42",
+        "11-46"
+      ],
+      "speeds": "11v",
+      "weight": "505g"
+    },
+    "shifters": {
+      "partNumber": "SLM-MX3",
+      "weight": "140g",
+      "type": "Trigger 11v"
+    }
+  },
+  "MS8": {
+    "speeds": 11,
+    "rdRear": {
+      "partNumber": "RDM-MS8",
+      "weight": "285g",
+      "cageLength": "Medium",
+      "maxCassette": "42t",
+      "capacity": {
+        "max": "42t",
+        "maxCassette": "42t",
+        "minCassette": "11t"
+      }
+    },
+    "cassette": {
+      "partNumber": "CSMS8",
+      "options": [
+        "11-36",
+        "11-42"
+      ],
+      "speeds": "11v",
+      "weight": "395g"
+    },
+    "shifters": {
+      "partNumber": "SLM-MS8",
+      "weight": "130g",
+      "type": "Trigger 11v"
+    }
+  },
+  "M9": {
+    "speeds": 10,
+    "rdRear": {
+      "partNumber": "RDM-M9",
+      "weight": "340g",
+      "cageLength": "Long",
+      "maxCassette": "46t",
+      "capacity": {
+        "max": "46t",
+        "maxCassette": "46t",
+        "minCassette": "11t"
+      }
+    },
+    "cassette": {
+      "partNumber": "CSM9",
+      "options": [
+        "11-42",
+        "11-46"
+      ],
+      "speeds": "10v",
+      "weight": "480g"
+    },
+    "shifters": {
+      "partNumber": "SLM-M9",
+      "weight": "145g",
+      "type": "Trigger 10v"
+    }
+  }
+}

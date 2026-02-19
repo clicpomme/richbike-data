@@ -1,0 +1,1047 @@
+{
+  "Red eTap AXS": {
+    "speeds": 12,
+    "crank": {
+      "partNumber": "FC-RED-1",
+      "chainrings": [
+        "50-37",
+        "48-35",
+        "46-33"
+      ],
+      "bcd": "107mm BCD",
+      "cranklengths": [
+        "165",
+        "170",
+        "172.5",
+        "175"
+      ],
+      "weight": "659g",
+      "compatibility": "12v"
+    },
+    "cassette": {
+      "partNumber": "CS-XG-1290",
+      "options": [
+        "10-26",
+        "10-28",
+        "10-30",
+        "10-33",
+        "10-36"
+      ],
+      "speeds": "12v",
+      "weight": "185g",
+      "technology": "XDR"
+    },
+    "bb": {
+      "partNumber": "DUB BSA",
+      "standard": "BSA 68mm",
+      "axle": "28.99mm DUB",
+      "weight": "46g"
+    },
+    "chain": {
+      "partNumber": "PC-RED-12",
+      "links": "120",
+      "weight": "252g",
+      "technology": "Flattop 12v"
+    },
+    "rdRear": {
+      "partNumber": "RD-RED-eTap-AXS",
+      "weight": "215g",
+      "cageLength": "Short",
+      "type": "Sans fil eTap AXS",
+      "maxCassette": "33t (short), 36t (medium)",
+      "capacity": [
+        "33-36T",
+        "28T",
+        "10T"
+      ]
+    },
+    "rdFront": {
+      "partNumber": "FD-RED-eTap-AXS",
+      "weight": "132g",
+      "type": "Sans fil eTap AXS",
+      "mounting": "Braze-on"
+    },
+    "shifters": {
+      "partNumber": "SL-RED-eTap-AXS",
+      "weight": "234g (paire)",
+      "type": "Sans fil eTap AXS",
+      "battery": "CR2032"
+    },
+    "brakes": {
+      "partNumber": "BR-RED-eTap-HRD",
+      "weight": "358g",
+      "type": "Hydraulique",
+      "pistons": "4 pistons",
+      "mounting": "Flat Mount"
+    }
+  },
+  "Force eTap AXS": {
+    "speeds": 12,
+    "crank": {
+      "partNumber": "FC-FRC-1",
+      "chainrings": [
+        "50-37",
+        "48-35",
+        "46-33"
+      ],
+      "bcd": "107mm BCD",
+      "cranklengths": [
+        "165",
+        "170",
+        "172.5",
+        "175"
+      ],
+      "weight": "727g",
+      "compatibility": "12v"
+    },
+    "cassette": {
+      "partNumber": "CS-XG-1270",
+      "options": [
+        "10-28",
+        "10-30",
+        "10-33",
+        "10-36"
+      ],
+      "speeds": "12v",
+      "weight": "265g",
+      "technology": "XDR"
+    },
+    "bb": {
+      "partNumber": "DUB BSA",
+      "standard": "BSA 68mm",
+      "axle": "28.99mm DUB",
+      "weight": "46g"
+    },
+    "chain": {
+      "partNumber": "PC-RED-12",
+      "links": "120",
+      "weight": "252g",
+      "technology": "Flattop 12v"
+    },
+    "rdRear": {
+      "partNumber": "RD-FRC-eTap-AXS",
+      "weight": "245g",
+      "cageLength": "Medium",
+      "type": "Sans fil eTap AXS",
+      "maxCassette": "36t",
+      "capacity": [
+        "36T",
+        "28T",
+        "10T"
+      ]
+    },
+    "rdFront": {
+      "partNumber": "FD-FRC-eTap-AXS",
+      "weight": "145g",
+      "type": "Sans fil eTap AXS",
+      "mounting": "Braze-on"
+    },
+    "shifters": {
+      "partNumber": "SL-FRC-eTap-AXS",
+      "weight": "252g (paire)",
+      "type": "Sans fil eTap AXS",
+      "battery": "CR2032"
+    },
+    "brakes": {
+      "partNumber": "BR-FRC-eTap-HRD",
+      "weight": "385g",
+      "type": "Hydraulique",
+      "pistons": "2 pistons",
+      "mounting": "Flat Mount"
+    }
+  },
+  "Rival eTap AXS": {
+    "speeds": 12,
+    "crank": {
+      "partNumber": "FC-RIV-1",
+      "chainrings": [
+        "50-37",
+        "48-35",
+        "46-33"
+      ],
+      "bcd": "107mm BCD",
+      "cranklengths": [
+        "165",
+        "170",
+        "172.5",
+        "175"
+      ],
+      "weight": "787g",
+      "compatibility": "12v"
+    },
+    "cassette": {
+      "partNumber": "CS-XG-1250",
+      "options": [
+        "10-28",
+        "10-30",
+        "10-33",
+        "10-36"
+      ],
+      "speeds": "12v",
+      "weight": "321g",
+      "technology": "XDR"
+    },
+    "bb": {
+      "partNumber": "DUB BSA",
+      "standard": "BSA 68mm",
+      "axle": "28.99mm DUB",
+      "weight": "46g"
+    },
+    "chain": {
+      "partNumber": "PC-RIV-12",
+      "links": "120",
+      "weight": "268g",
+      "technology": "Flattop 12v"
+    },
+    "rdRear": {
+      "partNumber": "RD-RIV-eTap-AXS",
+      "weight": "303g",
+      "cageLength": "Medium cage",
+      "type": "Sans fil eTap AXS",
+      "maxCassette": "36t",
+      "capacity": [
+        "36T",
+        "28T",
+        "10T"
+      ]
+    },
+    "rdFront": {
+      "partNumber": "FD-RIV-eTap-AXS",
+      "weight": "158g",
+      "type": "Sans fil eTap AXS",
+      "mounting": "Braze-on"
+    },
+    "shifters": {
+      "partNumber": "SL-RIV-eTap-AXS",
+      "weight": "289g (paire)",
+      "type": "Sans fil eTap AXS",
+      "battery": "CR2032"
+    },
+    "brakes": {
+      "partNumber": "BR-RIV-eTap-HRD",
+      "weight": "412g",
+      "type": "Hydraulique",
+      "pistons": "2 pistons",
+      "mounting": "Flat Mount"
+    }
+  },
+  "XPLR": {
+    "speeds": 12,
+    "crank": {
+      "partNumber": "FC-XPLR-1",
+      "chainrings": [
+        "44T",
+        "42T",
+        "40T"
+      ],
+      "bcd": "107mm BCD",
+      "cranklengths": [
+        "170",
+        "172.5",
+        "175"
+      ],
+      "weight": "685g",
+      "compatibility": "12v gravel"
+    },
+    "cassette": {
+      "partNumber": "CS-XG-1251",
+      "options": [
+        "10-44"
+      ],
+      "speeds": "12v",
+      "weight": "346g",
+      "technology": "XDR"
+    },
+    "bb": {
+      "partNumber": "DUB BSA",
+      "standard": "BSA 68mm",
+      "axle": "28.99mm DUB",
+      "weight": "46g"
+    },
+    "chain": {
+      "partNumber": "PC-XG-1271",
+      "links": "120",
+      "weight": "268g",
+      "technology": "Flattop 12v"
+    },
+    "rdRear": {
+      "partNumber": "RD-XPLR",
+      "weight": "290g",
+      "cageLength": "Long",
+      "type": "Mécanique 12v Gravel",
+      "maxCassette": "44T",
+      "capacity": [
+        "44T",
+        "44T",
+        "10T"
+      ]
+    },
+    "shifters": {
+      "partNumber": "SL-XPLR",
+      "weight": "135g",
+      "type": "Trigger 12v"
+    }
+  },
+  "Red eTap (11v)": {
+    "speeds": 11,
+    "crank": {
+      "partNumber": "FC-RED-5",
+      "chainrings": [
+        "53-39",
+        "52-36",
+        "50-34"
+      ],
+      "bcd": "110mm BCD",
+      "cranklengths": [
+        "165",
+        "170",
+        "172.5",
+        "175",
+        "177.5"
+      ],
+      "weight": "626g",
+      "compatibility": "11v"
+    },
+    "cassette": {
+      "partNumber": "CS-XG-1190",
+      "options": [
+        "11-26",
+        "11-28",
+        "11-30",
+        "11-32"
+      ],
+      "speeds": "11v",
+      "weight": "155g",
+      "technology": "XDR"
+    },
+    "bb": {
+      "partNumber": "GXP BSA",
+      "standard": "BSA 68mm",
+      "axle": "24/22mm GXP",
+      "weight": "56g"
+    },
+    "chain": {
+      "partNumber": "PC-RED-11",
+      "links": "114",
+      "weight": "231g",
+      "technology": "Hollow Pin 11v"
+    },
+    "rdRear": {
+      "partNumber": "RD-RED-eTap",
+      "weight": "239g",
+      "cageLength": "Medium cage",
+      "type": "Sans fil eTap (11v)",
+      "maxCassette": "32T",
+      "capacity": [
+        "32T",
+        "28T",
+        "11T"
+      ]
+    },
+    "rdFront": {
+      "partNumber": "FD-RED-eTap",
+      "weight": "132g",
+      "type": "Sans fil eTap (11v)",
+      "mounting": "Braze-on"
+    },
+    "shifters": {
+      "partNumber": "SL-RED-eTap",
+      "weight": "218g (paire)",
+      "type": "Sans fil eTap (11v)",
+      "battery": "CR2032"
+    },
+    "brakes": {
+      "partNumber": "BR-RED-HRD",
+      "weight": "345g",
+      "type": "Hydraulique",
+      "pistons": "4 pistons",
+      "mounting": "Flat Mount"
+    }
+  },
+  "Force 22": {
+    "speeds": 11,
+    "crank": {
+      "partNumber": "FC-FRC-5",
+      "chainrings": [
+        "53-39",
+        "52-36",
+        "50-34"
+      ],
+      "bcd": "110mm BCD",
+      "cranklengths": [
+        "165",
+        "170",
+        "172.5",
+        "175",
+        "177.5"
+      ],
+      "weight": "692g",
+      "compatibility": "11v"
+    },
+    "cassette": {
+      "partNumber": "CS-PG-1170",
+      "options": [
+        "11-25",
+        "11-26",
+        "11-28",
+        "11-32"
+      ],
+      "speeds": "11v",
+      "weight": "220g",
+      "technology": "Standard"
+    },
+    "bb": {
+      "partNumber": "GXP BSA",
+      "standard": "BSA 68mm",
+      "axle": "24/22mm GXP",
+      "weight": "56g"
+    },
+    "chain": {
+      "partNumber": "PC-1110",
+      "links": "114",
+      "weight": "246g",
+      "technology": "Hollow Pin 11v"
+    },
+    "rdRear": {
+      "partNumber": "RD-FRC-22",
+      "weight": "173g",
+      "cageLength": "Medium",
+      "type": "Mécanique 11v",
+      "maxCassette": "32T",
+      "capacity": [
+        "32T",
+        "28T",
+        "11T"
+      ]
+    },
+    "rdFront": {
+      "partNumber": "FD-FRC-22",
+      "weight": "95g",
+      "type": "Mécanique 11v",
+      "mounting": "Braze-on"
+    },
+    "shifters": {
+      "partNumber": "SL-FRC-22",
+      "weight": "302g (paire)",
+      "type": "DoubleTap 11v"
+    },
+    "brakes": {
+      "partNumber": "BR-FRC-22-HRD",
+      "weight": "385g",
+      "type": "Hydraulique",
+      "pistons": "2 pistons",
+      "mounting": "Flat Mount"
+    }
+  },
+  "Rival 22": {
+    "speeds": 11,
+    "crank": {
+      "partNumber": "FC-RIV-5",
+      "chainrings": [
+        "53-39",
+        "52-36",
+        "50-34"
+      ],
+      "bcd": "110mm BCD",
+      "cranklengths": [
+        "165",
+        "170",
+        "172.5",
+        "175"
+      ],
+      "weight": "741g",
+      "compatibility": "11v"
+    },
+    "cassette": {
+      "partNumber": "CS-PG-1130",
+      "options": [
+        "11-26",
+        "11-28",
+        "11-32"
+      ],
+      "speeds": "11v",
+      "weight": "265g",
+      "technology": "Standard"
+    },
+    "bb": {
+      "partNumber": "GXP BSA",
+      "standard": "BSA 68mm",
+      "axle": "24/22mm GXP",
+      "weight": "56g"
+    },
+    "chain": {
+      "partNumber": "PC-1110",
+      "links": "114",
+      "weight": "246g",
+      "technology": "Hollow Pin 11v"
+    },
+    "rdRear": {
+      "partNumber": "RD-RIV-22",
+      "weight": "185g",
+      "cageLength": "Medium",
+      "type": "Mécanique 11v",
+      "maxCassette": "32T",
+      "capacity": [
+        "32T",
+        "28T",
+        "11T"
+      ]
+    },
+    "rdFront": {
+      "partNumber": "FD-RIV-22",
+      "weight": "102g",
+      "type": "Mécanique 11v",
+      "mounting": "Braze-on"
+    },
+    "shifters": {
+      "partNumber": "SL-RIV-22",
+      "weight": "315g (paire)",
+      "type": "DoubleTap 11v"
+    },
+    "brakes": {
+      "partNumber": "BR-RIV-22-HRD",
+      "weight": "405g",
+      "type": "Hydraulique",
+      "pistons": "2 pistons",
+      "mounting": "Flat Mount"
+    }
+  },
+  "Apex": {
+    "speeds": 11,
+    "crank": {
+      "partNumber": "FC-APEX-5",
+      "chainrings": [
+        "50-34",
+        "48-32"
+      ],
+      "bcd": "110mm BCD",
+      "cranklengths": [
+        "165",
+        "170",
+        "172.5",
+        "175"
+      ],
+      "weight": "836g",
+      "compatibility": "11v"
+    },
+    "cassette": {
+      "partNumber": "CS-PG-1130",
+      "options": [
+        "11-32",
+        "11-36",
+        "11-42"
+      ],
+      "speeds": "11v",
+      "weight": "333g",
+      "technology": "Standard"
+    },
+    "bb": {
+      "partNumber": "GXP BSA",
+      "standard": "BSA 68mm",
+      "axle": "24/22mm GXP",
+      "weight": "56g"
+    },
+    "chain": {
+      "partNumber": "PC-1110",
+      "links": "114",
+      "weight": "246g",
+      "technology": "Hollow Pin 11v"
+    },
+    "rdRear": {
+      "partNumber": "RD-APEX",
+      "weight": "227g",
+      "cageLength": "Medium",
+      "type": "Mécanique 11v",
+      "maxCassette": "32T",
+      "capacity": [
+        "32T",
+        "28T",
+        "11T"
+      ]
+    },
+    "rdFront": {
+      "partNumber": "FD-APEX",
+      "weight": "115g",
+      "type": "Mécanique 11v",
+      "mounting": "Braze-on"
+    },
+    "shifters": {
+      "partNumber": "SL-APEX",
+      "weight": "347g (paire)",
+      "type": "DoubleTap 11v"
+    }
+  },
+  "Apex 1": {
+    "speeds": 11,
+    "crank": {
+      "partNumber": "FC-APEX1",
+      "chainrings": [
+        "42T",
+        "40T",
+        "38T"
+      ],
+      "bcd": "110mm BCD",
+      "cranklengths": [
+        "165",
+        "170",
+        "172.5",
+        "175"
+      ],
+      "weight": "687g",
+      "compatibility": "11v mono"
+    },
+    "cassette": {
+      "partNumber": "CS-XG-1150",
+      "options": [
+        "11-42"
+      ],
+      "speeds": "11v",
+      "weight": "360g",
+      "technology": "XD"
+    },
+    "bb": {
+      "partNumber": "GXP BSA",
+      "standard": "BSA 68mm",
+      "axle": "24/22mm GXP",
+      "weight": "56g"
+    },
+    "chain": {
+      "partNumber": "PC-1110",
+      "links": "114",
+      "weight": "246g",
+      "technology": "Hollow Pin 11v"
+    },
+    "rdRear": {
+      "partNumber": "RD-APEX-1",
+      "weight": "280g",
+      "cageLength": "Long",
+      "type": "Mécanique 11v mono",
+      "maxCassette": "42T",
+      "capacity": [
+        "42T",
+        "42T",
+        "11T"
+      ]
+    },
+    "shifters": {
+      "partNumber": "SL-APEX-1",
+      "weight": "125g",
+      "type": "Trigger 11v"
+    }
+  },
+  "Rival (10v)": {
+    "speeds": 10,
+    "crank": {
+      "partNumber": "FC-RIV-3",
+      "chainrings": [
+        "53-39",
+        "50-34"
+      ],
+      "bcd": "110mm BCD",
+      "cranklengths": [
+        "165",
+        "170",
+        "172.5",
+        "175"
+      ],
+      "weight": "785g",
+      "compatibility": "10v"
+    },
+    "cassette": {
+      "partNumber": "CS-PG-1050",
+      "options": [
+        "11-26",
+        "11-28",
+        "11-32"
+      ],
+      "speeds": "10v",
+      "weight": "275g",
+      "technology": "Standard"
+    },
+    "bb": {
+      "partNumber": "GXP BSA",
+      "standard": "BSA 68mm",
+      "axle": "24/22mm GXP",
+      "weight": "56g"
+    },
+    "chain": {
+      "partNumber": "PC-1051",
+      "links": "114",
+      "weight": "258g",
+      "technology": "Hollow Pin 10v"
+    },
+    "rdRear": {
+      "partNumber": "RD-RIVAL",
+      "weight": "230g",
+      "cageLength": "Medium",
+      "type": "Mécanique 10v",
+      "maxCassette": "32T",
+      "capacity": [
+        "32T",
+        "28T",
+        "12T"
+      ]
+    },
+    "rdFront": {
+      "partNumber": "FD-RIVAL",
+      "weight": "95g",
+      "type": "Mécanique 10v",
+      "mounting": "Braze-on"
+    },
+    "shifters": {
+      "partNumber": "SL-RIVAL",
+      "weight": "340g (paire)",
+      "type": "DoubleTap 10v"
+    }
+  },
+  "Apex (10v)": {
+    "speeds": 10,
+    "crank": {
+      "partNumber": "FC-APEX-3",
+      "chainrings": [
+        "50-34"
+      ],
+      "bcd": "110mm BCD",
+      "cranklengths": [
+        "165",
+        "170",
+        "172.5",
+        "175"
+      ],
+      "weight": "875g",
+      "compatibility": "10v"
+    },
+    "cassette": {
+      "partNumber": "CS-PG-1050",
+      "options": [
+        "11-32",
+        "11-36"
+      ],
+      "speeds": "10v",
+      "weight": "365g",
+      "technology": "Standard"
+    },
+    "bb": {
+      "partNumber": "GXP BSA",
+      "standard": "BSA 68mm",
+      "axle": "24/22mm GXP",
+      "weight": "56g"
+    },
+    "chain": {
+      "partNumber": "PC-1051",
+      "links": "114",
+      "weight": "258g",
+      "technology": "Hollow Pin 10v"
+    },
+    "rdRear": {
+      "partNumber": "RD-APEX-10",
+      "weight": "245g",
+      "cageLength": "Medium",
+      "type": "Mécanique 10v",
+      "maxCassette": "32T",
+      "capacity": [
+        "32T",
+        "28T",
+        "12T"
+      ]
+    },
+    "rdFront": {
+      "partNumber": "FD-APEX-10",
+      "weight": "108g",
+      "type": "Mécanique 10v",
+      "mounting": "Braze-on"
+    },
+    "shifters": {
+      "partNumber": "SL-APEX-10",
+      "weight": "365g (paire)",
+      "type": "DoubleTap 10v"
+    }
+  },
+  "GX Eagle": {
+    "speeds": 12,
+    "crank": {
+      "partNumber": "FC-GX-1000-1",
+      "chainrings": [
+        "32T",
+        "34T",
+        "36T"
+      ],
+      "bcd": "Direct Mount",
+      "cranklengths": [
+        "165",
+        "170",
+        "175"
+      ],
+      "weight": "465g (32T)",
+      "compatibility": "12v"
+    },
+    "cassette": {
+      "partNumber": "CS-XG-1275",
+      "options": [
+        "10-50",
+        "10-52"
+      ],
+      "speeds": "12v",
+      "weight": "350g (10-50)",
+      "technology": "XG"
+    },
+    "bb": {
+      "partNumber": "DUB BSA",
+      "standard": "BSA 68/73mm",
+      "axle": "28.99mm DUB",
+      "weight": "46g"
+    },
+    "chain": {
+      "partNumber": "PC-GX-EAGLE",
+      "links": "126",
+      "weight": "285g",
+      "technology": "Eagle 12v"
+    },
+    "rdRear": {
+      "partNumber": "RD-GX-EAGLE",
+      "weight": "361g",
+      "cageLength": "Long",
+      "type": "Mécanique 12v",
+      "maxCassette": "52T",
+      "capacity": [
+        "52T",
+        "50T",
+        "10T"
+      ]
+    },
+    "shifters": {
+      "partNumber": "SL-GX-EAGLE",
+      "weight": "128g",
+      "type": "Trigger 12v"
+    }
+  },
+  "X01 Eagle": {
+    "speeds": 12,
+    "crank": {
+      "partNumber": "FC-X01-1000-1",
+      "chainrings": [
+        "32T",
+        "34T",
+        "36T"
+      ],
+      "bcd": "Direct Mount",
+      "cranklengths": [
+        "165",
+        "170",
+        "175"
+      ],
+      "weight": "420g (32T)",
+      "compatibility": "12v"
+    },
+    "cassette": {
+      "partNumber": "CS-XG-1295",
+      "options": [
+        "10-50",
+        "10-52"
+      ],
+      "speeds": "12v",
+      "weight": "355g (10-50)",
+      "technology": "XG"
+    },
+    "bb": {
+      "partNumber": "DUB BSA",
+      "standard": "BSA 68/73mm",
+      "axle": "28.99mm DUB",
+      "weight": "46g"
+    },
+    "chain": {
+      "partNumber": "PC-X01-EAGLE",
+      "links": "126",
+      "weight": "268g",
+      "technology": "Eagle 12v"
+    },
+    "rdRear": {
+      "partNumber": "RD-X01-EAGLE",
+      "weight": "309g",
+      "cageLength": "Long",
+      "type": "Mécanique 12v",
+      "maxCassette": "52T",
+      "capacity": [
+        "52T",
+        "50T",
+        "10T"
+      ]
+    },
+    "shifters": {
+      "partNumber": "SL-X01-EAGLE",
+      "weight": "121g",
+      "type": "Trigger 12v"
+    }
+  },
+  "XX1 Eagle": {
+    "speeds": 12,
+    "crank": {
+      "partNumber": "FC-XX1-1000-1",
+      "chainrings": [
+        "32T",
+        "34T",
+        "36T"
+      ],
+      "bcd": "Direct Mount",
+      "cranklengths": [
+        "165",
+        "170",
+        "175"
+      ],
+      "weight": "395g (32T)",
+      "compatibility": "12v"
+    },
+    "cassette": {
+      "partNumber": "CS-XG-1299",
+      "options": [
+        "10-50",
+        "10-52"
+      ],
+      "speeds": "12v",
+      "weight": "355g (10-50)",
+      "technology": "XG"
+    },
+    "bb": {
+      "partNumber": "DUB BSA",
+      "standard": "BSA 68/73mm",
+      "axle": "28.99mm DUB",
+      "weight": "46g"
+    },
+    "chain": {
+      "partNumber": "PC-XX1-EAGLE",
+      "links": "126",
+      "weight": "257g",
+      "technology": "Eagle 12v"
+    },
+    "rdRear": {
+      "partNumber": "RD-XX1-EAGLE",
+      "weight": "305g",
+      "cageLength": "Long",
+      "type": "Mécanique 12v",
+      "maxCassette": "52T",
+      "capacity": [
+        "52T",
+        "50T",
+        "10T"
+      ]
+    },
+    "shifters": {
+      "partNumber": "SL-XX1-EAGLE",
+      "weight": "115g",
+      "type": "Trigger 12v"
+    }
+  },
+  "NX Eagle": {
+    "speeds": 12,
+    "crank": {
+      "partNumber": "FC-NX-1000-1",
+      "chainrings": [
+        "30T",
+        "32T",
+        "34T"
+      ],
+      "bcd": "Direct Mount",
+      "cranklengths": [
+        "165",
+        "170",
+        "175"
+      ],
+      "weight": "505g (32T)",
+      "compatibility": "12v"
+    },
+    "cassette": {
+      "partNumber": "CS-PG-1230",
+      "options": [
+        "11-50"
+      ],
+      "speeds": "12v",
+      "weight": "615g",
+      "technology": "PG"
+    },
+    "bb": {
+      "partNumber": "DUB BSA",
+      "standard": "BSA 68/73mm",
+      "axle": "28.99mm DUB",
+      "weight": "46g"
+    },
+    "chain": {
+      "partNumber": "PC-NX-EAGLE",
+      "links": "126",
+      "weight": "295g",
+      "technology": "Eagle 12v"
+    },
+    "rdRear": {
+      "partNumber": "RD-NX-EAGLE",
+      "weight": "390g",
+      "cageLength": "Long",
+      "type": "Mécanique 12v",
+      "maxCassette": "50T",
+      "capacity": [
+        "50T",
+        "50T",
+        "11T"
+      ]
+    },
+    "shifters": {
+      "partNumber": "SL-NX-EAGLE",
+      "weight": "145g",
+      "type": "Trigger 12v"
+    }
+  },
+  "SX Eagle": {
+    "speeds": 12,
+    "crank": {
+      "partNumber": "FC-SX-1000-1",
+      "chainrings": [
+        "30T",
+        "32T"
+      ],
+      "bcd": "Direct Mount",
+      "cranklengths": [
+        "165",
+        "170",
+        "175"
+      ],
+      "weight": "580g (32T)",
+      "compatibility": "12v"
+    },
+    "cassette": {
+      "partNumber": "CS-PG-1210",
+      "options": [
+        "11-50"
+      ],
+      "speeds": "12v",
+      "weight": "640g",
+      "technology": "PG"
+    },
+    "bb": {
+      "partNumber": "DUB BSA",
+      "standard": "BSA 68/73mm",
+      "axle": "28.99mm DUB",
+      "weight": "46g"
+    },
+    "chain": {
+      "partNumber": "PC-SX-EAGLE",
+      "links": "126",
+      "weight": "308g",
+      "technology": "Eagle 12v"
+    },
+    "rdRear": {
+      "partNumber": "RD-SX-EAGLE",
+      "weight": "420g",
+      "cageLength": "Long",
+      "type": "Mécanique 12v",
+      "maxCassette": "50T",
+      "capacity": [
+        "50T",
+        "50T",
+        "11T"
+      ]
+    },
+    "shifters": {
+      "partNumber": "SL-SX-EAGLE",
+      "weight": "155g",
+      "type": "Trigger 12v"
+    }
+  }
+}
