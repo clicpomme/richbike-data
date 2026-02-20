@@ -1173,6 +1173,15 @@
       "partNumber": "FD-M770",
       "weight": "95g",
       "mounting": "Dual Pull"
+    },
+    "brakes": {
+      "partNumber": "BR-M775",
+      "type": "Hydraulique VTT",
+      "activation": "Huile hydraulique",
+      "brakeSurface": "Rotor (disque)",
+      "rotor": "160/180/203mm",
+      "weight": "310g (paire)",
+      "technology": "2 pistons"
     }
   },
   "SLX M660": {
@@ -1235,6 +1244,15 @@
       "partNumber": "FD-M660",
       "weight": "102g",
       "mounting": "Dual Pull"
+    },
+    "brakes": {
+      "partNumber": "BR-M665",
+      "type": "Hydraulique VTT",
+      "activation": "Huile hydraulique",
+      "brakeSurface": "Rotor (disque)",
+      "rotor": "160/180/203mm",
+      "weight": "330g (paire)",
+      "technology": "2 pistons"
     }
   },
   "Deore M590": {
@@ -1297,6 +1315,15 @@
       "partNumber": "FD-M590",
       "weight": "110g",
       "mounting": "Dual Pull"
+    },
+    "brakes": {
+      "partNumber": "BR-M595",
+      "type": "Hydraulique VTT",
+      "activation": "Huile hydraulique",
+      "brakeSurface": "Rotor (disque)",
+      "rotor": "160/180mm",
+      "weight": "350g (paire)",
+      "technology": "2 pistons"
     }
   },
   "Alivio M4000": {
@@ -1358,6 +1385,15 @@
       "partNumber": "FD-M4000",
       "weight": "115g",
       "mounting": "Dual Pull"
+    },
+    "brakes": {
+      "partNumber": "BR-M4050",
+      "type": "Hydraulique VTT",
+      "activation": "Huile hydraulique",
+      "brakeSurface": "Rotor (disque)",
+      "rotor": "160/180mm",
+      "weight": "370g (paire)",
+      "technology": "2 pistons"
     }
   },
   "Chaîne CN-M9100": {
@@ -1800,6 +1836,15 @@
       "weight": "38g (paire)",
       "compatibility": "Jantes carbone",
       "conditions": "Sec et pluie"
+    },
+    "brakes": {
+      "partNumber": "BR-7900",
+      "type": "Rim brake (étrier sur jante)",
+      "activation": "Câble mécanique",
+      "brakeSurface": "Jante (rim brake)",
+      "mounting": "Standard",
+      "weight": "145g (avant)",
+      "rimBrake": true
     }
   },
   "Dura-Ace 9150 (Di2 11v)": {
@@ -1840,37 +1885,6 @@
       "weight": "38g (paire)",
       "compatibility": "Jantes carbone uniquement",
       "conditions": "Sec et pluie"
-    }
-  },
-  "Ultegra 6700 (10v)": {
-    "speeds": 10,
-    "rdRear": {
-      "partNumber": "RD-6700",
-      "weight": "175g",
-      "cageLength": "Short (SS)",
-      "maxCassette": "30t",
-      "type": "Mécanique",
-      "capacity": {
-        "max": "30t",
-        "maxCassette": "30t",
-        "minCassette": "12t"
-      }
-    },
-    "rdFront": {
-      "partNumber": "FD-6700",
-      "weight": "92g",
-      "mounting": "Braze-on / Band",
-      "chainrings": "2x (double)",
-      "capacity": "14T",
-      "type": "Mécanique"
-    },
-    "brakePads": {
-      "partNumber": "R55C3",
-      "type": "Patins mixtes",
-      "material": "Cork/Rubber",
-      "weight": "42g (paire)",
-      "compatibility": "Jantes alu/carbone",
-      "conditions": "Toutes conditions"
     }
   },
   "Ultegra 6770 (Di2 10v)": {
@@ -2234,6 +2248,134 @@
       "rotor": "140/160mm",
       "weight": "195g (étrier avant)",
       "mounting": "Flat mount"
+    }
+  },
+  "Dura-Ace 9170 (Di2 disque 11v)": {
+    "speeds": 11,
+    "rdRear": {
+      "partNumber": "RD-R9150",
+      "weight": "166g",
+      "cageLength": "Short (SS)",
+      "maxCassette": "30t",
+      "type": "Di2 électronique",
+      "capacity": {
+        "max": "30t",
+        "maxCassette": "30t",
+        "minCassette": "11t"
+      }
+    },
+    "rdFront": {
+      "partNumber": "FD-R9150",
+      "weight": "87g",
+      "mounting": "Braze-on / Band",
+      "chainrings": "2x (double)",
+      "capacity": "16T",
+      "type": "Di2 électronique"
+    },
+    "brakes": {
+      "partNumber": "BR-R9170",
+      "type": "Hydraulique à disque",
+      "activation": "Huile hydraulique",
+      "brakeSurface": "Rotor (disque)",
+      "rotor": "140/160mm",
+      "weight": "340g (paire)",
+      "technology": "Servo Wave Di2"
+    }
+  },
+  "Ultegra R8070 (Disque hydro 11v)": {
+    "speeds": 11,
+    "rdRear": {
+      "partNumber": "RD-R8000",
+      "weight": "210g",
+      "cageLength": "Short (SS)",
+      "maxCassette": "34t",
+      "type": "Mécanique",
+      "capacity": {
+        "max": "34t",
+        "maxCassette": "34t",
+        "minCassette": "11t"
+      }
+    },
+    "rdFront": {
+      "partNumber": "FD-R8000",
+      "weight": "92g",
+      "mounting": "Braze-on / Band",
+      "chainrings": "2x (double)",
+      "capacity": "16T",
+      "type": "Mécanique"
+    },
+    "brakes": {
+      "partNumber": "BR-R8070",
+      "type": "Hydraulique à disque",
+      "activation": "Huile hydraulique",
+      "brakeSurface": "Rotor (disque)",
+      "rotor": "140/160mm",
+      "weight": "365g (paire)",
+      "technology": "Flat mount"
+    }
+  },
+  "Ultegra 6870 (Di2 disque 11v)": {
+    "speeds": 11,
+    "rdRear": {
+      "partNumber": "RD-6870",
+      "weight": "210g",
+      "cageLength": "Short (SS)",
+      "maxCassette": "30t",
+      "type": "Di2 électronique",
+      "capacity": {
+        "max": "30t",
+        "maxCassette": "30t",
+        "minCassette": "11t"
+      }
+    },
+    "rdFront": {
+      "partNumber": "FD-6870",
+      "weight": "110g",
+      "mounting": "Braze-on / Band",
+      "chainrings": "2x (double)",
+      "capacity": "16T",
+      "type": "Di2 électronique"
+    },
+    "brakes": {
+      "partNumber": "BR-6870",
+      "type": "Hydraulique à disque",
+      "activation": "Huile hydraulique",
+      "brakeSurface": "Rotor (disque)",
+      "rotor": "140/160mm",
+      "weight": "375g (paire)",
+      "technology": "Flat mount Di2"
+    }
+  },
+  "105 R7020 (Disque hydro 11v)": {
+    "speeds": 11,
+    "rdRear": {
+      "partNumber": "RD-R7000",
+      "weight": "234g",
+      "cageLength": "Short (SS)",
+      "maxCassette": "34t",
+      "type": "Mécanique",
+      "capacity": {
+        "max": "34t",
+        "maxCassette": "34t",
+        "minCassette": "11t"
+      }
+    },
+    "rdFront": {
+      "partNumber": "FD-R7000",
+      "weight": "95g",
+      "mounting": "Braze-on / Band",
+      "chainrings": "2x (double)",
+      "capacity": "16T",
+      "type": "Mécanique"
+    },
+    "brakes": {
+      "partNumber": "BR-R7020",
+      "type": "Hydraulique à disque",
+      "activation": "Huile hydraulique",
+      "brakeSurface": "Rotor (disque)",
+      "rotor": "140/160mm",
+      "weight": "380g (paire)",
+      "technology": "Flat mount"
     }
   }
 }
