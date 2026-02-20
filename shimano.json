@@ -136,7 +136,8 @@
         "max": "34t",
         "maxCassette": "34t",
         "minCassette": "11t"
-      }
+      },
+      "type": "Mécanique"
     },
     "rdFront": {
       "partNumber": "FD-R9200",
@@ -210,7 +211,8 @@
         "max": "34t",
         "maxCassette": "34t",
         "minCassette": "11t"
-      }
+      },
+      "type": "Mécanique"
     },
     "rdFront": {
       "partNumber": "FD-R8100",
@@ -284,7 +286,8 @@
         "max": "34t",
         "maxCassette": "34t",
         "minCassette": "11t"
-      }
+      },
+      "type": "Mécanique"
     },
     "rdFront": {
       "partNumber": "FD-R7100",
@@ -355,7 +358,8 @@
         "max": "45t",
         "maxCassette": "45t",
         "minCassette": "10t"
-      }
+      },
+      "type": "Di2 électronique"
     },
     "rdFront": {
       "partNumber": "FD-RX820",
@@ -435,7 +439,8 @@
         "max": "30t",
         "maxCassette": "30t",
         "minCassette": "11t"
-      }
+      },
+      "type": "Mécanique"
     },
     "rdFront": {
       "partNumber": "FD-R9100",
@@ -506,7 +511,8 @@
         "max": "32t",
         "maxCassette": "32t",
         "minCassette": "11t"
-      }
+      },
+      "type": "Mécanique"
     },
     "rdFront": {
       "partNumber": "FD-R8000",
@@ -574,7 +580,8 @@
         "max": "34t",
         "maxCassette": "34t",
         "minCassette": "11t"
-      }
+      },
+      "type": "Mécanique"
     },
     "rdFront": {
       "partNumber": "FD-R7000",
@@ -638,7 +645,8 @@
         "max": "42t",
         "maxCassette": "42t",
         "minCassette": "11t"
-      }
+      },
+      "type": "Mécanique"
     },
     "rdFront": {
       "partNumber": "FD-RX800",
@@ -704,7 +712,8 @@
         "max": "32t",
         "maxCassette": "32t",
         "minCassette": "12t"
-      }
+      },
+      "type": "Mécanique"
     },
     "rdFront": {
       "partNumber": "FD-4700",
@@ -769,7 +778,8 @@
         "max": "32t",
         "maxCassette": "32t",
         "minCassette": "11t"
-      }
+      },
+      "type": "Mécanique"
     },
     "rdFront": {
       "partNumber": "FD-R3000",
@@ -832,7 +842,8 @@
         "max": "32t",
         "maxCassette": "32t",
         "minCassette": "11t"
-      }
+      },
+      "type": "Mécanique"
     },
     "rdFront": {
       "partNumber": "FD-R2000",
@@ -899,7 +910,8 @@
         "max": "30t",
         "maxCassette": "30t",
         "minCassette": "12t"
-      }
+      },
+      "type": "Mécanique"
     },
     "rdFront": {
       "partNumber": "FD-6700",
@@ -964,7 +976,8 @@
         "max": "30t",
         "maxCassette": "30t",
         "minCassette": "12t"
-      }
+      },
+      "type": "Mécanique"
     },
     "rdFront": {
       "partNumber": "FD-5700",
@@ -1026,7 +1039,8 @@
         "max": "36t",
         "maxCassette": "36t",
         "minCassette": "11t"
-      }
+      },
+      "type": "Mécanique"
     },
     "shifters": {
       "partNumber": "SL-M770",
@@ -1087,7 +1101,8 @@
         "max": "36t",
         "maxCassette": "36t",
         "minCassette": "11t"
-      }
+      },
+      "type": "Mécanique"
     },
     "shifters": {
       "partNumber": "SL-M660",
@@ -1148,7 +1163,8 @@
         "max": "36t",
         "maxCassette": "36t",
         "minCassette": "11t"
-      }
+      },
+      "type": "Mécanique"
     },
     "shifters": {
       "partNumber": "SL-M590",
@@ -1208,7 +1224,8 @@
         "max": "36t",
         "maxCassette": "36t",
         "minCassette": "11t"
-      }
+      },
+      "type": "Mécanique"
     },
     "shifters": {
       "partNumber": "SL-M4000",
@@ -1385,7 +1402,8 @@
         "max": "47t",
         "maxCassette": "51t",
         "minCassette": "10t"
-      }
+      },
+      "type": "Mécanique"
     },
     "rdFront": {
       "partNumber": "FD-M8100",
@@ -1414,7 +1432,8 @@
         "max": "47t",
         "maxCassette": "51t",
         "minCassette": "10t"
-      }
+      },
+      "type": "Mécanique"
     },
     "cassette": {
       "partNumber": "CS-M7100",
@@ -1437,7 +1456,8 @@
         "max": "47t",
         "maxCassette": "51t",
         "minCassette": "10t"
-      }
+      },
+      "type": "Mécanique"
     },
     "cassette": {
       "partNumber": "CS-M6100",
@@ -1460,7 +1480,8 @@
         "max": "45t",
         "maxCassette": "46t",
         "minCassette": "11t"
-      }
+      },
+      "type": "Mécanique"
     },
     "rdFront": {
       "partNumber": "FD-M8000",
@@ -1490,7 +1511,8 @@
         "max": "45t",
         "maxCassette": "46t",
         "minCassette": "11t"
-      }
+      },
+      "type": "Mécanique"
     },
     "cassette": {
       "partNumber": "CS-M7000",
@@ -1513,7 +1535,8 @@
         "max": "47t",
         "maxCassette": "51t",
         "minCassette": "11t"
-      }
+      },
+      "type": "Mécanique"
     },
     "cassette": {
       "partNumber": "CS-M5100",
@@ -1570,6 +1593,167 @@
       "type": "Di2 électronique",
       "chainrings": "2x (double)",
       "capacity": "16T"
+    }
+  },
+  "Dura-Ace 7900 (10v)": {
+    "speeds": 10,
+    "rdRear": {
+      "partNumber": "RD-7900",
+      "weight": "160g",
+      "cageLength": "Short (SS)",
+      "maxCassette": "27t",
+      "type": "Mécanique",
+      "capacity": {
+        "max": "27t",
+        "maxCassette": "27t",
+        "minCassette": "12t"
+      }
+    },
+    "rdFront": {
+      "partNumber": "FD-7900",
+      "weight": "87g",
+      "mounting": "Braze-on / Band",
+      "chainrings": "2x (double)",
+      "capacity": "14T",
+      "type": "Mécanique"
+    }
+  },
+  "Dura-Ace 9150 (Di2 11v)": {
+    "speeds": 11,
+    "rdRear": {
+      "partNumber": "RD-R9150",
+      "weight": "166g",
+      "cageLength": "Short (SS)",
+      "maxCassette": "30t",
+      "type": "Di2 électronique",
+      "capacity": {
+        "max": "30t",
+        "maxCassette": "30t",
+        "minCassette": "11t"
+      }
+    },
+    "rdFront": {
+      "partNumber": "FD-R9150",
+      "weight": "87g",
+      "mounting": "Braze-on / Band",
+      "chainrings": "2x (double)",
+      "capacity": "16T",
+      "type": "Di2 électronique"
+    }
+  },
+  "Ultegra 6700 (10v)": {
+    "speeds": 10,
+    "rdRear": {
+      "partNumber": "RD-6700",
+      "weight": "175g",
+      "cageLength": "Short (SS)",
+      "maxCassette": "30t",
+      "type": "Mécanique",
+      "capacity": {
+        "max": "30t",
+        "maxCassette": "30t",
+        "minCassette": "12t"
+      }
+    },
+    "rdFront": {
+      "partNumber": "FD-6700",
+      "weight": "92g",
+      "mounting": "Braze-on / Band",
+      "chainrings": "2x (double)",
+      "capacity": "14T",
+      "type": "Mécanique"
+    }
+  },
+  "Ultegra 6770 (Di2 10v)": {
+    "speeds": 10,
+    "rdRear": {
+      "partNumber": "RD-6770",
+      "weight": "195g",
+      "cageLength": "Short (SS)",
+      "maxCassette": "28t",
+      "type": "Di2 électronique",
+      "capacity": {
+        "max": "28t",
+        "maxCassette": "28t",
+        "minCassette": "12t"
+      }
+    },
+    "rdFront": {
+      "partNumber": "FD-6770",
+      "weight": "112g",
+      "mounting": "Braze-on / Band",
+      "chainrings": "2x (double)",
+      "capacity": "14T",
+      "type": "Di2 électronique"
+    }
+  },
+  "Ultegra 6870 (Di2 11v)": {
+    "speeds": 11,
+    "rdRear": {
+      "partNumber": "RD-6870",
+      "weight": "210g",
+      "cageLength": "Short (SS)",
+      "maxCassette": "30t",
+      "type": "Di2 électronique",
+      "capacity": {
+        "max": "30t",
+        "maxCassette": "30t",
+        "minCassette": "11t"
+      }
+    },
+    "rdFront": {
+      "partNumber": "FD-6870",
+      "weight": "110g",
+      "mounting": "Braze-on / Band",
+      "chainrings": "2x (double)",
+      "capacity": "16T",
+      "type": "Di2 électronique"
+    }
+  },
+  "105 R7150 (Di2 11v)": {
+    "speeds": 11,
+    "rdRear": {
+      "partNumber": "RD-R7150",
+      "weight": "262g",
+      "cageLength": "Short (SS)",
+      "maxCassette": "34t",
+      "type": "Di2 électronique",
+      "capacity": {
+        "max": "34t",
+        "maxCassette": "34t",
+        "minCassette": "11t"
+      }
+    },
+    "rdFront": {
+      "partNumber": "FD-R7150",
+      "weight": "127g",
+      "mounting": "Braze-on / Band",
+      "chainrings": "2x (double)",
+      "capacity": "16T",
+      "type": "Di2 électronique"
+    }
+  },
+  "105 R7170 (Di2 12v)": {
+    "speeds": 12,
+    "rdRear": {
+      "partNumber": "RD-R7170",
+      "weight": "279g",
+      "cageLength": "Short/Medium",
+      "maxCassette": "34t",
+      "type": "Di2 électronique",
+      "capacity": {
+        "max": "34t",
+        "maxCassette": "34t",
+        "minCassette": "11t"
+      }
+    },
+    "rdFront": {
+      "partNumber": "FD-R7170",
+      "weight": "124g",
+      "mounting": "Braze-on / Band",
+      "chainrings": "2x (double)",
+      "capacity": "16T",
+      "type": "Di2 électronique"
     }
   }
 }
