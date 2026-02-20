@@ -154,9 +154,10 @@
     },
     "brakes": {
       "partNumber": "BR-R9200",
-      "type": "Étrier route mécanique",
+      "type": "Rim brake (étrier sur jante)",
       "mounting": "Direct mount / Standard",
-      "weight": "140g (avant)"
+      "weight": "140g (avant)",
+      "activation": "Câble mécanique"
     }
   },
   "Ultegra R8100": {
@@ -228,9 +229,10 @@
     },
     "brakes": {
       "partNumber": "BR-R8100",
-      "type": "Étrier route mécanique",
+      "type": "Rim brake (étrier sur jante)",
       "mounting": "Direct mount / Standard",
-      "weight": "155g (avant)"
+      "weight": "155g (avant)",
+      "activation": "Câble mécanique"
     }
   },
   "105 R7100": {
@@ -302,9 +304,10 @@
     },
     "brakes": {
       "partNumber": "BR-R7100",
-      "type": "Étrier route mécanique",
+      "type": "Rim brake (étrier sur jante)",
       "mounting": "Direct mount / Standard",
-      "weight": "165g (avant)"
+      "weight": "165g (avant)",
+      "activation": "Câble mécanique"
     }
   },
   "GRX RX820": {
@@ -451,11 +454,12 @@
     },
     "brakes": {
       "partNumber": "BR-R9100",
-      "type": "Étrier route mécanique",
+      "type": "Rim brake (étrier sur jante)",
       "mounting": "Direct mount / Standard",
       "weight": "145g (avant)",
       "rimBrake": true,
-      "brakeSurface": "Jante (rim brake)"
+      "brakeSurface": "Jante (rim brake)",
+      "activation": "Câble mécanique"
     },
     "brakePads": {
       "partNumber": "R55C4",
@@ -539,11 +543,12 @@
     },
     "brakes": {
       "partNumber": "BR-R8000",
-      "type": "Étrier route mécanique",
+      "type": "Rim brake (étrier sur jante)",
       "mounting": "Direct mount / Standard",
       "weight": "158g (avant)",
       "rimBrake": true,
-      "brakeSurface": "Jante (rim brake)"
+      "brakeSurface": "Jante (rim brake)",
+      "activation": "Câble mécanique"
     },
     "brakePads": {
       "partNumber": "R55C4",
@@ -624,11 +629,12 @@
     },
     "brakes": {
       "partNumber": "BR-R7000",
-      "type": "Étrier route mécanique",
+      "type": "Rim brake (étrier sur jante)",
       "mounting": "Direct mount / Standard",
       "weight": "170g (avant)",
       "rimBrake": true,
-      "brakeSurface": "Jante (rim brake)"
+      "brakeSurface": "Jante (rim brake)",
+      "activation": "Câble mécanique"
     },
     "brakePads": {
       "partNumber": "R55C4",
@@ -778,11 +784,12 @@
     },
     "brakes": {
       "partNumber": "BR-4700",
-      "type": "Étrier route mécanique",
+      "type": "Rim brake (étrier sur jante)",
       "mounting": "Standard",
       "weight": "185g (avant)",
       "rimBrake": true,
-      "brakeSurface": "Jante (rim brake)"
+      "brakeSurface": "Jante (rim brake)",
+      "activation": "Câble mécanique"
     },
     "brakePads": {
       "partNumber": "R50T2",
@@ -860,9 +867,10 @@
     },
     "brakes": {
       "partNumber": "BR-R3000",
-      "type": "Étrier route mécanique",
+      "type": "Rim brake (étrier sur jante)",
       "mounting": "Standard",
-      "weight": "195g (avant)"
+      "weight": "195g (avant)",
+      "activation": "Câble mécanique"
     }
   },
   "Claris R2000": {
@@ -930,9 +938,10 @@
     },
     "brakes": {
       "partNumber": "BR-R2000",
-      "type": "Étrier route mécanique",
+      "type": "Rim brake (étrier sur jante)",
       "mounting": "Standard",
-      "weight": "205g (avant)"
+      "weight": "205g (avant)",
+      "activation": "Câble mécanique"
     }
   },
   "Ultegra 6700": {
@@ -1004,11 +1013,12 @@
     },
     "brakes": {
       "partNumber": "BR-6700",
-      "type": "Étrier route mécanique",
+      "type": "Rim brake (étrier sur jante)",
       "mounting": "Standard",
       "weight": "165g (avant)",
       "rimBrake": true,
-      "brakeSurface": "Jante (rim brake)"
+      "brakeSurface": "Jante (rim brake)",
+      "activation": "Câble mécanique"
     },
     "brakePads": {
       "partNumber": "R55C3",
@@ -1086,11 +1096,12 @@
     },
     "brakes": {
       "partNumber": "BR-5700",
-      "type": "Étrier route mécanique",
+      "type": "Rim brake (étrier sur jante)",
       "mounting": "Standard",
       "weight": "175g (avant)",
       "rimBrake": true,
-      "brakeSurface": "Jante (rim brake)"
+      "brakeSurface": "Jante (rim brake)",
+      "activation": "Câble mécanique"
     },
     "brakePads": {
       "partNumber": "R55C3",
@@ -1815,11 +1826,12 @@
     },
     "brakes": {
       "partNumber": "BR-R9110",
-      "type": "Étrier route mécanique",
+      "type": "Rim brake (étrier sur jante)",
       "mounting": "Direct mount",
       "weight": "150g (avant)",
       "rimBrake": true,
-      "brakeSurface": "Jante (rim brake)"
+      "brakeSurface": "Jante (rim brake)",
+      "activation": "Câble mécanique"
     },
     "brakePads": {
       "partNumber": "R55C4",
@@ -1885,11 +1897,12 @@
     },
     "brakes": {
       "partNumber": "BR-6700",
-      "type": "Étrier route mécanique",
+      "type": "Rim brake (étrier sur jante)",
       "mounting": "Standard",
       "weight": "165g (avant)",
       "rimBrake": true,
-      "brakeSurface": "Jante (rim brake)"
+      "brakeSurface": "Jante (rim brake)",
+      "activation": "Câble mécanique"
     },
     "brakePads": {
       "partNumber": "R55C3",
@@ -1924,11 +1937,12 @@
     },
     "brakes": {
       "partNumber": "BR-6810",
-      "type": "Étrier route mécanique",
+      "type": "Rim brake (étrier sur jante)",
       "mounting": "Direct mount",
       "weight": "160g (avant)",
       "rimBrake": true,
-      "brakeSurface": "Jante (rim brake)"
+      "brakeSurface": "Jante (rim brake)",
+      "activation": "Câble mécanique"
     },
     "brakePads": {
       "partNumber": "R55C4",
@@ -1996,6 +2010,230 @@
       "rotor": "140/160mm",
       "weight": "365g (paire)",
       "technology": "Servo Wave"
+    }
+  },
+  "Dura-Ace 9200 (Disque mécanique)": {
+    "speeds": 12,
+    "rdRear": {
+      "partNumber": "RD-R9200",
+      "weight": "215g",
+      "cageLength": "Short/Medium",
+      "maxCassette": "34t",
+      "type": "Mécanique",
+      "capacity": {
+        "max": "34t",
+        "maxCassette": "34t",
+        "minCassette": "11t"
+      }
+    },
+    "rdFront": {
+      "partNumber": "FD-R9200",
+      "weight": "90g",
+      "mounting": "Braze-on / Band",
+      "chainrings": "2x (double)",
+      "capacity": "16T",
+      "type": "Mécanique"
+    },
+    "brakes": {
+      "partNumber": "BR-R9270 (câble)",
+      "type": "Mécanique à disque (câble)",
+      "activation": "Câble mécanique",
+      "brakeSurface": "Rotor (disque)",
+      "rotor": "140/160mm",
+      "weight": "165g (étrier avant)",
+      "mounting": "Flat mount"
+    }
+  },
+  "Ultegra R8100 (Disque mécanique)": {
+    "speeds": 12,
+    "rdRear": {
+      "partNumber": "RD-R8100",
+      "weight": "227g",
+      "cageLength": "Short/Medium",
+      "maxCassette": "34t",
+      "type": "Mécanique",
+      "capacity": {
+        "max": "34t",
+        "maxCassette": "34t",
+        "minCassette": "11t"
+      }
+    },
+    "rdFront": {
+      "partNumber": "FD-R8100",
+      "weight": "95g",
+      "mounting": "Braze-on / Band",
+      "chainrings": "2x (double)",
+      "capacity": "16T",
+      "type": "Mécanique"
+    },
+    "brakes": {
+      "partNumber": "BR-R8170 (câble)",
+      "type": "Mécanique à disque (câble)",
+      "activation": "Câble mécanique",
+      "brakeSurface": "Rotor (disque)",
+      "rotor": "140/160mm",
+      "weight": "175g (étrier avant)",
+      "mounting": "Flat mount"
+    }
+  },
+  "105 R7100 (Disque mécanique)": {
+    "speeds": 12,
+    "rdRear": {
+      "partNumber": "RD-R7100",
+      "weight": "279g",
+      "cageLength": "Short/Medium",
+      "maxCassette": "34t",
+      "type": "Mécanique",
+      "capacity": {
+        "max": "34t",
+        "maxCassette": "34t",
+        "minCassette": "11t"
+      }
+    },
+    "rdFront": {
+      "partNumber": "FD-R7100",
+      "weight": "107g",
+      "mounting": "Braze-on / Band",
+      "chainrings": "2x (double)",
+      "capacity": "16T",
+      "type": "Mécanique"
+    },
+    "brakes": {
+      "partNumber": "BR-R7070 (câble)",
+      "type": "Mécanique à disque (câble)",
+      "activation": "Câble mécanique",
+      "brakeSurface": "Rotor (disque)",
+      "rotor": "140/160mm",
+      "weight": "185g (étrier avant)",
+      "mounting": "Flat mount"
+    }
+  },
+  "Dura-Ace 9100 (Disque mécanique)": {
+    "speeds": 11,
+    "rdRear": {
+      "partNumber": "RD-R9100",
+      "weight": "166g",
+      "cageLength": "Short (SS)",
+      "maxCassette": "30t",
+      "type": "Mécanique",
+      "capacity": {
+        "max": "30t",
+        "maxCassette": "30t",
+        "minCassette": "11t"
+      }
+    },
+    "rdFront": {
+      "partNumber": "FD-R9100",
+      "weight": "87g",
+      "mounting": "Braze-on / Band",
+      "chainrings": "2x (double)",
+      "capacity": "16T",
+      "type": "Mécanique"
+    },
+    "brakes": {
+      "partNumber": "BR-R9170 (câble)",
+      "type": "Mécanique à disque (câble)",
+      "activation": "Câble mécanique",
+      "brakeSurface": "Rotor (disque)",
+      "rotor": "140/160mm",
+      "weight": "170g (étrier avant)",
+      "mounting": "Flat mount"
+    }
+  },
+  "Ultegra R8000 (Disque mécanique)": {
+    "speeds": 11,
+    "rdRear": {
+      "partNumber": "RD-R8000",
+      "weight": "210g",
+      "cageLength": "Short (SS)",
+      "maxCassette": "30t",
+      "type": "Mécanique",
+      "capacity": {
+        "max": "30t",
+        "maxCassette": "30t",
+        "minCassette": "11t"
+      }
+    },
+    "rdFront": {
+      "partNumber": "FD-R8000",
+      "weight": "92g",
+      "mounting": "Braze-on / Band",
+      "chainrings": "2x (double)",
+      "capacity": "16T",
+      "type": "Mécanique"
+    },
+    "brakes": {
+      "partNumber": "BR-R8070 (câble)",
+      "type": "Mécanique à disque (câble)",
+      "activation": "Câble mécanique",
+      "brakeSurface": "Rotor (disque)",
+      "rotor": "140/160mm",
+      "weight": "180g (étrier avant)",
+      "mounting": "Flat mount"
+    }
+  },
+  "105 R7000 (Disque mécanique)": {
+    "speeds": 11,
+    "rdRear": {
+      "partNumber": "RD-R7000",
+      "weight": "234g",
+      "cageLength": "Short (SS)",
+      "maxCassette": "34t",
+      "type": "Mécanique",
+      "capacity": {
+        "max": "34t",
+        "maxCassette": "34t",
+        "minCassette": "11t"
+      }
+    },
+    "rdFront": {
+      "partNumber": "FD-R7000",
+      "weight": "95g",
+      "mounting": "Braze-on / Band",
+      "chainrings": "2x (double)",
+      "capacity": "16T",
+      "type": "Mécanique"
+    },
+    "brakes": {
+      "partNumber": "BR-R7070 (câble)",
+      "type": "Mécanique à disque (câble)",
+      "activation": "Câble mécanique",
+      "brakeSurface": "Rotor (disque)",
+      "rotor": "140/160mm",
+      "weight": "190g (étrier avant)",
+      "mounting": "Flat mount"
+    }
+  },
+  "Tiagra 4700 (Disque mécanique)": {
+    "speeds": 10,
+    "rdRear": {
+      "partNumber": "RD-4700",
+      "weight": "251g",
+      "cageLength": "Short (SS)",
+      "maxCassette": "32t",
+      "type": "Mécanique",
+      "capacity": {
+        "max": "32t",
+        "maxCassette": "32t",
+        "minCassette": "12t"
+      }
+    },
+    "rdFront": {
+      "partNumber": "FD-4700",
+      "weight": "105g",
+      "mounting": "Braze-on / Band",
+      "chainrings": "2x (double)",
+      "capacity": "16T",
+      "type": "Mécanique"
+    },
+    "brakes": {
+      "partNumber": "BR-4770 (câble)",
+      "type": "Mécanique à disque (câble)",
+      "activation": "Câble mécanique",
+      "brakeSurface": "Rotor (disque)",
+      "rotor": "140/160mm",
+      "weight": "195g (étrier avant)",
+      "mounting": "Flat mount"
     }
   }
 }
