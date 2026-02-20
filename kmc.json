@@ -1,0 +1,326 @@
+{
+  "X12 (12v)": {
+    "speeds": 12,
+    "chain": {
+      "partNumber": "X12",
+      "links": "126",
+      "weight": "270g",
+      "technology": "12v standard",
+      "price": "35$",
+      "compatibility": "Shimano/SRAM 12v"
+    }
+  },
+  "X12 Ti-Nitride Gold (12v)": {
+    "speeds": 12,
+    "chain": {
+      "partNumber": "X12-TiN",
+      "links": "126",
+      "weight": "268g",
+      "technology": "Ti-Nitride gold coating",
+      "price": "75$",
+      "compatibility": "Shimano/SRAM 12v"
+    }
+  },
+  "X12 SL Gold (12v)": {
+    "speeds": 12,
+    "chain": {
+      "partNumber": "X12-SL-Gold",
+      "links": "126",
+      "weight": "247g",
+      "technology": "DLC gold coating - ultra light",
+      "price": "95$",
+      "compatibility": "Shimano/SRAM 12v"
+    }
+  },
+  "X12 Black (12v)": {
+    "speeds": 12,
+    "chain": {
+      "partNumber": "X12-BK",
+      "links": "126",
+      "weight": "270g",
+      "technology": "Black coating",
+      "price": "40$",
+      "compatibility": "Shimano/SRAM 12v"
+    }
+  },
+  "X11 (11v)": {
+    "speeds": 11,
+    "chain": {
+      "partNumber": "X11",
+      "links": "118",
+      "weight": "252g",
+      "technology": "11v standard",
+      "price": "30$",
+      "compatibility": "Shimano/SRAM/Campagnolo 11v"
+    }
+  },
+  "X11-SL DLC (11v)": {
+    "speeds": 11,
+    "chain": {
+      "partNumber": "X11-SL",
+      "links": "118",
+      "weight": "235g",
+      "technology": "DLC coating - super light",
+      "price": "75$",
+      "compatibility": "Shimano/SRAM 11v"
+    }
+  },
+  "X11 Ti-Nitride Gold (11v)": {
+    "speeds": 11,
+    "chain": {
+      "partNumber": "X11-TiN",
+      "links": "118",
+      "weight": "245g",
+      "technology": "Ti-Nitride gold coating",
+      "price": "65$",
+      "compatibility": "Shimano/SRAM 11v"
+    }
+  },
+  "X11 EL Black/Gold (11v)": {
+    "speeds": 11,
+    "chain": {
+      "partNumber": "X11-EL",
+      "links": "118",
+      "weight": "248g",
+      "technology": "E-Bike optimized - extra strong",
+      "price": "45$",
+      "compatibility": "Shimano/SRAM 11v E-Bike"
+    }
+  },
+  "X11 Turbo Black (11v)": {
+    "speeds": 11,
+    "chain": {
+      "partNumber": "X11-Turbo",
+      "links": "118",
+      "weight": "265g",
+      "technology": "E-Bike heavy duty",
+      "price": "40$",
+      "compatibility": "Shimano/SRAM 11v E-Bike"
+    }
+  },
+  "X11-93 (11v)": {
+    "speeds": 11,
+    "chain": {
+      "partNumber": "X11-93",
+      "links": "118",
+      "weight": "255g",
+      "technology": "Nickel plating - classic",
+      "price": "28$",
+      "compatibility": "Shimano/SRAM 11v"
+    }
+  },
+  "X10 (10v)": {
+    "speeds": 10,
+    "chain": {
+      "partNumber": "X10",
+      "links": "114",
+      "weight": "265g",
+      "technology": "10v standard",
+      "price": "25$",
+      "compatibility": "Shimano/SRAM 10v"
+    }
+  },
+  "X10-SL DLC (10v)": {
+    "speeds": 10,
+    "chain": {
+      "partNumber": "X10-SL",
+      "links": "114",
+      "weight": "248g",
+      "technology": "DLC coating - super light",
+      "price": "65$",
+      "compatibility": "Shimano/SRAM 10v"
+    }
+  },
+  "X10 Ti-Nitride Gold (10v)": {
+    "speeds": 10,
+    "chain": {
+      "partNumber": "X10-TiN",
+      "links": "114",
+      "weight": "255g",
+      "technology": "Ti-Nitride gold coating",
+      "price": "55$",
+      "compatibility": "Shimano/SRAM 10v"
+    }
+  },
+  "X10 EL Black (10v)": {
+    "speeds": 10,
+    "chain": {
+      "partNumber": "X10-EL",
+      "links": "114",
+      "weight": "268g",
+      "technology": "E-Bike optimized",
+      "price": "35$",
+      "compatibility": "Shimano/SRAM 10v E-Bike"
+    }
+  },
+  "X10-93 (10v)": {
+    "speeds": 10,
+    "chain": {
+      "partNumber": "X10-93",
+      "links": "114",
+      "weight": "268g",
+      "technology": "Nickel plating",
+      "price": "22$",
+      "compatibility": "Shimano/SRAM 10v"
+    }
+  },
+  "X9 (9v)": {
+    "speeds": 9,
+    "chain": {
+      "partNumber": "X9",
+      "links": "116",
+      "weight": "275g",
+      "technology": "9v standard",
+      "price": "22$",
+      "compatibility": "Shimano/SRAM 9v"
+    }
+  },
+  "X9-SL Nickel (9v)": {
+    "speeds": 9,
+    "chain": {
+      "partNumber": "X9-SL",
+      "links": "116",
+      "weight": "255g",
+      "technology": "Nickel coating - light",
+      "price": "35$",
+      "compatibility": "Shimano/SRAM 9v"
+    }
+  },
+  "X9-93 Grey (9v)": {
+    "speeds": 9,
+    "chain": {
+      "partNumber": "X9-93",
+      "links": "116",
+      "weight": "278g",
+      "technology": "Classic grey finish",
+      "price": "18$",
+      "compatibility": "Shimano/SRAM 9v"
+    }
+  },
+  "X9 EL (9v)": {
+    "speeds": 9,
+    "chain": {
+      "partNumber": "X9-EL",
+      "links": "116",
+      "weight": "285g",
+      "technology": "E-Bike optimized",
+      "price": "30$",
+      "compatibility": "Shimano/SRAM 9v E-Bike"
+    }
+  },
+  "X8 (8v)": {
+    "speeds": 8,
+    "chain": {
+      "partNumber": "X8",
+      "links": "114",
+      "weight": "285g",
+      "technology": "8v standard",
+      "price": "20$",
+      "compatibility": "Shimano/SRAM 8v"
+    }
+  },
+  "X8-93 Grey (8v)": {
+    "speeds": 8,
+    "chain": {
+      "partNumber": "X8-93",
+      "links": "114",
+      "weight": "290g",
+      "technology": "Classic grey finish",
+      "price": "16$",
+      "compatibility": "Shimano/SRAM 8v"
+    }
+  },
+  "X8 EL (8v)": {
+    "speeds": 8,
+    "chain": {
+      "partNumber": "X8-EL",
+      "links": "114",
+      "weight": "295g",
+      "technology": "E-Bike heavy duty",
+      "price": "28$",
+      "compatibility": "Shimano/SRAM 8v E-Bike"
+    }
+  },
+  "Z1 eHPT (Single Speed)": {
+    "speeds": 1,
+    "chain": {
+      "partNumber": "Z1-eHPT",
+      "links": "112",
+      "weight": "410g",
+      "technology": "E-Bike extreme duty - rust proof",
+      "price": "45$",
+      "compatibility": "Single speed / E-Bike cargo"
+    }
+  },
+  "Z410 (Single Speed)": {
+    "speeds": 1,
+    "chain": {
+      "partNumber": "Z410",
+      "links": "112",
+      "weight": "380g",
+      "technology": "BMX / Single speed standard",
+      "price": "18$",
+      "compatibility": "Single speed / BMX / 1x"
+    }
+  },
+  "Missing Link 12v": {
+    "speeds": 12,
+    "quicklink": {
+      "partNumber": "CL-573R",
+      "weight": "1.5g",
+      "technology": "Réutilisable",
+      "price": "8$",
+      "compatibility": "12v"
+    }
+  },
+  "Missing Link 11v": {
+    "speeds": 11,
+    "quicklink": {
+      "partNumber": "CL-555R",
+      "weight": "1.4g",
+      "technology": "Réutilisable",
+      "price": "7$",
+      "compatibility": "11v"
+    }
+  },
+  "Missing Link 10v": {
+    "speeds": 10,
+    "quicklink": {
+      "partNumber": "CL-566R",
+      "weight": "1.6g",
+      "technology": "Réutilisable",
+      "price": "6$",
+      "compatibility": "9/10v"
+    }
+  },
+  "Missing Link 9v Silver": {
+    "speeds": 9,
+    "quicklink": {
+      "partNumber": "CL-557R-Silver",
+      "weight": "1.7g",
+      "technology": "Réutilisable",
+      "price": "6$",
+      "compatibility": "7/8/9v"
+    }
+  },
+  "Missing Link 9v Gold": {
+    "speeds": 9,
+    "quicklink": {
+      "partNumber": "CL-557R-Gold",
+      "weight": "1.7g",
+      "technology": "Réutilisable - Gold",
+      "price": "7$",
+      "compatibility": "7/8/9v"
+    }
+  },
+  "Missing Link Single Speed": {
+    "speeds": 1,
+    "quicklink": {
+      "partNumber": "CL-571",
+      "weight": "2.2g",
+      "technology": "Heavy duty réutilisable",
+      "price": "6$",
+      "compatibility": "Single speed / 1x"
+    }
+  }
+}
