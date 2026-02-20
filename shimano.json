@@ -1,165 +1,4 @@
 {
-  "Dura-Ace 9200": {
-    "speeds": 12,
-    "category": "Route",
-    "level": "Pro",
-    "crank": {
-      "partNumber": "FC-R9200",
-      "chainrings": [
-        "54-40",
-        "52-36",
-        "50-34"
-      ],
-      "bcd": "110mm asymétrique",
-      "cranklengths": [
-        "160",
-        "165",
-        "170",
-        "172.5",
-        "175",
-        "177.5"
-      ],
-      "weight": "686g",
-      "material": "Carbone",
-      "axleType": "Hollowtech II (24mm)",
-      "compatibility": {
-        "cassettes": [
-          "Shimano 12v Route"
-        ],
-        "chains": [
-          "Shimano HG+ 12v",
-          "KMC X12"
-        ],
-        "bb": [
-          "SM-BB9200",
-          "SM-BB72",
-          "BSA/ITA"
-        ]
-      },
-      "features": [
-        "Bras carbone ultra-légers",
-        "Plateau Direct Mount",
-        "Rigidité optimale",
-        "Hollowtech II"
-      ],
-      "torqueSpecs": {
-        "crankBolt": "12-14 Nm",
-        "chainringBolts": "8-10 Nm",
-        "preload": "0.5-1 Nm puis 40°"
-      }
-    },
-    "cassette": {
-      "partNumber": "CS-R9200",
-      "options": [
-        "11-30",
-        "11-34",
-        "12-28"
-      ],
-      "speeds": "12v",
-      "weight": "215g",
-      "material": "Acier/Titane",
-      "technology": "Hyperglide+",
-      "freehubType": "Hyperglide (HG)",
-      "range": "273% (11-30t)",
-      "compatibility": {
-        "chains": [
-          "Shimano HG+ 12v",
-          "KMC X12"
-        ],
-        "derailleurs": [
-          "Shimano 12v Route"
-        ],
-        "freehubs": [
-          "HG 11/12v"
-        ]
-      },
-      "features": [
-        "Passage ultra-fluide sous charge",
-        "Construction Acier/Titane légère",
-        "Optimisée pour HG+"
-      ],
-      "torqueSpecs": {
-        "lockring": "40 Nm"
-      }
-    },
-    "bb": {
-      "partNumber": "SM-BB9200",
-      "standard": "BSA 68/70mm",
-      "axle": "24mm",
-      "axleType": "Hollowtech II",
-      "weight": "70g",
-      "material": "Aluminium",
-      "compatibility": {
-        "cranks": [
-          "Hollowtech II (Tiagra à Dura-Ace)"
-        ],
-        "frames": [
-          "BSA 68mm, 70mm"
-        ]
-      },
-      "features": [
-        "Roulements scellés",
-        "Ultra-léger",
-        "Installation facile"
-      ],
-      "torqueSpecs": {
-        "cups": "35-50 Nm"
-      }
-    },
-    "chain": {
-      "partNumber": "CN-M9100",
-      "links": "126",
-      "weight": "242g",
-      "material": "Acier traité",
-      "technology": "HG+ 12v",
-      "compatibility": {
-        "cassettes": [
-          "Shimano 12v"
-        ],
-        "derailleurs": [
-          "Shimano 12v"
-        ],
-        "speeds": "12v uniquement"
-      },
-      "features": [
-        "Attache rapide Quick-Link",
-        "Revêtement longévité",
-        "Passage fluide HG+"
-      ]
-    },
-    "rdRear": {
-      "partNumber": "RD-R9200",
-      "weight": "215g",
-      "cageLength": "Short/Medium",
-      "maxCassette": "34t",
-      "capacity": {
-        "max": "34t",
-        "maxCassette": "34t",
-        "minCassette": "11t"
-      },
-      "type": "Mécanique"
-    },
-    "rdFront": {
-      "partNumber": "FD-R9200",
-      "weight": "90g",
-      "mounting": "Braze-on / Band",
-      "chainrings": "2x (double)",
-      "capacity": "16T",
-      "type": "Mécanique"
-    },
-    "shifters": {
-      "partNumber": "ST-R9250",
-      "weight": "280g (paire)",
-      "type": "Di2 électronique"
-    },
-    "brakes": {
-      "partNumber": "BR-R9200",
-      "type": "Rim brake (étrier sur jante)",
-      "mounting": "Direct mount / Standard",
-      "weight": "140g (avant)",
-      "activation": "Câble mécanique"
-    }
-  },
   "Ultegra R8100": {
     "speeds": 12,
     "crank": {
@@ -1950,7 +1789,7 @@
       "type": "Di2 électronique"
     },
     "brakes": {
-      "partNumber": "BR-6810",
+      "partNumber": "BR-R8070",
       "type": "Rim brake (étrier sur jante)",
       "mounting": "Direct mount",
       "weight": "160g (avant)",
@@ -2024,38 +1863,6 @@
       "rotor": "140/160mm",
       "weight": "365g (paire)",
       "technology": "Servo Wave"
-    }
-  },
-  "Dura-Ace 9200 (Disque mécanique)": {
-    "speeds": 12,
-    "rdRear": {
-      "partNumber": "RD-R9200",
-      "weight": "215g",
-      "cageLength": "Short/Medium",
-      "maxCassette": "34t",
-      "type": "Mécanique",
-      "capacity": {
-        "max": "34t",
-        "maxCassette": "34t",
-        "minCassette": "11t"
-      }
-    },
-    "rdFront": {
-      "partNumber": "FD-R9200",
-      "weight": "90g",
-      "mounting": "Braze-on / Band",
-      "chainrings": "2x (double)",
-      "capacity": "16T",
-      "type": "Mécanique"
-    },
-    "brakes": {
-      "partNumber": "BR-R9270 (câble)",
-      "type": "Mécanique à disque (câble)",
-      "activation": "Câble mécanique",
-      "brakeSurface": "Rotor (disque)",
-      "rotor": "140/160mm",
-      "weight": "165g (étrier avant)",
-      "mounting": "Flat mount"
     }
   },
   "Ultegra R8100 (Disque mécanique)": {
@@ -2376,6 +2183,199 @@
       "rotor": "140/160mm",
       "weight": "380g (paire)",
       "technology": "Flat mount"
+    }
+  },
+  "Dura-Ace R9200": {
+    "speeds": 12,
+    "category": "Route",
+    "level": "Pro",
+    "crank": {
+      "partNumber": "FC-R9200",
+      "chainrings": [
+        "54-40",
+        "52-36",
+        "50-34"
+      ],
+      "bcd": "110mm asymétrique",
+      "cranklengths": [
+        "160",
+        "165",
+        "170",
+        "172.5",
+        "175",
+        "177.5"
+      ],
+      "weight": "686g",
+      "material": "Carbone",
+      "axleType": "Hollowtech II (24mm)",
+      "compatibility": {
+        "cassettes": [
+          "Shimano 12v Route"
+        ],
+        "chains": [
+          "Shimano HG+ 12v",
+          "KMC X12"
+        ],
+        "bb": [
+          "SM-BB9200",
+          "SM-BB72",
+          "BSA/ITA"
+        ]
+      },
+      "features": [
+        "Bras carbone ultra-légers",
+        "Plateau Direct Mount",
+        "Rigidité optimale",
+        "Hollowtech II"
+      ],
+      "torqueSpecs": {
+        "crankBolt": "12-14 Nm",
+        "chainringBolts": "8-10 Nm",
+        "preload": "0.5-1 Nm puis 40°"
+      }
+    },
+    "cassette": {
+      "partNumber": "CS-R9200",
+      "options": [
+        "11-30",
+        "11-34",
+        "12-28"
+      ],
+      "speeds": "12v",
+      "weight": "215g",
+      "material": "Acier/Titane",
+      "technology": "Hyperglide+",
+      "freehubType": "Hyperglide (HG)",
+      "range": "273% (11-30t)",
+      "compatibility": {
+        "chains": [
+          "Shimano HG+ 12v",
+          "KMC X12"
+        ],
+        "derailleurs": [
+          "Shimano 12v Route"
+        ],
+        "freehubs": [
+          "HG 11/12v"
+        ]
+      },
+      "features": [
+        "Passage ultra-fluide sous charge",
+        "Construction Acier/Titane légère",
+        "Optimisée pour HG+"
+      ],
+      "torqueSpecs": {
+        "lockring": "40 Nm"
+      }
+    },
+    "bb": {
+      "partNumber": "SM-BB9200",
+      "standard": "BSA 68/70mm",
+      "axle": "24mm",
+      "axleType": "Hollowtech II",
+      "weight": "70g",
+      "material": "Aluminium",
+      "compatibility": {
+        "cranks": [
+          "Hollowtech II (Tiagra à Dura-Ace)"
+        ],
+        "frames": [
+          "BSA 68mm, 70mm"
+        ]
+      },
+      "features": [
+        "Roulements scellés",
+        "Ultra-léger",
+        "Installation facile"
+      ],
+      "torqueSpecs": {
+        "cups": "35-50 Nm"
+      }
+    },
+    "chain": {
+      "partNumber": "CN-M9100",
+      "links": "126",
+      "weight": "242g",
+      "material": "Acier traité",
+      "technology": "HG+ 12v",
+      "compatibility": {
+        "cassettes": [
+          "Shimano 12v"
+        ],
+        "derailleurs": [
+          "Shimano 12v"
+        ],
+        "speeds": "12v uniquement"
+      },
+      "features": [
+        "Attache rapide Quick-Link",
+        "Revêtement longévité",
+        "Passage fluide HG+"
+      ]
+    },
+    "rdRear": {
+      "partNumber": "RD-R9200",
+      "weight": "215g",
+      "cageLength": "Short/Medium",
+      "maxCassette": "34t",
+      "capacity": {
+        "max": "34t",
+        "maxCassette": "34t",
+        "minCassette": "11t"
+      },
+      "type": "Mécanique"
+    },
+    "rdFront": {
+      "partNumber": "FD-R9200",
+      "weight": "90g",
+      "mounting": "Braze-on / Band",
+      "chainrings": "2x (double)",
+      "capacity": "16T",
+      "type": "Mécanique"
+    },
+    "shifters": {
+      "partNumber": "ST-R9250",
+      "weight": "280g (paire)",
+      "type": "Di2 électronique"
+    },
+    "brakes": {
+      "partNumber": "BR-R9200",
+      "type": "Rim brake (étrier sur jante)",
+      "mounting": "Direct mount / Standard",
+      "weight": "140g (avant)",
+      "activation": "Câble mécanique"
+    }
+  },
+  "Dura-Ace R9200 (Disque mécanique)": {
+    "speeds": 12,
+    "rdRear": {
+      "partNumber": "RD-R9200",
+      "weight": "215g",
+      "cageLength": "Short/Medium",
+      "maxCassette": "34t",
+      "type": "Mécanique",
+      "capacity": {
+        "max": "34t",
+        "maxCassette": "34t",
+        "minCassette": "11t"
+      }
+    },
+    "rdFront": {
+      "partNumber": "FD-R9200",
+      "weight": "90g",
+      "mounting": "Braze-on / Band",
+      "chainrings": "2x (double)",
+      "capacity": "16T",
+      "type": "Mécanique"
+    },
+    "brakes": {
+      "partNumber": "BR-R9270 (câble)",
+      "type": "Mécanique à disque (câble)",
+      "activation": "Câble mécanique",
+      "brakeSurface": "Rotor (disque)",
+      "rotor": "140/160mm",
+      "weight": "165g (étrier avant)",
+      "mounting": "Flat mount"
     }
   }
 }

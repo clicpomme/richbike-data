@@ -236,5 +236,370 @@
       "weight": "295g",
       "technology": "9v"
     }
+  },
+  "Advent": {
+    "speeds": 9,
+    "type": "MTB",
+    "rdRear": {
+      "partNumber": "RD-M619M-B",
+      "type": "Mécanique",
+      "capacity": "41T",
+      "maxCog": "40-46T",
+      "clutch": true,
+      "weight": "314g"
+    },
+    "rdFront": null,
+    "shifters": {
+      "right": {
+        "partNumber": "SL-M9195-R",
+        "type": "Trail Trigger",
+        "compatibility": "Advent only",
+        "weight": "120g"
+      },
+      "left": null
+    },
+    "cassette": {
+      "partNumber": "CS-H093",
+      "speeds": 9,
+      "range": "11-42T",
+      "teeth": "11-13-15-18-21-24-28-34-42",
+      "weight": "530g"
+    },
+    "chain": {
+      "partNumber": "Compatible Shimano 9v",
+      "speeds": 9,
+      "weight": "~275g"
+    },
+    "brakes": null,
+    "bottomBracket": null
+  },
+  "Sword Black": {
+    "speeds": 9,
+    "type": "Gravel/Road",
+    "rdRear": {
+      "partNumber": "RD-G7900M",
+      "type": "Mécanique",
+      "capacity": "37T",
+      "maxCog": "42-48T",
+      "cage": "Medium",
+      "weight": "344g"
+    },
+    "rdFront": {
+      "partNumber": "FD-G7920-F",
+      "type": "Mécanique",
+      "chainline": "47mm",
+      "capacity": "17T",
+      "maxChainring": "46-52T",
+      "weight": "110g"
+    },
+    "shifters": {
+      "right": {
+        "partNumber": "SB-G7900-R",
+        "type": "Drop Bar",
+        "compatibility": "Sword/Advent cable pull",
+        "reach": "Adjustable",
+        "weight": "282g"
+      },
+      "left": {
+        "partNumber": "SB-G7920-2L",
+        "type": "Drop Bar Double",
+        "weight": "280g"
+      }
+    },
+    "cassette": {
+      "partNumber": "Compatible CS-H093",
+      "speeds": 9,
+      "range": "11-42T",
+      "weight": "~530g"
+    },
+    "chain": {
+      "partNumber": "Compatible Shimano 9v",
+      "speeds": 9,
+      "weight": "~275g"
+    },
+    "brakes": {
+      "partNumber": "SB-G7900-L",
+      "type": "Brake Lever",
+      "weight": "206g"
+    },
+    "bottomBracket": {
+      "partNumber": "Square Taper compatible",
+      "type": "Square Taper",
+      "width": "68/73mm"
+    }
+  },
+  "Centos 10": {
+    "speeds": 10,
+    "type": "Road",
+    "rdRear": {
+      "partNumber": "Compatible Shimano 10v",
+      "type": "Mécanique",
+      "compatibility": "Shimano Road 10-speed (Tiagra 4700)"
+    },
+    "rdFront": {
+      "partNumber": "Compatible Shimano 10v",
+      "type": "Mécanique",
+      "compatibility": "Shimano Road 10-speed"
+    },
+    "shifters": {
+      "right": {
+        "partNumber": "SB-R402K",
+        "type": "Integrated Drop Bar",
+        "routing": "External cable",
+        "reach": "Standard/Short",
+        "compatibility": "Shimano Road 10-speed 4600",
+        "weight": "~380g"
+      },
+      "left": {
+        "partNumber": "SB-R403K (3x) / SB-R402K (2x)",
+        "type": "Integrated Drop Bar",
+        "weight": "~380g"
+      }
+    },
+    "cassette": {
+      "partNumber": "CS-H100",
+      "speeds": 10,
+      "range": "11-28T, 11-32T, 11-34T, 11-36T",
+      "weight": "~280g"
+    },
+    "chain": {
+      "partNumber": "Compatible Shimano 10v",
+      "speeds": 10,
+      "weight": "~270g"
+    },
+    "brakes": null,
+    "bottomBracket": null
+  },
+  "XLE 11": {
+    "speeds": 11,
+    "type": "MTB",
+    "rdRear": {
+      "partNumber": "RD-M665M",
+      "type": "Mécanique",
+      "capacity": "41T",
+      "maxCog": "40-46T",
+      "cage": "Medium",
+      "clutch": true,
+      "weight": "379g"
+    },
+    "rdFront": null,
+    "shifters": {
+      "right": {
+        "partNumber": "SL-M851-R",
+        "type": "Xpress Plus",
+        "compatibility": "Shimano Mountain 11-speed",
+        "weight": "112g"
+      },
+      "left": {
+        "partNumber": "SL-M851-2 (2x)",
+        "type": "Xpress Plus",
+        "weight": "225g"
+      }
+    },
+    "cassette": {
+      "partNumber": "CS-H113",
+      "speeds": 11,
+      "range": "11-40T, 11-42T, 11-46T",
+      "teeth": "11-13-15-18-21-24-28-32-36-40-46",
+      "weight": "686g (11-46T)"
+    },
+    "chain": {
+      "partNumber": "Compatible Shimano 11v",
+      "speeds": 11,
+      "weight": "~250g"
+    },
+    "brakes": null,
+    "bottomBracket": null
+  },
+  "XLE 10": {
+    "speeds": 10,
+    "type": "MTB",
+    "rdRear": {
+      "partNumber": "RD-M665M",
+      "type": "Mécanique",
+      "capacity": "41T",
+      "maxCog": "40-46T",
+      "cage": "Medium",
+      "clutch": true,
+      "weight": "373g"
+    },
+    "rdFront": null,
+    "shifters": {
+      "right": {
+        "partNumber": "SL-M850-R",
+        "type": "Xpress Plus",
+        "compatibility": "Shimano Mountain 10-speed",
+        "weight": "112g"
+      },
+      "left": {
+        "partNumber": "SL-M850-2 (2x) / SL-M850-3 (3x)",
+        "type": "Xpress Plus",
+        "weight": "225g (2x)"
+      }
+    },
+    "cassette": {
+      "partNumber": "CS-H103",
+      "speeds": 10,
+      "range": "11-40T, 11-42T",
+      "weight": "~600g"
+    },
+    "chain": {
+      "partNumber": "Compatible Shimano 10v",
+      "speeds": 10,
+      "weight": "~270g"
+    },
+    "brakes": null,
+    "bottomBracket": null
+  },
+  "Acolyte": {
+    "speeds": 8,
+    "type": "MTB",
+    "rdRear": {
+      "partNumber": "RD-M36S",
+      "type": "Mécanique",
+      "cage": "Short",
+      "weight": "~290g"
+    },
+    "rdFront": null,
+    "shifters": {
+      "right": {
+        "partNumber": "SL-M6180-R",
+        "type": "Quick Trigger",
+        "compatibility": "8-speed",
+        "weight": "~120g"
+      },
+      "left": null
+    },
+    "cassette": {
+      "partNumber": "CS-H081",
+      "speeds": 8,
+      "range": "11-28T, 11-32T, 11-34T",
+      "weight": "~300g"
+    },
+    "chain": {
+      "partNumber": "Compatible Shimano 8v",
+      "speeds": 8,
+      "weight": "~290g"
+    },
+    "brakes": null,
+    "bottomBracket": null
+  },
+  "R10": {
+    "speeds": 10,
+    "type": "Road",
+    "rdRear": {
+      "partNumber": "Compatible Shimano 10v",
+      "type": "Mécanique",
+      "compatibility": "Shimano Road 10-speed (Tiagra 4700)"
+    },
+    "rdFront": {
+      "partNumber": "Compatible Shimano 10v",
+      "type": "Mécanique"
+    },
+    "shifters": {
+      "right": {
+        "partNumber": "SB-R402K",
+        "type": "Integrated Drop Bar",
+        "routing": "External cable",
+        "reach": "Standard/Short",
+        "weight": "~380g"
+      },
+      "left": {
+        "partNumber": "SB-R402K (2x) / SB-R403K (3x)",
+        "type": "Integrated Drop Bar",
+        "weight": "~380g"
+      }
+    },
+    "cassette": {
+      "partNumber": "CS-H100",
+      "speeds": 10,
+      "range": "11-25T, 11-28T, 11-32T, 11-34T, 11-36T",
+      "weight": "~280g"
+    },
+    "chain": {
+      "partNumber": "Compatible Shimano 10v",
+      "speeds": 10,
+      "weight": "~270g"
+    },
+    "brakes": null,
+    "bottomBracket": null
+  },
+  "R9": {
+    "speeds": 9,
+    "type": "Road",
+    "rdRear": {
+      "partNumber": "Compatible Shimano 9v",
+      "type": "Mécanique"
+    },
+    "rdFront": {
+      "partNumber": "Compatible Shimano 9v",
+      "type": "Mécanique"
+    },
+    "shifters": {
+      "right": {
+        "partNumber": "SB-R492",
+        "type": "Integrated Drop Bar",
+        "routing": "External cable",
+        "reach": "Standard/Short",
+        "weight": "~380g"
+      },
+      "left": {
+        "partNumber": "SB-R492 (2x) / SB-R493 (3x)",
+        "type": "Integrated Drop Bar",
+        "weight": "~380g"
+      }
+    },
+    "cassette": {
+      "partNumber": "CS-H092",
+      "speeds": 9,
+      "range": "11-25T, 11-28T, 11-32T, 11-34T, 11-36T",
+      "weight": "~300g"
+    },
+    "chain": {
+      "partNumber": "Compatible Shimano 9v",
+      "speeds": 9,
+      "weight": "~275g"
+    },
+    "brakes": null,
+    "bottomBracket": null
+  },
+  "R8": {
+    "speeds": 8,
+    "type": "Road",
+    "rdRear": {
+      "partNumber": "Compatible Shimano 8v",
+      "type": "Mécanique"
+    },
+    "rdFront": {
+      "partNumber": "Compatible Shimano 8v",
+      "type": "Mécanique"
+    },
+    "shifters": {
+      "right": {
+        "partNumber": "SB-R482",
+        "type": "Integrated Drop Bar",
+        "routing": "External cable",
+        "reach": "Standard/Short",
+        "weight": "~380g"
+      },
+      "left": {
+        "partNumber": "SB-R482 (2x) / SB-R483 (3x)",
+        "type": "Integrated Drop Bar",
+        "weight": "~380g"
+      }
+    },
+    "cassette": {
+      "partNumber": "CS-H081",
+      "speeds": 8,
+      "range": "11-28T, 11-32T, 11-34T",
+      "weight": "~280g"
+    },
+    "chain": {
+      "partNumber": "Compatible Shimano 8v",
+      "speeds": 8,
+      "weight": "~290g"
+    },
+    "brakes": null,
+    "bottomBracket": null
   }
 }
