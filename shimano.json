@@ -453,7 +453,17 @@
       "partNumber": "BR-R9100",
       "type": "Étrier route mécanique",
       "mounting": "Direct mount / Standard",
-      "weight": "145g (avant)"
+      "weight": "145g (avant)",
+      "rimBrake": true,
+      "brakeSurface": "Jante (rim brake)"
+    },
+    "brakePads": {
+      "partNumber": "R55C4",
+      "type": "Patins carbone haute performance",
+      "material": "Carbone (jante carbone)",
+      "weight": "38g (paire)",
+      "compatibility": "Jantes carbone uniquement",
+      "conditions": "Sec et pluie"
     }
   },
   "Ultegra R8000": {
@@ -531,7 +541,17 @@
       "partNumber": "BR-R8000",
       "type": "Étrier route mécanique",
       "mounting": "Direct mount / Standard",
-      "weight": "158g (avant)"
+      "weight": "158g (avant)",
+      "rimBrake": true,
+      "brakeSurface": "Jante (rim brake)"
+    },
+    "brakePads": {
+      "partNumber": "R55C4",
+      "type": "Patins mixtes",
+      "material": "Cork/Rubber compound",
+      "weight": "40g (paire)",
+      "compatibility": "Jantes alu/carbone",
+      "conditions": "Toutes conditions"
     }
   },
   "105 R7000": {
@@ -606,7 +626,17 @@
       "partNumber": "BR-R7000",
       "type": "Étrier route mécanique",
       "mounting": "Direct mount / Standard",
-      "weight": "170g (avant)"
+      "weight": "170g (avant)",
+      "rimBrake": true,
+      "brakeSurface": "Jante (rim brake)"
+    },
+    "brakePads": {
+      "partNumber": "R55C4",
+      "type": "Patins standard",
+      "material": "Cork/Rubber",
+      "weight": "42g (paire)",
+      "compatibility": "Jantes alu principalement",
+      "conditions": "Toutes conditions"
     }
   },
   "GRX RX800": {
@@ -750,7 +780,17 @@
       "partNumber": "BR-4700",
       "type": "Étrier route mécanique",
       "mounting": "Standard",
-      "weight": "185g (avant)"
+      "weight": "185g (avant)",
+      "rimBrake": true,
+      "brakeSurface": "Jante (rim brake)"
+    },
+    "brakePads": {
+      "partNumber": "R50T2",
+      "type": "Patins standard",
+      "material": "Rubber",
+      "weight": "45g (paire)",
+      "compatibility": "Jantes alu",
+      "conditions": "Toutes conditions"
     }
   },
   "Sora R3000": {
@@ -966,7 +1006,17 @@
       "partNumber": "BR-6700",
       "type": "Étrier route mécanique",
       "mounting": "Standard",
-      "weight": "165g (avant)"
+      "weight": "165g (avant)",
+      "rimBrake": true,
+      "brakeSurface": "Jante (rim brake)"
+    },
+    "brakePads": {
+      "partNumber": "R55C3",
+      "type": "Patins mixtes",
+      "material": "Cork/Rubber",
+      "weight": "42g (paire)",
+      "compatibility": "Jantes alu/carbone",
+      "conditions": "Toutes conditions"
     }
   },
   "105 5700": {
@@ -1038,7 +1088,17 @@
       "partNumber": "BR-5700",
       "type": "Étrier route mécanique",
       "mounting": "Standard",
-      "weight": "175g (avant)"
+      "weight": "175g (avant)",
+      "rimBrake": true,
+      "brakeSurface": "Jante (rim brake)"
+    },
+    "brakePads": {
+      "partNumber": "R55C3",
+      "type": "Patins standard",
+      "material": "Rubber compound",
+      "weight": "44g (paire)",
+      "compatibility": "Jantes alu",
+      "conditions": "Toutes conditions"
     }
   },
   "Deore XT M770": {
@@ -1721,6 +1781,14 @@
       "chainrings": "2x (double)",
       "capacity": "14T",
       "type": "Mécanique"
+    },
+    "brakePads": {
+      "partNumber": "R55C3",
+      "type": "Patins carbone",
+      "material": "Carbone",
+      "weight": "38g (paire)",
+      "compatibility": "Jantes carbone",
+      "conditions": "Sec et pluie"
     }
   },
   "Dura-Ace 9150 (Di2 11v)": {
@@ -1749,7 +1817,17 @@
       "partNumber": "BR-R9110",
       "type": "Étrier route mécanique",
       "mounting": "Direct mount",
-      "weight": "150g (avant)"
+      "weight": "150g (avant)",
+      "rimBrake": true,
+      "brakeSurface": "Jante (rim brake)"
+    },
+    "brakePads": {
+      "partNumber": "R55C4",
+      "type": "Patins carbone haute performance",
+      "material": "Carbone",
+      "weight": "38g (paire)",
+      "compatibility": "Jantes carbone uniquement",
+      "conditions": "Sec et pluie"
     }
   },
   "Ultegra 6700 (10v)": {
@@ -1773,6 +1851,14 @@
       "chainrings": "2x (double)",
       "capacity": "14T",
       "type": "Mécanique"
+    },
+    "brakePads": {
+      "partNumber": "R55C3",
+      "type": "Patins mixtes",
+      "material": "Cork/Rubber",
+      "weight": "42g (paire)",
+      "compatibility": "Jantes alu/carbone",
+      "conditions": "Toutes conditions"
     }
   },
   "Ultegra 6770 (Di2 10v)": {
@@ -1801,7 +1887,17 @@
       "partNumber": "BR-6700",
       "type": "Étrier route mécanique",
       "mounting": "Standard",
-      "weight": "165g (avant)"
+      "weight": "165g (avant)",
+      "rimBrake": true,
+      "brakeSurface": "Jante (rim brake)"
+    },
+    "brakePads": {
+      "partNumber": "R55C3",
+      "type": "Patins mixtes",
+      "material": "Cork/Rubber",
+      "weight": "42g (paire)",
+      "compatibility": "Jantes alu/carbone",
+      "conditions": "Toutes conditions"
     }
   },
   "Ultegra 6870 (Di2 11v)": {
@@ -1830,7 +1926,17 @@
       "partNumber": "BR-6810",
       "type": "Étrier route mécanique",
       "mounting": "Direct mount",
-      "weight": "160g (avant)"
+      "weight": "160g (avant)",
+      "rimBrake": true,
+      "brakeSurface": "Jante (rim brake)"
+    },
+    "brakePads": {
+      "partNumber": "R55C4",
+      "type": "Patins mixtes",
+      "material": "Cork/Rubber compound",
+      "weight": "40g (paire)",
+      "compatibility": "Jantes alu/carbone",
+      "conditions": "Toutes conditions"
     }
   },
   "105 R7150 (Di2 11v)": {

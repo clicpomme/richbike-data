@@ -443,7 +443,17 @@
       "weight": "385g",
       "type": "Hydraulique",
       "pistons": "2 pistons",
-      "mounting": "Flat Mount"
+      "mounting": "Flat Mount",
+      "rimBrake": true,
+      "brakeSurface": "Jante (rim brake)"
+    },
+    "brakePads": {
+      "partNumber": "Force Brake Pads",
+      "type": "Patins route",
+      "material": "SwissStop compound",
+      "weight": "40g (paire)",
+      "compatibility": "Jantes alu/carbone",
+      "conditions": "Toutes conditions"
     }
   },
   "Rival 22": {
@@ -516,7 +526,17 @@
       "weight": "405g",
       "type": "Hydraulique",
       "pistons": "2 pistons",
-      "mounting": "Flat Mount"
+      "mounting": "Flat Mount",
+      "rimBrake": true,
+      "brakeSurface": "Jante (rim brake)"
+    },
+    "brakePads": {
+      "partNumber": "Rival Brake Pads",
+      "type": "Patins route",
+      "material": "SwissStop compound",
+      "weight": "42g (paire)",
+      "compatibility": "Jantes alu",
+      "conditions": "Toutes conditions"
     }
   },
   "Apex": {
