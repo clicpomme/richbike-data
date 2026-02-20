@@ -74,239 +74,66 @@
       "activation": "Câble mécanique"
     }
   },
-  "105 R7100": {
+  "Ultegra R8170 (Di2)": {
     "speeds": 12,
-    "crank": {
-      "partNumber": "FC-R7100",
-      "chainrings": [
-        "52-36",
-        "50-34"
-      ],
-      "bcd": "110mm asymétrique",
-      "cranklengths": [
-        "165",
-        "170",
-        "172.5",
-        "175"
-      ],
-      "weight": "752g",
-      "compatibility": "12v"
-    },
-    "cassette": {
-      "partNumber": "CS-R7100",
-      "options": [
-        "11-30",
-        "11-34",
-        "11-36",
-        "12-28"
-      ],
-      "speeds": "12v",
-      "weight": "345g",
-      "technology": "Hyperglide+"
-    },
-    "bb": {
-      "partNumber": "SM-BB7100",
-      "standard": "BSA 68mm",
-      "axle": "24mm",
-      "weight": "88g"
-    },
-    "chain": {
-      "partNumber": "CN-M9100",
-      "links": "126",
-      "weight": "242g",
-      "technology": "HG+ 12v"
-    },
     "rdRear": {
-      "partNumber": "RD-R7100",
-      "weight": "262g",
+      "partNumber": "RD-R8150-Di2",
+      "weight": "227g",
       "cageLength": "Short/Medium",
       "maxCassette": "34t",
+      "type": "Di2 électronique",
       "capacity": {
         "max": "34t",
         "maxCassette": "34t",
         "minCassette": "11t"
-      },
-      "type": "Mécanique"
+      }
     },
     "rdFront": {
-      "partNumber": "FD-R7100",
-      "weight": "107g",
+      "partNumber": "FD-R8150",
+      "weight": "95g",
+      "mounting": "Braze-on / Band",
+      "type": "Di2 électronique",
+      "chainrings": "2x (double)",
+      "capacity": "16T"
+    },
+    "brakes": {
+      "partNumber": "BR-R8170",
+      "type": "Hydraulique à disque",
+      "rotor": "140/160mm",
+      "weight": "350g (paire)",
+      "technology": "Servo Wave"
+    }
+  },
+  "Ultegra R8070": {
+    "speeds": 11,
+    "rdRear": {
+      "partNumber": "RD-R8000",
+      "weight": "210g",
+      "cageLength": "Short (SS)",
+      "maxCassette": "34t",
+      "type": "Mécanique",
+      "capacity": {
+        "max": "34t",
+        "maxCassette": "34t",
+        "minCassette": "11t"
+      }
+    },
+    "rdFront": {
+      "partNumber": "FD-R8000",
+      "weight": "92g",
       "mounting": "Braze-on / Band",
       "chainrings": "2x (double)",
       "capacity": "16T",
       "type": "Mécanique"
     },
-    "shifters": {
-      "partNumber": "ST-R7170",
-      "weight": "340g (paire)",
-      "type": "STI mécanique"
-    },
     "brakes": {
-      "partNumber": "BR-R7100",
-      "type": "Rim brake (étrier sur jante)",
-      "mounting": "Direct mount / Standard",
-      "weight": "165g (avant)",
-      "activation": "Câble mécanique"
-    }
-  },
-  "GRX RX820": {
-    "speeds": 12,
-    "crank": {
-      "partNumber": "FC-RX820",
-      "chainrings": [
-        "48-31",
-        "46-30"
-      ],
-      "bcd": "110mm asymétrique",
-      "cranklengths": [
-        "170",
-        "172.5",
-        "175"
-      ],
-      "weight": "732g",
-      "compatibility": "12v gravel"
-    },
-    "cassette": {
-      "partNumber": "CS-RX820",
-      "options": [
-        "10-45",
-        "10-51"
-      ],
-      "speeds": "12v",
-      "weight": "358g",
-      "technology": "Hyperglide+ MTB"
-    },
-    "bb": {
-      "partNumber": "SM-BB8200",
-      "standard": "BSA 68mm",
-      "axle": "24mm",
-      "weight": "74g"
-    },
-    "chain": {
-      "partNumber": "CN-M9100",
-      "links": "126",
-      "weight": "242g",
-      "technology": "HG+ 12v"
-    },
-    "rdRear": {
-      "partNumber": "RD-RX820",
-      "weight": "303g",
-      "cageLength": "Medium",
-      "maxCassette": "45t",
-      "capacity": {
-        "max": "45t",
-        "maxCassette": "45t",
-        "minCassette": "10t"
-      },
-      "type": "Di2 électronique"
-    },
-    "rdFront": {
-      "partNumber": "FD-RX820",
-      "weight": "110g",
-      "mounting": "Braze-on / Band",
-      "chainrings": "2x (double)",
-      "capacity": "17T",
-      "type": "Di2 électronique"
-    },
-    "shifters": {
-      "partNumber": "ST-RX820",
-      "weight": "280g (paire)",
-      "type": "STI mécanique"
-    },
-    "brakes": {
-      "partNumber": "BR-RX820",
+      "partNumber": "BR-R8070",
       "type": "Hydraulique à disque",
+      "activation": "Huile hydraulique",
+      "brakeSurface": "Rotor (disque)",
       "rotor": "140/160mm",
       "weight": "365g (paire)",
-      "technology": "Servo Wave gravel"
-    }
-  },
-  "Dura-Ace 9100": {
-    "speeds": 11,
-    "crank": {
-      "partNumber": "FC-9100",
-      "chainrings": [
-        "54-42",
-        "53-39",
-        "52-36",
-        "50-34"
-      ],
-      "bcd": "110mm",
-      "cranklengths": [
-        "165",
-        "170",
-        "172.5",
-        "175",
-        "177.5",
-        "180"
-      ],
-      "weight": "683g",
-      "compatibility": "11v"
-    },
-    "cassette": {
-      "partNumber": "CS-9100",
-      "options": [
-        "11-25",
-        "11-28",
-        "11-30",
-        "12-25",
-        "12-28",
-        "14-28"
-      ],
-      "speeds": "11v",
-      "weight": "175g",
-      "technology": "HG-EV"
-    },
-    "bb": {
-      "partNumber": "SM-BB9100",
-      "standard": "BSA 68/70mm",
-      "axle": "24mm",
-      "weight": "67g"
-    },
-    "chain": {
-      "partNumber": "CN-HG701",
-      "links": "116",
-      "weight": "257g",
-      "technology": "HG-EV 11v"
-    },
-    "rdRear": {
-      "partNumber": "RD-R9100",
-      "weight": "166g",
-      "cageLength": "Short",
-      "maxCassette": "30t",
-      "capacity": {
-        "max": "30t",
-        "maxCassette": "30t",
-        "minCassette": "11t"
-      },
-      "type": "Mécanique"
-    },
-    "rdFront": {
-      "partNumber": "FD-R9100",
-      "weight": "87g",
-      "mounting": "Braze-on"
-    },
-    "shifters": {
-      "partNumber": "ST-R9150",
-      "weight": "290g (paire)",
-      "type": "Di2 électronique"
-    },
-    "brakes": {
-      "partNumber": "BR-R9100",
-      "type": "Rim brake (étrier sur jante)",
-      "mounting": "Direct mount / Standard",
-      "weight": "145g (avant)",
-      "rimBrake": true,
-      "brakeSurface": "Jante (rim brake)",
-      "activation": "Câble mécanique"
-    },
-    "brakePads": {
-      "partNumber": "R55C4",
-      "type": "Patins carbone haute performance",
-      "material": "Carbone (jante carbone)",
-      "weight": "38g (paire)",
-      "compatibility": "Jantes carbone uniquement",
-      "conditions": "Sec et pluie"
+      "technology": "Flat mount"
     }
   },
   "Ultegra R8000": {
@@ -398,6 +225,635 @@
       "conditions": "Toutes conditions"
     }
   },
+  "Ultegra R8070 (Di2)": {
+    "speeds": 11,
+    "rdRear": {
+      "partNumber": "RD-6870",
+      "weight": "210g",
+      "cageLength": "Short (SS)",
+      "maxCassette": "30t",
+      "type": "Di2 électronique",
+      "capacity": {
+        "max": "30t",
+        "maxCassette": "30t",
+        "minCassette": "11t"
+      }
+    },
+    "rdFront": {
+      "partNumber": "FD-6870",
+      "weight": "110g",
+      "mounting": "Braze-on / Band",
+      "chainrings": "2x (double)",
+      "capacity": "16T",
+      "type": "Di2 électronique"
+    },
+    "brakes": {
+      "partNumber": "BR-6870",
+      "type": "Hydraulique à disque",
+      "activation": "Huile hydraulique",
+      "brakeSurface": "Rotor (disque)",
+      "rotor": "140/160mm",
+      "weight": "375g (paire)",
+      "technology": "Flat mount Di2"
+    }
+  },
+  "Ultegra 6870 (Di2)": {
+    "speeds": 11,
+    "rdRear": {
+      "partNumber": "RD-6870",
+      "weight": "210g",
+      "cageLength": "Short (SS)",
+      "maxCassette": "30t",
+      "type": "Di2 électronique",
+      "capacity": {
+        "max": "30t",
+        "maxCassette": "30t",
+        "minCassette": "11t"
+      }
+    },
+    "rdFront": {
+      "partNumber": "FD-6870",
+      "weight": "110g",
+      "mounting": "Braze-on / Band",
+      "chainrings": "2x (double)",
+      "capacity": "16T",
+      "type": "Di2 électronique"
+    },
+    "brakes": {
+      "partNumber": "BR-R8070",
+      "type": "Rim brake (étrier sur jante)",
+      "mounting": "Direct mount",
+      "weight": "160g (avant)",
+      "rimBrake": true,
+      "brakeSurface": "Jante (rim brake)",
+      "activation": "Câble mécanique"
+    },
+    "brakePads": {
+      "partNumber": "R55C4",
+      "type": "Patins mixtes",
+      "material": "Cork/Rubber compound",
+      "weight": "40g (paire)",
+      "compatibility": "Jantes alu/carbone",
+      "conditions": "Toutes conditions"
+    }
+  },
+  "Ultegra 6770 (Di2)": {
+    "speeds": 10,
+    "rdRear": {
+      "partNumber": "RD-6770",
+      "weight": "195g",
+      "cageLength": "Short (SS)",
+      "maxCassette": "28t",
+      "type": "Di2 électronique",
+      "capacity": {
+        "max": "28t",
+        "maxCassette": "28t",
+        "minCassette": "12t"
+      }
+    },
+    "rdFront": {
+      "partNumber": "FD-6770",
+      "weight": "112g",
+      "mounting": "Braze-on / Band",
+      "chainrings": "2x (double)",
+      "capacity": "14T",
+      "type": "Di2 électronique"
+    },
+    "brakes": {
+      "partNumber": "BR-6700",
+      "type": "Rim brake (étrier sur jante)",
+      "mounting": "Standard",
+      "weight": "165g (avant)",
+      "rimBrake": true,
+      "brakeSurface": "Jante (rim brake)",
+      "activation": "Câble mécanique"
+    },
+    "brakePads": {
+      "partNumber": "R55C3",
+      "type": "Patins mixtes",
+      "material": "Cork/Rubber",
+      "weight": "42g (paire)",
+      "compatibility": "Jantes alu/carbone",
+      "conditions": "Toutes conditions"
+    }
+  },
+  "Dura-Ace R9270 (Di2)": {
+    "speeds": 12,
+    "rdRear": {
+      "partNumber": "RD-R9250-Di2",
+      "weight": "215g",
+      "cageLength": "Short/Medium",
+      "maxCassette": "34t",
+      "type": "Di2 électronique",
+      "capacity": {
+        "max": "34t",
+        "maxCassette": "34t",
+        "minCassette": "11t"
+      }
+    },
+    "rdFront": {
+      "partNumber": "FD-R9250",
+      "weight": "90g",
+      "mounting": "Braze-on / Band",
+      "type": "Di2 électronique",
+      "chainrings": "2x (double)",
+      "capacity": "16T"
+    },
+    "brakes": {
+      "partNumber": "BR-R9270",
+      "type": "Hydraulique à disque",
+      "rotor": "140/160mm",
+      "weight": "335g (paire)",
+      "technology": "Servo Wave"
+    }
+  },
+  "Dura-Ace R9200": {
+    "speeds": 12,
+    "category": "Route",
+    "level": "Pro",
+    "crank": {
+      "partNumber": "FC-R9200",
+      "chainrings": [
+        "54-40",
+        "52-36",
+        "50-34"
+      ],
+      "bcd": "110mm asymétrique",
+      "cranklengths": [
+        "160",
+        "165",
+        "170",
+        "172.5",
+        "175",
+        "177.5"
+      ],
+      "weight": "686g",
+      "material": "Carbone",
+      "axleType": "Hollowtech II (24mm)",
+      "compatibility": {
+        "cassettes": [
+          "Shimano 12v Route"
+        ],
+        "chains": [
+          "Shimano HG+ 12v",
+          "KMC X12"
+        ],
+        "bb": [
+          "SM-BB9200",
+          "SM-BB72",
+          "BSA/ITA"
+        ]
+      },
+      "features": [
+        "Bras carbone ultra-légers",
+        "Plateau Direct Mount",
+        "Rigidité optimale",
+        "Hollowtech II"
+      ],
+      "torqueSpecs": {
+        "crankBolt": "12-14 Nm",
+        "chainringBolts": "8-10 Nm",
+        "preload": "0.5-1 Nm puis 40°"
+      }
+    },
+    "cassette": {
+      "partNumber": "CS-R9200",
+      "options": [
+        "11-30",
+        "11-34",
+        "12-28"
+      ],
+      "speeds": "12v",
+      "weight": "215g",
+      "material": "Acier/Titane",
+      "technology": "Hyperglide+",
+      "freehubType": "Hyperglide (HG)",
+      "range": "273% (11-30t)",
+      "compatibility": {
+        "chains": [
+          "Shimano HG+ 12v",
+          "KMC X12"
+        ],
+        "derailleurs": [
+          "Shimano 12v Route"
+        ],
+        "freehubs": [
+          "HG 11/12v"
+        ]
+      },
+      "features": [
+        "Passage ultra-fluide sous charge",
+        "Construction Acier/Titane légère",
+        "Optimisée pour HG+"
+      ],
+      "torqueSpecs": {
+        "lockring": "40 Nm"
+      }
+    },
+    "bb": {
+      "partNumber": "SM-BB9200",
+      "standard": "BSA 68/70mm",
+      "axle": "24mm",
+      "axleType": "Hollowtech II",
+      "weight": "70g",
+      "material": "Aluminium",
+      "compatibility": {
+        "cranks": [
+          "Hollowtech II (Tiagra à Dura-Ace)"
+        ],
+        "frames": [
+          "BSA 68mm, 70mm"
+        ]
+      },
+      "features": [
+        "Roulements scellés",
+        "Ultra-léger",
+        "Installation facile"
+      ],
+      "torqueSpecs": {
+        "cups": "35-50 Nm"
+      }
+    },
+    "chain": {
+      "partNumber": "CN-M9100",
+      "links": "126",
+      "weight": "242g",
+      "material": "Acier traité",
+      "technology": "HG+ 12v",
+      "compatibility": {
+        "cassettes": [
+          "Shimano 12v"
+        ],
+        "derailleurs": [
+          "Shimano 12v"
+        ],
+        "speeds": "12v uniquement"
+      },
+      "features": [
+        "Attache rapide Quick-Link",
+        "Revêtement longévité",
+        "Passage fluide HG+"
+      ]
+    },
+    "rdRear": {
+      "partNumber": "RD-R9200",
+      "weight": "215g",
+      "cageLength": "Short/Medium",
+      "maxCassette": "34t",
+      "capacity": {
+        "max": "34t",
+        "maxCassette": "34t",
+        "minCassette": "11t"
+      },
+      "type": "Mécanique"
+    },
+    "rdFront": {
+      "partNumber": "FD-R9200",
+      "weight": "90g",
+      "mounting": "Braze-on / Band",
+      "chainrings": "2x (double)",
+      "capacity": "16T",
+      "type": "Mécanique"
+    },
+    "shifters": {
+      "partNumber": "ST-R9250",
+      "weight": "280g (paire)",
+      "type": "Di2 électronique"
+    },
+    "brakes": {
+      "partNumber": "BR-R9200",
+      "type": "Rim brake (étrier sur jante)",
+      "mounting": "Direct mount / Standard",
+      "weight": "140g (avant)",
+      "activation": "Câble mécanique"
+    }
+  },
+  "Dura-Ace R9170 (Di2)": {
+    "speeds": 11,
+    "rdRear": {
+      "partNumber": "RD-R9150",
+      "weight": "166g",
+      "cageLength": "Short (SS)",
+      "maxCassette": "30t",
+      "type": "Di2 électronique",
+      "capacity": {
+        "max": "30t",
+        "maxCassette": "30t",
+        "minCassette": "11t"
+      }
+    },
+    "rdFront": {
+      "partNumber": "FD-R9150",
+      "weight": "87g",
+      "mounting": "Braze-on / Band",
+      "chainrings": "2x (double)",
+      "capacity": "16T",
+      "type": "Di2 électronique"
+    },
+    "brakes": {
+      "partNumber": "BR-R9170",
+      "type": "Hydraulique à disque",
+      "activation": "Huile hydraulique",
+      "brakeSurface": "Rotor (disque)",
+      "rotor": "140/160mm",
+      "weight": "340g (paire)",
+      "technology": "Servo Wave Di2"
+    }
+  },
+  "Dura-Ace 9150 (Di2)": {
+    "speeds": 11,
+    "rdRear": {
+      "partNumber": "RD-R9150",
+      "weight": "166g",
+      "cageLength": "Short (SS)",
+      "maxCassette": "30t",
+      "type": "Di2 électronique",
+      "capacity": {
+        "max": "30t",
+        "maxCassette": "30t",
+        "minCassette": "11t"
+      }
+    },
+    "rdFront": {
+      "partNumber": "FD-R9150",
+      "weight": "87g",
+      "mounting": "Braze-on / Band",
+      "chainrings": "2x (double)",
+      "capacity": "16T",
+      "type": "Di2 électronique"
+    },
+    "brakes": {
+      "partNumber": "BR-R9110",
+      "type": "Rim brake (étrier sur jante)",
+      "mounting": "Direct mount",
+      "weight": "150g (avant)",
+      "rimBrake": true,
+      "brakeSurface": "Jante (rim brake)",
+      "activation": "Câble mécanique"
+    },
+    "brakePads": {
+      "partNumber": "R55C4",
+      "type": "Patins carbone haute performance",
+      "material": "Carbone",
+      "weight": "38g (paire)",
+      "compatibility": "Jantes carbone uniquement",
+      "conditions": "Sec et pluie"
+    }
+  },
+  "Dura-Ace 9100": {
+    "speeds": 11,
+    "crank": {
+      "partNumber": "FC-9100",
+      "chainrings": [
+        "54-42",
+        "53-39",
+        "52-36",
+        "50-34"
+      ],
+      "bcd": "110mm",
+      "cranklengths": [
+        "165",
+        "170",
+        "172.5",
+        "175",
+        "177.5",
+        "180"
+      ],
+      "weight": "683g",
+      "compatibility": "11v"
+    },
+    "cassette": {
+      "partNumber": "CS-9100",
+      "options": [
+        "11-25",
+        "11-28",
+        "11-30",
+        "12-25",
+        "12-28",
+        "14-28"
+      ],
+      "speeds": "11v",
+      "weight": "175g",
+      "technology": "HG-EV"
+    },
+    "bb": {
+      "partNumber": "SM-BB9100",
+      "standard": "BSA 68/70mm",
+      "axle": "24mm",
+      "weight": "67g"
+    },
+    "chain": {
+      "partNumber": "CN-HG701",
+      "links": "116",
+      "weight": "257g",
+      "technology": "HG-EV 11v"
+    },
+    "rdRear": {
+      "partNumber": "RD-R9100",
+      "weight": "166g",
+      "cageLength": "Short",
+      "maxCassette": "30t",
+      "capacity": {
+        "max": "30t",
+        "maxCassette": "30t",
+        "minCassette": "11t"
+      },
+      "type": "Mécanique"
+    },
+    "rdFront": {
+      "partNumber": "FD-R9100",
+      "weight": "87g",
+      "mounting": "Braze-on"
+    },
+    "shifters": {
+      "partNumber": "ST-R9150",
+      "weight": "290g (paire)",
+      "type": "Di2 électronique"
+    },
+    "brakes": {
+      "partNumber": "BR-R9100",
+      "type": "Rim brake (étrier sur jante)",
+      "mounting": "Direct mount / Standard",
+      "weight": "145g (avant)",
+      "rimBrake": true,
+      "brakeSurface": "Jante (rim brake)",
+      "activation": "Câble mécanique"
+    },
+    "brakePads": {
+      "partNumber": "R55C4",
+      "type": "Patins carbone haute performance",
+      "material": "Carbone (jante carbone)",
+      "weight": "38g (paire)",
+      "compatibility": "Jantes carbone uniquement",
+      "conditions": "Sec et pluie"
+    }
+  },
+  "105 R7100": {
+    "speeds": 12,
+    "crank": {
+      "partNumber": "FC-R7100",
+      "chainrings": [
+        "52-36",
+        "50-34"
+      ],
+      "bcd": "110mm asymétrique",
+      "cranklengths": [
+        "165",
+        "170",
+        "172.5",
+        "175"
+      ],
+      "weight": "752g",
+      "compatibility": "12v"
+    },
+    "cassette": {
+      "partNumber": "CS-R7100",
+      "options": [
+        "11-30",
+        "11-34",
+        "11-36",
+        "12-28"
+      ],
+      "speeds": "12v",
+      "weight": "345g",
+      "technology": "Hyperglide+"
+    },
+    "bb": {
+      "partNumber": "SM-BB7100",
+      "standard": "BSA 68mm",
+      "axle": "24mm",
+      "weight": "88g"
+    },
+    "chain": {
+      "partNumber": "CN-M9100",
+      "links": "126",
+      "weight": "242g",
+      "technology": "HG+ 12v"
+    },
+    "rdRear": {
+      "partNumber": "RD-R7100",
+      "weight": "262g",
+      "cageLength": "Short/Medium",
+      "maxCassette": "34t",
+      "capacity": {
+        "max": "34t",
+        "maxCassette": "34t",
+        "minCassette": "11t"
+      },
+      "type": "Mécanique"
+    },
+    "rdFront": {
+      "partNumber": "FD-R7100",
+      "weight": "107g",
+      "mounting": "Braze-on / Band",
+      "chainrings": "2x (double)",
+      "capacity": "16T",
+      "type": "Mécanique"
+    },
+    "shifters": {
+      "partNumber": "ST-R7170",
+      "weight": "340g (paire)",
+      "type": "STI mécanique"
+    },
+    "brakes": {
+      "partNumber": "BR-R7100",
+      "type": "Rim brake (étrier sur jante)",
+      "mounting": "Direct mount / Standard",
+      "weight": "165g (avant)",
+      "activation": "Câble mécanique"
+    }
+  },
+  "105 R7170 (Di2)": {
+    "speeds": 12,
+    "rdRear": {
+      "partNumber": "RD-R7170",
+      "weight": "279g",
+      "cageLength": "Short/Medium",
+      "maxCassette": "34t",
+      "type": "Di2 électronique",
+      "capacity": {
+        "max": "34t",
+        "maxCassette": "34t",
+        "minCassette": "11t"
+      }
+    },
+    "rdFront": {
+      "partNumber": "FD-R7170",
+      "weight": "124g",
+      "mounting": "Braze-on / Band",
+      "chainrings": "2x (double)",
+      "capacity": "16T",
+      "type": "Di2 électronique"
+    },
+    "brakes": {
+      "partNumber": "BR-R7170",
+      "type": "Hydraulique à disque",
+      "rotor": "140/160mm",
+      "weight": "365g (paire)",
+      "technology": "Servo Wave"
+    }
+  },
+  "105 R7150 (Di2)": {
+    "speeds": 11,
+    "rdRear": {
+      "partNumber": "RD-R7150",
+      "weight": "262g",
+      "cageLength": "Short (SS)",
+      "maxCassette": "34t",
+      "type": "Di2 électronique",
+      "capacity": {
+        "max": "34t",
+        "maxCassette": "34t",
+        "minCassette": "11t"
+      }
+    },
+    "rdFront": {
+      "partNumber": "FD-R7150",
+      "weight": "127g",
+      "mounting": "Braze-on / Band",
+      "chainrings": "2x (double)",
+      "capacity": "16T",
+      "type": "Di2 électronique"
+    },
+    "brakes": {
+      "partNumber": "BR-R7070",
+      "type": "Hydraulique à disque",
+      "rotor": "140/160mm",
+      "weight": "365g (paire)"
+    }
+  },
+  "105 R7020": {
+    "speeds": 11,
+    "rdRear": {
+      "partNumber": "RD-R7000",
+      "weight": "234g",
+      "cageLength": "Short (SS)",
+      "maxCassette": "34t",
+      "type": "Mécanique",
+      "capacity": {
+        "max": "34t",
+        "maxCassette": "34t",
+        "minCassette": "11t"
+      }
+    },
+    "rdFront": {
+      "partNumber": "FD-R7000",
+      "weight": "95g",
+      "mounting": "Braze-on / Band",
+      "chainrings": "2x (double)",
+      "capacity": "16T",
+      "type": "Mécanique"
+    },
+    "brakes": {
+      "partNumber": "BR-R7020",
+      "type": "Hydraulique à disque",
+      "activation": "Huile hydraulique",
+      "brakeSurface": "Rotor (disque)",
+      "rotor": "140/160mm",
+      "weight": "380g (paire)",
+      "technology": "Flat mount"
+    }
+  },
   "105 R7000": {
     "speeds": 11,
     "crank": {
@@ -484,77 +940,6 @@
       "conditions": "Toutes conditions"
     }
   },
-  "GRX RX800": {
-    "speeds": 11,
-    "crank": {
-      "partNumber": "FC-RX800",
-      "chainrings": [
-        "48-31",
-        "46-30",
-        "42-32",
-        "40-30"
-      ],
-      "bcd": "110mm",
-      "cranklengths": [
-        "170",
-        "172.5",
-        "175"
-      ],
-      "weight": "758g",
-      "compatibility": "11v gravel"
-    },
-    "cassette": {
-      "partNumber": "CS-HG800",
-      "options": [
-        "11-34",
-        "11-40",
-        "11-42"
-      ],
-      "speeds": "11v",
-      "weight": "360g",
-      "technology": "HG-EV"
-    },
-    "bb": {
-      "partNumber": "SM-BB8000",
-      "standard": "BSA 68mm",
-      "axle": "24mm",
-      "weight": "74g"
-    },
-    "chain": {
-      "partNumber": "CN-HG601",
-      "links": "116",
-      "weight": "268g",
-      "technology": "HG-X 11v"
-    },
-    "rdRear": {
-      "partNumber": "RD-RX800",
-      "weight": "256g",
-      "cageLength": "Medium",
-      "maxCassette": "42t",
-      "capacity": {
-        "max": "42t",
-        "maxCassette": "42t",
-        "minCassette": "11t"
-      },
-      "type": "Mécanique"
-    },
-    "rdFront": {
-      "partNumber": "FD-RX800",
-      "weight": "105g",
-      "mounting": "Braze-on"
-    },
-    "shifters": {
-      "partNumber": "ST-RX800",
-      "weight": "290g (paire)",
-      "type": "STI mécanique"
-    },
-    "brakes": {
-      "partNumber": "BR-RX810",
-      "type": "Hydraulique à disque",
-      "rotor": "140/160mm",
-      "weight": "375g (paire)"
-    }
-  },
   "Tiagra 4700": {
     "speeds": 10,
     "crank": {
@@ -637,6 +1022,149 @@
       "weight": "45g (paire)",
       "compatibility": "Jantes alu",
       "conditions": "Toutes conditions"
+    }
+  },
+  "GRX RX820": {
+    "speeds": 12,
+    "crank": {
+      "partNumber": "FC-RX820",
+      "chainrings": [
+        "48-31",
+        "46-30"
+      ],
+      "bcd": "110mm asymétrique",
+      "cranklengths": [
+        "170",
+        "172.5",
+        "175"
+      ],
+      "weight": "732g",
+      "compatibility": "12v gravel"
+    },
+    "cassette": {
+      "partNumber": "CS-RX820",
+      "options": [
+        "10-45",
+        "10-51"
+      ],
+      "speeds": "12v",
+      "weight": "358g",
+      "technology": "Hyperglide+ MTB"
+    },
+    "bb": {
+      "partNumber": "SM-BB8200",
+      "standard": "BSA 68mm",
+      "axle": "24mm",
+      "weight": "74g"
+    },
+    "chain": {
+      "partNumber": "CN-M9100",
+      "links": "126",
+      "weight": "242g",
+      "technology": "HG+ 12v"
+    },
+    "rdRear": {
+      "partNumber": "RD-RX820",
+      "weight": "303g",
+      "cageLength": "Medium",
+      "maxCassette": "45t",
+      "capacity": {
+        "max": "45t",
+        "maxCassette": "45t",
+        "minCassette": "10t"
+      },
+      "type": "Di2 électronique"
+    },
+    "rdFront": {
+      "partNumber": "FD-RX820",
+      "weight": "110g",
+      "mounting": "Braze-on / Band",
+      "chainrings": "2x (double)",
+      "capacity": "17T",
+      "type": "Di2 électronique"
+    },
+    "shifters": {
+      "partNumber": "ST-RX820",
+      "weight": "280g (paire)",
+      "type": "STI mécanique"
+    },
+    "brakes": {
+      "partNumber": "BR-RX820",
+      "type": "Hydraulique à disque",
+      "rotor": "140/160mm",
+      "weight": "365g (paire)",
+      "technology": "Servo Wave gravel"
+    }
+  },
+  "GRX RX800": {
+    "speeds": 11,
+    "crank": {
+      "partNumber": "FC-RX800",
+      "chainrings": [
+        "48-31",
+        "46-30",
+        "42-32",
+        "40-30"
+      ],
+      "bcd": "110mm",
+      "cranklengths": [
+        "170",
+        "172.5",
+        "175"
+      ],
+      "weight": "758g",
+      "compatibility": "11v gravel"
+    },
+    "cassette": {
+      "partNumber": "CS-HG800",
+      "options": [
+        "11-34",
+        "11-40",
+        "11-42"
+      ],
+      "speeds": "11v",
+      "weight": "360g",
+      "technology": "HG-EV"
+    },
+    "bb": {
+      "partNumber": "SM-BB8000",
+      "standard": "BSA 68mm",
+      "axle": "24mm",
+      "weight": "74g"
+    },
+    "chain": {
+      "partNumber": "CN-HG601",
+      "links": "116",
+      "weight": "268g",
+      "technology": "HG-X 11v"
+    },
+    "rdRear": {
+      "partNumber": "RD-RX800",
+      "weight": "256g",
+      "cageLength": "Medium",
+      "maxCassette": "42t",
+      "capacity": {
+        "max": "42t",
+        "maxCassette": "42t",
+        "minCassette": "11t"
+      },
+      "type": "Mécanique"
+    },
+    "rdFront": {
+      "partNumber": "FD-RX800",
+      "weight": "105g",
+      "mounting": "Braze-on"
+    },
+    "shifters": {
+      "partNumber": "ST-RX800",
+      "weight": "290g (paire)",
+      "type": "STI mécanique"
+    },
+    "brakes": {
+      "partNumber": "BR-RX810",
+      "type": "Hydraulique à disque",
+      "rotor": "140/160mm",
+      "weight": "375g (paire)"
     }
   },
   "Sora R3000": {
@@ -1586,66 +2114,6 @@
       "weight": "340g (paire)"
     }
   },
-  "Dura-Ace R9200 (Di2)": {
-    "speeds": 12,
-    "rdRear": {
-      "partNumber": "RD-R9250-Di2",
-      "weight": "215g",
-      "cageLength": "Short/Medium",
-      "maxCassette": "34t",
-      "type": "Di2 électronique",
-      "capacity": {
-        "max": "34t",
-        "maxCassette": "34t",
-        "minCassette": "11t"
-      }
-    },
-    "rdFront": {
-      "partNumber": "FD-R9250",
-      "weight": "90g",
-      "mounting": "Braze-on / Band",
-      "type": "Di2 électronique",
-      "chainrings": "2x (double)",
-      "capacity": "16T"
-    },
-    "brakes": {
-      "partNumber": "BR-R9270",
-      "type": "Hydraulique à disque",
-      "rotor": "140/160mm",
-      "weight": "335g (paire)",
-      "technology": "Servo Wave"
-    }
-  },
-  "Ultegra R8100 (Di2)": {
-    "speeds": 12,
-    "rdRear": {
-      "partNumber": "RD-R8150-Di2",
-      "weight": "227g",
-      "cageLength": "Short/Medium",
-      "maxCassette": "34t",
-      "type": "Di2 électronique",
-      "capacity": {
-        "max": "34t",
-        "maxCassette": "34t",
-        "minCassette": "11t"
-      }
-    },
-    "rdFront": {
-      "partNumber": "FD-R8150",
-      "weight": "95g",
-      "mounting": "Braze-on / Band",
-      "type": "Di2 électronique",
-      "chainrings": "2x (double)",
-      "capacity": "16T"
-    },
-    "brakes": {
-      "partNumber": "BR-R8170",
-      "type": "Hydraulique à disque",
-      "rotor": "140/160mm",
-      "weight": "350g (paire)",
-      "technology": "Servo Wave"
-    }
-  },
   "Dura-Ace 7900 (10v)": {
     "speeds": 10,
     "rdRear": {
@@ -1684,698 +2152,6 @@
       "mounting": "Standard",
       "weight": "145g (avant)",
       "rimBrake": true
-    }
-  },
-  "Dura-Ace 9150 (Di2 11v)": {
-    "speeds": 11,
-    "rdRear": {
-      "partNumber": "RD-R9150",
-      "weight": "166g",
-      "cageLength": "Short (SS)",
-      "maxCassette": "30t",
-      "type": "Di2 électronique",
-      "capacity": {
-        "max": "30t",
-        "maxCassette": "30t",
-        "minCassette": "11t"
-      }
-    },
-    "rdFront": {
-      "partNumber": "FD-R9150",
-      "weight": "87g",
-      "mounting": "Braze-on / Band",
-      "chainrings": "2x (double)",
-      "capacity": "16T",
-      "type": "Di2 électronique"
-    },
-    "brakes": {
-      "partNumber": "BR-R9110",
-      "type": "Rim brake (étrier sur jante)",
-      "mounting": "Direct mount",
-      "weight": "150g (avant)",
-      "rimBrake": true,
-      "brakeSurface": "Jante (rim brake)",
-      "activation": "Câble mécanique"
-    },
-    "brakePads": {
-      "partNumber": "R55C4",
-      "type": "Patins carbone haute performance",
-      "material": "Carbone",
-      "weight": "38g (paire)",
-      "compatibility": "Jantes carbone uniquement",
-      "conditions": "Sec et pluie"
-    }
-  },
-  "Ultegra 6770 (Di2 10v)": {
-    "speeds": 10,
-    "rdRear": {
-      "partNumber": "RD-6770",
-      "weight": "195g",
-      "cageLength": "Short (SS)",
-      "maxCassette": "28t",
-      "type": "Di2 électronique",
-      "capacity": {
-        "max": "28t",
-        "maxCassette": "28t",
-        "minCassette": "12t"
-      }
-    },
-    "rdFront": {
-      "partNumber": "FD-6770",
-      "weight": "112g",
-      "mounting": "Braze-on / Band",
-      "chainrings": "2x (double)",
-      "capacity": "14T",
-      "type": "Di2 électronique"
-    },
-    "brakes": {
-      "partNumber": "BR-6700",
-      "type": "Rim brake (étrier sur jante)",
-      "mounting": "Standard",
-      "weight": "165g (avant)",
-      "rimBrake": true,
-      "brakeSurface": "Jante (rim brake)",
-      "activation": "Câble mécanique"
-    },
-    "brakePads": {
-      "partNumber": "R55C3",
-      "type": "Patins mixtes",
-      "material": "Cork/Rubber",
-      "weight": "42g (paire)",
-      "compatibility": "Jantes alu/carbone",
-      "conditions": "Toutes conditions"
-    }
-  },
-  "Ultegra 6870 (Di2 11v)": {
-    "speeds": 11,
-    "rdRear": {
-      "partNumber": "RD-6870",
-      "weight": "210g",
-      "cageLength": "Short (SS)",
-      "maxCassette": "30t",
-      "type": "Di2 électronique",
-      "capacity": {
-        "max": "30t",
-        "maxCassette": "30t",
-        "minCassette": "11t"
-      }
-    },
-    "rdFront": {
-      "partNumber": "FD-6870",
-      "weight": "110g",
-      "mounting": "Braze-on / Band",
-      "chainrings": "2x (double)",
-      "capacity": "16T",
-      "type": "Di2 électronique"
-    },
-    "brakes": {
-      "partNumber": "BR-R8070",
-      "type": "Rim brake (étrier sur jante)",
-      "mounting": "Direct mount",
-      "weight": "160g (avant)",
-      "rimBrake": true,
-      "brakeSurface": "Jante (rim brake)",
-      "activation": "Câble mécanique"
-    },
-    "brakePads": {
-      "partNumber": "R55C4",
-      "type": "Patins mixtes",
-      "material": "Cork/Rubber compound",
-      "weight": "40g (paire)",
-      "compatibility": "Jantes alu/carbone",
-      "conditions": "Toutes conditions"
-    }
-  },
-  "105 R7150 (Di2 11v)": {
-    "speeds": 11,
-    "rdRear": {
-      "partNumber": "RD-R7150",
-      "weight": "262g",
-      "cageLength": "Short (SS)",
-      "maxCassette": "34t",
-      "type": "Di2 électronique",
-      "capacity": {
-        "max": "34t",
-        "maxCassette": "34t",
-        "minCassette": "11t"
-      }
-    },
-    "rdFront": {
-      "partNumber": "FD-R7150",
-      "weight": "127g",
-      "mounting": "Braze-on / Band",
-      "chainrings": "2x (double)",
-      "capacity": "16T",
-      "type": "Di2 électronique"
-    },
-    "brakes": {
-      "partNumber": "BR-R7070",
-      "type": "Hydraulique à disque",
-      "rotor": "140/160mm",
-      "weight": "365g (paire)"
-    }
-  },
-  "105 R7170 (Di2 12v)": {
-    "speeds": 12,
-    "rdRear": {
-      "partNumber": "RD-R7170",
-      "weight": "279g",
-      "cageLength": "Short/Medium",
-      "maxCassette": "34t",
-      "type": "Di2 électronique",
-      "capacity": {
-        "max": "34t",
-        "maxCassette": "34t",
-        "minCassette": "11t"
-      }
-    },
-    "rdFront": {
-      "partNumber": "FD-R7170",
-      "weight": "124g",
-      "mounting": "Braze-on / Band",
-      "chainrings": "2x (double)",
-      "capacity": "16T",
-      "type": "Di2 électronique"
-    },
-    "brakes": {
-      "partNumber": "BR-R7170",
-      "type": "Hydraulique à disque",
-      "rotor": "140/160mm",
-      "weight": "365g (paire)",
-      "technology": "Servo Wave"
-    }
-  },
-  "Ultegra R8100 (Disque mécanique)": {
-    "speeds": 12,
-    "rdRear": {
-      "partNumber": "RD-R8100",
-      "weight": "227g",
-      "cageLength": "Short/Medium",
-      "maxCassette": "34t",
-      "type": "Mécanique",
-      "capacity": {
-        "max": "34t",
-        "maxCassette": "34t",
-        "minCassette": "11t"
-      }
-    },
-    "rdFront": {
-      "partNumber": "FD-R8100",
-      "weight": "95g",
-      "mounting": "Braze-on / Band",
-      "chainrings": "2x (double)",
-      "capacity": "16T",
-      "type": "Mécanique"
-    },
-    "brakes": {
-      "partNumber": "BR-R8170 (câble)",
-      "type": "Mécanique à disque (câble)",
-      "activation": "Câble mécanique",
-      "brakeSurface": "Rotor (disque)",
-      "rotor": "140/160mm",
-      "weight": "175g (étrier avant)",
-      "mounting": "Flat mount"
-    }
-  },
-  "105 R7100 (Disque mécanique)": {
-    "speeds": 12,
-    "rdRear": {
-      "partNumber": "RD-R7100",
-      "weight": "279g",
-      "cageLength": "Short/Medium",
-      "maxCassette": "34t",
-      "type": "Mécanique",
-      "capacity": {
-        "max": "34t",
-        "maxCassette": "34t",
-        "minCassette": "11t"
-      }
-    },
-    "rdFront": {
-      "partNumber": "FD-R7100",
-      "weight": "107g",
-      "mounting": "Braze-on / Band",
-      "chainrings": "2x (double)",
-      "capacity": "16T",
-      "type": "Mécanique"
-    },
-    "brakes": {
-      "partNumber": "BR-R7070 (câble)",
-      "type": "Mécanique à disque (câble)",
-      "activation": "Câble mécanique",
-      "brakeSurface": "Rotor (disque)",
-      "rotor": "140/160mm",
-      "weight": "185g (étrier avant)",
-      "mounting": "Flat mount"
-    }
-  },
-  "Dura-Ace 9100 (Disque mécanique)": {
-    "speeds": 11,
-    "rdRear": {
-      "partNumber": "RD-R9100",
-      "weight": "166g",
-      "cageLength": "Short (SS)",
-      "maxCassette": "30t",
-      "type": "Mécanique",
-      "capacity": {
-        "max": "30t",
-        "maxCassette": "30t",
-        "minCassette": "11t"
-      }
-    },
-    "rdFront": {
-      "partNumber": "FD-R9100",
-      "weight": "87g",
-      "mounting": "Braze-on / Band",
-      "chainrings": "2x (double)",
-      "capacity": "16T",
-      "type": "Mécanique"
-    },
-    "brakes": {
-      "partNumber": "BR-R9170 (câble)",
-      "type": "Mécanique à disque (câble)",
-      "activation": "Câble mécanique",
-      "brakeSurface": "Rotor (disque)",
-      "rotor": "140/160mm",
-      "weight": "170g (étrier avant)",
-      "mounting": "Flat mount"
-    }
-  },
-  "Ultegra R8000 (Disque mécanique)": {
-    "speeds": 11,
-    "rdRear": {
-      "partNumber": "RD-R8000",
-      "weight": "210g",
-      "cageLength": "Short (SS)",
-      "maxCassette": "30t",
-      "type": "Mécanique",
-      "capacity": {
-        "max": "30t",
-        "maxCassette": "30t",
-        "minCassette": "11t"
-      }
-    },
-    "rdFront": {
-      "partNumber": "FD-R8000",
-      "weight": "92g",
-      "mounting": "Braze-on / Band",
-      "chainrings": "2x (double)",
-      "capacity": "16T",
-      "type": "Mécanique"
-    },
-    "brakes": {
-      "partNumber": "BR-R8070 (câble)",
-      "type": "Mécanique à disque (câble)",
-      "activation": "Câble mécanique",
-      "brakeSurface": "Rotor (disque)",
-      "rotor": "140/160mm",
-      "weight": "180g (étrier avant)",
-      "mounting": "Flat mount"
-    }
-  },
-  "105 R7000 (Disque mécanique)": {
-    "speeds": 11,
-    "rdRear": {
-      "partNumber": "RD-R7000",
-      "weight": "234g",
-      "cageLength": "Short (SS)",
-      "maxCassette": "34t",
-      "type": "Mécanique",
-      "capacity": {
-        "max": "34t",
-        "maxCassette": "34t",
-        "minCassette": "11t"
-      }
-    },
-    "rdFront": {
-      "partNumber": "FD-R7000",
-      "weight": "95g",
-      "mounting": "Braze-on / Band",
-      "chainrings": "2x (double)",
-      "capacity": "16T",
-      "type": "Mécanique"
-    },
-    "brakes": {
-      "partNumber": "BR-R7070 (câble)",
-      "type": "Mécanique à disque (câble)",
-      "activation": "Câble mécanique",
-      "brakeSurface": "Rotor (disque)",
-      "rotor": "140/160mm",
-      "weight": "190g (étrier avant)",
-      "mounting": "Flat mount"
-    }
-  },
-  "Tiagra 4700 (Disque mécanique)": {
-    "speeds": 10,
-    "rdRear": {
-      "partNumber": "RD-4700",
-      "weight": "251g",
-      "cageLength": "Short (SS)",
-      "maxCassette": "32t",
-      "type": "Mécanique",
-      "capacity": {
-        "max": "32t",
-        "maxCassette": "32t",
-        "minCassette": "12t"
-      }
-    },
-    "rdFront": {
-      "partNumber": "FD-4700",
-      "weight": "105g",
-      "mounting": "Braze-on / Band",
-      "chainrings": "2x (double)",
-      "capacity": "16T",
-      "type": "Mécanique"
-    },
-    "brakes": {
-      "partNumber": "BR-4770 (câble)",
-      "type": "Mécanique à disque (câble)",
-      "activation": "Câble mécanique",
-      "brakeSurface": "Rotor (disque)",
-      "rotor": "140/160mm",
-      "weight": "195g (étrier avant)",
-      "mounting": "Flat mount"
-    }
-  },
-  "Dura-Ace 9170 (Di2 disque 11v)": {
-    "speeds": 11,
-    "rdRear": {
-      "partNumber": "RD-R9150",
-      "weight": "166g",
-      "cageLength": "Short (SS)",
-      "maxCassette": "30t",
-      "type": "Di2 électronique",
-      "capacity": {
-        "max": "30t",
-        "maxCassette": "30t",
-        "minCassette": "11t"
-      }
-    },
-    "rdFront": {
-      "partNumber": "FD-R9150",
-      "weight": "87g",
-      "mounting": "Braze-on / Band",
-      "chainrings": "2x (double)",
-      "capacity": "16T",
-      "type": "Di2 électronique"
-    },
-    "brakes": {
-      "partNumber": "BR-R9170",
-      "type": "Hydraulique à disque",
-      "activation": "Huile hydraulique",
-      "brakeSurface": "Rotor (disque)",
-      "rotor": "140/160mm",
-      "weight": "340g (paire)",
-      "technology": "Servo Wave Di2"
-    }
-  },
-  "Ultegra R8070 (Disque hydro 11v)": {
-    "speeds": 11,
-    "rdRear": {
-      "partNumber": "RD-R8000",
-      "weight": "210g",
-      "cageLength": "Short (SS)",
-      "maxCassette": "34t",
-      "type": "Mécanique",
-      "capacity": {
-        "max": "34t",
-        "maxCassette": "34t",
-        "minCassette": "11t"
-      }
-    },
-    "rdFront": {
-      "partNumber": "FD-R8000",
-      "weight": "92g",
-      "mounting": "Braze-on / Band",
-      "chainrings": "2x (double)",
-      "capacity": "16T",
-      "type": "Mécanique"
-    },
-    "brakes": {
-      "partNumber": "BR-R8070",
-      "type": "Hydraulique à disque",
-      "activation": "Huile hydraulique",
-      "brakeSurface": "Rotor (disque)",
-      "rotor": "140/160mm",
-      "weight": "365g (paire)",
-      "technology": "Flat mount"
-    }
-  },
-  "Ultegra 6870 (Di2 disque 11v)": {
-    "speeds": 11,
-    "rdRear": {
-      "partNumber": "RD-6870",
-      "weight": "210g",
-      "cageLength": "Short (SS)",
-      "maxCassette": "30t",
-      "type": "Di2 électronique",
-      "capacity": {
-        "max": "30t",
-        "maxCassette": "30t",
-        "minCassette": "11t"
-      }
-    },
-    "rdFront": {
-      "partNumber": "FD-6870",
-      "weight": "110g",
-      "mounting": "Braze-on / Band",
-      "chainrings": "2x (double)",
-      "capacity": "16T",
-      "type": "Di2 électronique"
-    },
-    "brakes": {
-      "partNumber": "BR-6870",
-      "type": "Hydraulique à disque",
-      "activation": "Huile hydraulique",
-      "brakeSurface": "Rotor (disque)",
-      "rotor": "140/160mm",
-      "weight": "375g (paire)",
-      "technology": "Flat mount Di2"
-    }
-  },
-  "105 R7020 (Disque hydro 11v)": {
-    "speeds": 11,
-    "rdRear": {
-      "partNumber": "RD-R7000",
-      "weight": "234g",
-      "cageLength": "Short (SS)",
-      "maxCassette": "34t",
-      "type": "Mécanique",
-      "capacity": {
-        "max": "34t",
-        "maxCassette": "34t",
-        "minCassette": "11t"
-      }
-    },
-    "rdFront": {
-      "partNumber": "FD-R7000",
-      "weight": "95g",
-      "mounting": "Braze-on / Band",
-      "chainrings": "2x (double)",
-      "capacity": "16T",
-      "type": "Mécanique"
-    },
-    "brakes": {
-      "partNumber": "BR-R7020",
-      "type": "Hydraulique à disque",
-      "activation": "Huile hydraulique",
-      "brakeSurface": "Rotor (disque)",
-      "rotor": "140/160mm",
-      "weight": "380g (paire)",
-      "technology": "Flat mount"
-    }
-  },
-  "Dura-Ace R9200": {
-    "speeds": 12,
-    "category": "Route",
-    "level": "Pro",
-    "crank": {
-      "partNumber": "FC-R9200",
-      "chainrings": [
-        "54-40",
-        "52-36",
-        "50-34"
-      ],
-      "bcd": "110mm asymétrique",
-      "cranklengths": [
-        "160",
-        "165",
-        "170",
-        "172.5",
-        "175",
-        "177.5"
-      ],
-      "weight": "686g",
-      "material": "Carbone",
-      "axleType": "Hollowtech II (24mm)",
-      "compatibility": {
-        "cassettes": [
-          "Shimano 12v Route"
-        ],
-        "chains": [
-          "Shimano HG+ 12v",
-          "KMC X12"
-        ],
-        "bb": [
-          "SM-BB9200",
-          "SM-BB72",
-          "BSA/ITA"
-        ]
-      },
-      "features": [
-        "Bras carbone ultra-légers",
-        "Plateau Direct Mount",
-        "Rigidité optimale",
-        "Hollowtech II"
-      ],
-      "torqueSpecs": {
-        "crankBolt": "12-14 Nm",
-        "chainringBolts": "8-10 Nm",
-        "preload": "0.5-1 Nm puis 40°"
-      }
-    },
-    "cassette": {
-      "partNumber": "CS-R9200",
-      "options": [
-        "11-30",
-        "11-34",
-        "12-28"
-      ],
-      "speeds": "12v",
-      "weight": "215g",
-      "material": "Acier/Titane",
-      "technology": "Hyperglide+",
-      "freehubType": "Hyperglide (HG)",
-      "range": "273% (11-30t)",
-      "compatibility": {
-        "chains": [
-          "Shimano HG+ 12v",
-          "KMC X12"
-        ],
-        "derailleurs": [
-          "Shimano 12v Route"
-        ],
-        "freehubs": [
-          "HG 11/12v"
-        ]
-      },
-      "features": [
-        "Passage ultra-fluide sous charge",
-        "Construction Acier/Titane légère",
-        "Optimisée pour HG+"
-      ],
-      "torqueSpecs": {
-        "lockring": "40 Nm"
-      }
-    },
-    "bb": {
-      "partNumber": "SM-BB9200",
-      "standard": "BSA 68/70mm",
-      "axle": "24mm",
-      "axleType": "Hollowtech II",
-      "weight": "70g",
-      "material": "Aluminium",
-      "compatibility": {
-        "cranks": [
-          "Hollowtech II (Tiagra à Dura-Ace)"
-        ],
-        "frames": [
-          "BSA 68mm, 70mm"
-        ]
-      },
-      "features": [
-        "Roulements scellés",
-        "Ultra-léger",
-        "Installation facile"
-      ],
-      "torqueSpecs": {
-        "cups": "35-50 Nm"
-      }
-    },
-    "chain": {
-      "partNumber": "CN-M9100",
-      "links": "126",
-      "weight": "242g",
-      "material": "Acier traité",
-      "technology": "HG+ 12v",
-      "compatibility": {
-        "cassettes": [
-          "Shimano 12v"
-        ],
-        "derailleurs": [
-          "Shimano 12v"
-        ],
-        "speeds": "12v uniquement"
-      },
-      "features": [
-        "Attache rapide Quick-Link",
-        "Revêtement longévité",
-        "Passage fluide HG+"
-      ]
-    },
-    "rdRear": {
-      "partNumber": "RD-R9200",
-      "weight": "215g",
-      "cageLength": "Short/Medium",
-      "maxCassette": "34t",
-      "capacity": {
-        "max": "34t",
-        "maxCassette": "34t",
-        "minCassette": "11t"
-      },
-      "type": "Mécanique"
-    },
-    "rdFront": {
-      "partNumber": "FD-R9200",
-      "weight": "90g",
-      "mounting": "Braze-on / Band",
-      "chainrings": "2x (double)",
-      "capacity": "16T",
-      "type": "Mécanique"
-    },
-    "shifters": {
-      "partNumber": "ST-R9250",
-      "weight": "280g (paire)",
-      "type": "Di2 électronique"
-    },
-    "brakes": {
-      "partNumber": "BR-R9200",
-      "type": "Rim brake (étrier sur jante)",
-      "mounting": "Direct mount / Standard",
-      "weight": "140g (avant)",
-      "activation": "Câble mécanique"
-    }
-  },
-  "Dura-Ace R9200 (Disque mécanique)": {
-    "speeds": 12,
-    "rdRear": {
-      "partNumber": "RD-R9200",
-      "weight": "215g",
-      "cageLength": "Short/Medium",
-      "maxCassette": "34t",
-      "type": "Mécanique",
-      "capacity": {
-        "max": "34t",
-        "maxCassette": "34t",
-        "minCassette": "11t"
-      }
-    },
-    "rdFront": {
-      "partNumber": "FD-R9200",
-      "weight": "90g",
-      "mounting": "Braze-on / Band",
-      "chainrings": "2x (double)",
-      "capacity": "16T",
-      "type": "Mécanique"
-    },
-    "brakes": {
-      "partNumber": "BR-R9270 (câble)",
-      "type": "Mécanique à disque (câble)",
-      "activation": "Câble mécanique",
-      "brakeSurface": "Rotor (disque)",
-      "rotor": "140/160mm",
-      "weight": "165g (étrier avant)",
-      "mounting": "Flat mount"
     }
   }
 }
