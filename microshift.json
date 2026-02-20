@@ -10,7 +10,8 @@
         "max": "48t",
         "maxCassette": "48t",
         "minCassette": "11t"
-      }
+      },
+      "type": "Mécanique"
     },
     "shifters": {
       "partNumber": "SL-M9295",
@@ -25,6 +26,34 @@
       ],
       "speeds": "10v",
       "weight": "450g"
+    },
+    "crank": {
+      "partNumber": "FC-M9219S",
+      "chainrings": [
+        "30T",
+        "32T",
+        "34T"
+      ],
+      "bcd": "Direct Mount",
+      "cranklengths": [
+        "165",
+        "170",
+        "175"
+      ],
+      "weight": "585g (32T)",
+      "compatibility": "10v mono-plateau"
+    },
+    "bb": {
+      "partNumber": "BB-M619",
+      "standard": "BSA 68/73mm",
+      "axle": "24mm",
+      "weight": "95g"
+    },
+    "chain": {
+      "partNumber": "CN-M9219",
+      "links": "116",
+      "weight": "285g",
+      "technology": "10v"
     }
   },
   "Sword": {
@@ -38,7 +67,8 @@
         "max": "46t",
         "maxCassette": "46t",
         "minCassette": "11t"
-      }
+      },
+      "type": "Mécanique"
     },
     "rdFront": {
       "partNumber": "FD-R819F",
@@ -58,6 +88,34 @@
       ],
       "speeds": "10v",
       "weight": "350g"
+    },
+    "crank": {
+      "partNumber": "FC-R8199S",
+      "chainrings": [
+        "50-34",
+        "52-36"
+      ],
+      "bcd": "110mm BCD",
+      "cranklengths": [
+        "165",
+        "170",
+        "172.5",
+        "175"
+      ],
+      "weight": "715g (50-34)",
+      "compatibility": "10v double plateau"
+    },
+    "bb": {
+      "partNumber": "BB-R819",
+      "standard": "BSA 68mm",
+      "axle": "24mm",
+      "weight": "85g"
+    },
+    "chain": {
+      "partNumber": "CN-R819",
+      "links": "116",
+      "weight": "268g",
+      "technology": "10v"
     }
   },
   "Centos": {
@@ -71,7 +129,8 @@
         "max": "32t",
         "maxCassette": "32t",
         "minCassette": "11t"
-      }
+      },
+      "type": "Mécanique"
     },
     "rdFront": {
       "partNumber": "FD-R11",
@@ -91,6 +150,35 @@
       ],
       "speeds": "11v",
       "weight": "285g"
+    },
+    "crank": {
+      "partNumber": "FC-R11",
+      "chainrings": [
+        "50-34",
+        "52-36",
+        "53-39"
+      ],
+      "bcd": "110mm BCD",
+      "cranklengths": [
+        "165",
+        "170",
+        "172.5",
+        "175"
+      ],
+      "weight": "695g (50-34)",
+      "compatibility": "11v double plateau"
+    },
+    "bb": {
+      "partNumber": "BB-R11",
+      "standard": "BSA 68mm",
+      "axle": "24mm",
+      "weight": "82g"
+    },
+    "chain": {
+      "partNumber": "CN-R11",
+      "links": "116",
+      "weight": "252g",
+      "technology": "11v"
     }
   },
   "Marvo LT": {
@@ -104,7 +192,8 @@
         "max": "46t",
         "maxCassette": "46t",
         "minCassette": "11t"
-      }
+      },
+      "type": "Mécanique"
     },
     "shifters": {
       "partNumber": "SL-M8195",
@@ -119,6 +208,33 @@
       ],
       "speeds": "9v",
       "weight": "475g"
+    },
+    "crank": {
+      "partNumber": "FC-M8195",
+      "chainrings": [
+        "30T",
+        "32T"
+      ],
+      "bcd": "Direct Mount",
+      "cranklengths": [
+        "165",
+        "170",
+        "175"
+      ],
+      "weight": "610g (32T)",
+      "compatibility": "9v mono-plateau"
+    },
+    "bb": {
+      "partNumber": "BB-M819",
+      "standard": "BSA 68/73mm",
+      "axle": "24mm",
+      "weight": "98g"
+    },
+    "chain": {
+      "partNumber": "CN-M819",
+      "links": "116",
+      "weight": "295g",
+      "technology": "9v"
     }
   }
 }
