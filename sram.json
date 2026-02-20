@@ -286,6 +286,13 @@
       "partNumber": "SL-XPLR",
       "weight": "135g",
       "type": "Trigger 12v"
+    },
+    "brakes": {
+      "partNumber": "RED-eTap-HRD",
+      "type": "Hydraulique à disque",
+      "rotor": "140/160mm",
+      "weight": "340g (paire)",
+      "technology": "Bleeding Edge gravel"
     }
   },
   "Red eTap (11v)": {
@@ -575,6 +582,12 @@
       "partNumber": "SL-APEX",
       "weight": "347g (paire)",
       "type": "DoubleTap 11v"
+    },
+    "brakes": {
+      "partNumber": "Apex HRD",
+      "type": "Hydraulique à disque",
+      "rotor": "140/160mm",
+      "weight": "385g (paire)"
     }
   },
   "Apex 1": {
@@ -633,6 +646,12 @@
       "partNumber": "SL-APEX-1",
       "weight": "125g",
       "type": "Trigger 11v"
+    },
+    "brakes": {
+      "partNumber": "Apex HRD",
+      "type": "Hydraulique à disque",
+      "rotor": "140/160mm",
+      "weight": "385g (paire)"
     }
   },
   "Rival (10v)": {
@@ -761,6 +780,12 @@
       "partNumber": "SL-APEX-10",
       "weight": "365g (paire)",
       "type": "DoubleTap 10v"
+    },
+    "brakes": {
+      "partNumber": "Apex Mech",
+      "type": "Étrier route mécanique",
+      "mounting": "Standard",
+      "weight": "340g (paire)"
     }
   },
   "GX Eagle": {
@@ -819,6 +844,12 @@
       "partNumber": "SL-GX-EAGLE",
       "weight": "128g",
       "type": "Trigger 12v"
+    },
+    "brakes": {
+      "partNumber": "Level",
+      "type": "Hydraulique 4 pistons",
+      "rotor": "180/200mm",
+      "weight": "410g (paire)"
     }
   },
   "X01 Eagle": {
@@ -877,6 +908,13 @@
       "partNumber": "SL-X01-EAGLE",
       "weight": "121g",
       "type": "Trigger 12v"
+    },
+    "brakes": {
+      "partNumber": "Level TLM",
+      "type": "Hydraulique 4 pistons",
+      "rotor": "180/200mm",
+      "weight": "395g (paire)",
+      "technology": "Tool-free reach adjust"
     }
   },
   "XX1 Eagle": {
@@ -935,6 +973,13 @@
       "partNumber": "SL-XX1-EAGLE",
       "weight": "115g",
       "type": "Trigger 12v"
+    },
+    "brakes": {
+      "partNumber": "Level Ultimate",
+      "type": "Hydraulique 4 pistons",
+      "rotor": "180/200mm",
+      "weight": "380g (paire)",
+      "technology": "Contact Point Adjust"
     }
   },
   "NX Eagle": {
@@ -992,6 +1037,12 @@
       "partNumber": "SL-NX-EAGLE",
       "weight": "145g",
       "type": "Trigger 12v"
+    },
+    "brakes": {
+      "partNumber": "Level T",
+      "type": "Hydraulique 2 pistons",
+      "rotor": "160/180mm",
+      "weight": "355g (paire)"
     }
   },
   "SX Eagle": {
@@ -1048,6 +1099,12 @@
       "partNumber": "SL-SX-EAGLE",
       "weight": "155g",
       "type": "Trigger 12v"
+    },
+    "brakes": {
+      "partNumber": "Level T",
+      "type": "Hydraulique 2 pistons",
+      "rotor": "160/180mm",
+      "weight": "355g (paire)"
     }
   },
   "Apex 1 (9v)": {

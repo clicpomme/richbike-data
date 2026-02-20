@@ -153,11 +153,10 @@
       "type": "Di2 électronique"
     },
     "brakes": {
-      "partNumber": "BR-R9270",
-      "weight": "320g",
-      "type": "Hydraulique",
-      "pistons": "4 pistons",
-      "mounting": "Flat Mount"
+      "partNumber": "BR-R9200",
+      "type": "Étrier route mécanique",
+      "mounting": "Direct mount / Standard",
+      "weight": "140g (avant)"
     }
   },
   "Ultegra R8100": {
@@ -228,11 +227,10 @@
       "type": "Di2 électronique"
     },
     "brakes": {
-      "partNumber": "BR-R8170",
-      "weight": "350g",
-      "type": "Hydraulique",
-      "pistons": "2 pistons",
-      "mounting": "Flat Mount"
+      "partNumber": "BR-R8100",
+      "type": "Étrier route mécanique",
+      "mounting": "Direct mount / Standard",
+      "weight": "155g (avant)"
     }
   },
   "105 R7100": {
@@ -303,11 +301,10 @@
       "type": "STI mécanique"
     },
     "brakes": {
-      "partNumber": "BR-R7170",
-      "weight": "350g",
-      "type": "Hydraulique",
-      "pistons": "2 pistons",
-      "mounting": "Flat Mount"
+      "partNumber": "BR-R7100",
+      "type": "Étrier route mécanique",
+      "mounting": "Direct mount / Standard",
+      "weight": "165g (avant)"
     }
   },
   "GRX RX820": {
@@ -376,10 +373,10 @@
     },
     "brakes": {
       "partNumber": "BR-RX820",
-      "weight": "350g",
-      "type": "Hydraulique",
-      "pistons": "2 pistons",
-      "mounting": "Flat Mount"
+      "type": "Hydraulique à disque",
+      "rotor": "140/160mm",
+      "weight": "365g (paire)",
+      "technology": "Servo Wave gravel"
     }
   },
   "Dura-Ace 9100": {
@@ -451,6 +448,12 @@
       "partNumber": "ST-R9150",
       "weight": "290g (paire)",
       "type": "Di2 électronique"
+    },
+    "brakes": {
+      "partNumber": "BR-R9100",
+      "type": "Étrier route mécanique",
+      "mounting": "Direct mount / Standard",
+      "weight": "145g (avant)"
     }
   },
   "Ultegra R8000": {
@@ -523,6 +526,12 @@
       "partNumber": "ST-R8050",
       "weight": "290g (paire)",
       "type": "Di2 électronique"
+    },
+    "brakes": {
+      "partNumber": "BR-R8000",
+      "type": "Étrier route mécanique",
+      "mounting": "Direct mount / Standard",
+      "weight": "158g (avant)"
     }
   },
   "105 R7000": {
@@ -592,6 +601,12 @@
       "partNumber": "ST-R7000",
       "weight": "290g (paire)",
       "type": "STI mécanique"
+    },
+    "brakes": {
+      "partNumber": "BR-R7000",
+      "type": "Étrier route mécanique",
+      "mounting": "Direct mount / Standard",
+      "weight": "170g (avant)"
     }
   },
   "GRX RX800": {
@@ -657,6 +672,12 @@
       "partNumber": "ST-RX800",
       "weight": "290g (paire)",
       "type": "STI mécanique"
+    },
+    "brakes": {
+      "partNumber": "BR-RX810",
+      "type": "Hydraulique à disque",
+      "rotor": "140/160mm",
+      "weight": "375g (paire)"
     }
   },
   "Tiagra 4700": {
@@ -724,6 +745,12 @@
       "partNumber": "ST-4700",
       "weight": "340g (paire)",
       "type": "STI 10v"
+    },
+    "brakes": {
+      "partNumber": "BR-4700",
+      "type": "Étrier route mécanique",
+      "mounting": "Standard",
+      "weight": "185g (avant)"
     }
   },
   "Sora R3000": {
@@ -790,6 +817,12 @@
       "partNumber": "ST-R3000",
       "weight": "340g (paire)",
       "type": "STI 9v"
+    },
+    "brakes": {
+      "partNumber": "BR-R3000",
+      "type": "Étrier route mécanique",
+      "mounting": "Standard",
+      "weight": "195g (avant)"
     }
   },
   "Claris R2000": {
@@ -854,6 +887,12 @@
       "partNumber": "ST-R2000",
       "weight": "340g (paire)",
       "type": "STI 8v"
+    },
+    "brakes": {
+      "partNumber": "BR-R2000",
+      "type": "Étrier route mécanique",
+      "mounting": "Standard",
+      "weight": "205g (avant)"
     }
   },
   "Ultegra 6700": {
@@ -922,6 +961,12 @@
       "partNumber": "ST-6700",
       "weight": "340g (paire)",
       "type": "STI 10v"
+    },
+    "brakes": {
+      "partNumber": "BR-6700",
+      "type": "Étrier route mécanique",
+      "mounting": "Standard",
+      "weight": "165g (avant)"
     }
   },
   "105 5700": {
@@ -988,6 +1033,12 @@
       "partNumber": "ST-5700",
       "weight": "340g (paire)",
       "type": "STI 10v"
+    },
+    "brakes": {
+      "partNumber": "BR-5700",
+      "type": "Étrier route mécanique",
+      "mounting": "Standard",
+      "weight": "175g (avant)"
     }
   },
   "Deore XT M770": {
@@ -1419,6 +1470,13 @@
       "speeds": "12v",
       "weight": "461g",
       "technology": "Hyperglide+"
+    },
+    "brakes": {
+      "partNumber": "BR-M8120",
+      "type": "Hydraulique 4 pistons",
+      "rotor": "180/203mm",
+      "weight": "405g (paire)",
+      "technology": "4-piston VTT"
     }
   },
   "SLX M7100": {
@@ -1443,6 +1501,13 @@
       "speeds": "12v",
       "weight": "534g",
       "technology": "Hyperglide+"
+    },
+    "brakes": {
+      "partNumber": "BR-M7120",
+      "type": "Hydraulique 4 pistons",
+      "rotor": "180/203mm",
+      "weight": "425g (paire)",
+      "technology": "4-piston VTT"
     }
   },
   "Deore M6100": {
@@ -1467,6 +1532,13 @@
       "speeds": "12v",
       "weight": "563g",
       "technology": "Hyperglide+"
+    },
+    "brakes": {
+      "partNumber": "BR-M6120",
+      "type": "Hydraulique 4 pistons",
+      "rotor": "180/203mm",
+      "weight": "445g (paire)",
+      "technology": "4-piston VTT"
     }
   },
   "Deore XT M8000": {
@@ -1498,6 +1570,13 @@
       "speeds": "11v",
       "weight": "390g",
       "technology": "Hyperglide"
+    },
+    "brakes": {
+      "partNumber": "BR-M8020",
+      "type": "Hydraulique 4 pistons",
+      "rotor": "180/203mm",
+      "weight": "395g (paire)",
+      "technology": "4-piston VTT"
     }
   },
   "SLX M7000": {
@@ -1522,6 +1601,12 @@
       "speeds": "11v",
       "weight": "465g",
       "technology": "Hyperglide"
+    },
+    "brakes": {
+      "partNumber": "BR-M7000",
+      "type": "Hydraulique 2 pistons",
+      "rotor": "160/180mm",
+      "weight": "320g (paire)"
     }
   },
   "Deore M5100": {
@@ -1547,6 +1632,12 @@
       "speeds": "11v",
       "weight": "534g",
       "technology": "Hyperglide"
+    },
+    "brakes": {
+      "partNumber": "BR-M5100",
+      "type": "Hydraulique 2 pistons",
+      "rotor": "160/180mm",
+      "weight": "340g (paire)"
     }
   },
   "Dura-Ace R9200 (Di2)": {
@@ -1570,6 +1661,13 @@
       "type": "Di2 électronique",
       "chainrings": "2x (double)",
       "capacity": "16T"
+    },
+    "brakes": {
+      "partNumber": "BR-R9270",
+      "type": "Hydraulique à disque",
+      "rotor": "140/160mm",
+      "weight": "335g (paire)",
+      "technology": "Servo Wave"
     }
   },
   "Ultegra R8100 (Di2)": {
@@ -1593,6 +1691,13 @@
       "type": "Di2 électronique",
       "chainrings": "2x (double)",
       "capacity": "16T"
+    },
+    "brakes": {
+      "partNumber": "BR-R8170",
+      "type": "Hydraulique à disque",
+      "rotor": "140/160mm",
+      "weight": "350g (paire)",
+      "technology": "Servo Wave"
     }
   },
   "Dura-Ace 7900 (10v)": {
@@ -1639,6 +1744,12 @@
       "chainrings": "2x (double)",
       "capacity": "16T",
       "type": "Di2 électronique"
+    },
+    "brakes": {
+      "partNumber": "BR-R9110",
+      "type": "Étrier route mécanique",
+      "mounting": "Direct mount",
+      "weight": "150g (avant)"
     }
   },
   "Ultegra 6700 (10v)": {
@@ -1685,6 +1796,12 @@
       "chainrings": "2x (double)",
       "capacity": "14T",
       "type": "Di2 électronique"
+    },
+    "brakes": {
+      "partNumber": "BR-6700",
+      "type": "Étrier route mécanique",
+      "mounting": "Standard",
+      "weight": "165g (avant)"
     }
   },
   "Ultegra 6870 (Di2 11v)": {
@@ -1708,6 +1825,12 @@
       "chainrings": "2x (double)",
       "capacity": "16T",
       "type": "Di2 électronique"
+    },
+    "brakes": {
+      "partNumber": "BR-6810",
+      "type": "Étrier route mécanique",
+      "mounting": "Direct mount",
+      "weight": "160g (avant)"
     }
   },
   "105 R7150 (Di2 11v)": {
@@ -1731,6 +1854,12 @@
       "chainrings": "2x (double)",
       "capacity": "16T",
       "type": "Di2 électronique"
+    },
+    "brakes": {
+      "partNumber": "BR-R7070",
+      "type": "Hydraulique à disque",
+      "rotor": "140/160mm",
+      "weight": "365g (paire)"
     }
   },
   "105 R7170 (Di2 12v)": {
@@ -1754,6 +1883,13 @@
       "chainrings": "2x (double)",
       "capacity": "16T",
       "type": "Di2 électronique"
+    },
+    "brakes": {
+      "partNumber": "BR-R7170",
+      "type": "Hydraulique à disque",
+      "rotor": "140/160mm",
+      "weight": "365g (paire)",
+      "technology": "Servo Wave"
     }
   }
 }
