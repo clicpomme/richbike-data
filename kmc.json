@@ -322,5 +322,44 @@
       "price": "6$",
       "compatibility": "Single speed / 1x"
     }
+  },
+  "X12 TT": {
+    "type": "Chain",
+    "speeds": 12,
+    "model": "TT12 Racing",
+    "technology": "TT Racing - Ultimate Competitor",
+    "features": [
+      "Enhanced Drivetrain Efficiency",
+      "Farther & Faster",
+      "Tailored forging and heat treatment",
+      "Optimal chamfered plates",
+      "Enhanced shifting design",
+      "Light weight components",
+      "Concise rigidity",
+      "MissingLink included (P41 & P42)"
+    ],
+    "size": "1/2\" x 11/128\"",
+    "compatibility": "Shimano/SRAM 12-speed",
+    "finish": "Premium multi-color",
+    "category": "Premium Racing",
+    "awards": "2025 Taiwan Excellence Silver Award"
+  },
+  "X11 TT": {
+    "type": "Chain",
+    "speeds": 11,
+    "model": "TT11 Racing",
+    "technology": "TT Racing - Ultimate Competitor",
+    "features": [
+      "Enhanced Drivetrain Efficiency",
+      "Farther & Faster",
+      "Enhanced shifting design",
+      "Optimal chamfered plates",
+      "Light weight components",
+      "MissingLink included (P41 & P42)"
+    ],
+    "size": "1/2\" x 11/128\"",
+    "compatibility": "Shimano/SRAM 11-speed",
+    "finish": "Premium multi-color",
+    "category": "Premium Racing"
   }
 }
